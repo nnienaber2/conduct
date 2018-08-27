@@ -1,0 +1,1 @@
+> Note: This approach was inspired by [github's approach to site-policy](https://github.com/github/site-policy)
