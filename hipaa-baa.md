@@ -1,4 +1,4 @@
-# Era of Health HIPAA Business Associate Agreement
+# Era of Health HIPAA Business Associate Agreement (BAA)
  
 **Effective date: 1st October 2018**
  
