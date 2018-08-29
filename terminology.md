@@ -14,36 +14,39 @@
 
 ### Changes to this document
 
-[We've](terminology.md#era-of-health) opened this document up for you to amend and contribute to. [We](terminology.md#era-of-health) want you to see its historic revision and contribute to it future revision via a repository. [We](terminology.md#era-of-health) take our relationship with you very serious and want to display nurture trust through transparency. By seeing the past revision you can see our progression of thought over time. By allowing you to post suggestions we are enlisting your help to make improvements to this document in conjunction with our ever-changing world. 
+[We've](terminology.md#era-of-health) opened this document up for [you](terminology.md#user)  to amend and contribute to. [We](terminology.md#era-of-health) want [you](terminology.md#user) to see its historic revision and contribute to it future revision via a repository. [We](terminology.md#era-of-health) take our relationship with [you](terminology.md#user) very serious and want to display nurture trust through transparency. By seeing the past revision [you](terminology.md#user) can see our progression of thought over time. By allowing you to post suggestions [We](terminology.md#era-of-health) are enlisting [your](terminology.md#user) help to make improvements to this document in conjunction with our ever-changing world. 
 
-This document is open to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means we give you permission to copy and re-use this document with our permission. No questions asked.  Note that CC0-1.0 does not grant any trademark permissions.
+This document is open to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means [We](terminology.md#era-of-health) give [you](terminology.md#user) permission to copy and re-use this document with our permission. No questions asked.  Note that CC0-1.0 does not grant any trademark permissions.
 
-Like other repositories, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. [We've](terminology.md#era-of-health) made an issue template to request information that will help us better understand your feedback.
+Like other repositories, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever [you](terminology.md#user) prefer. [We've](terminology.md#era-of-health) made an issue template to request information that will help [Us](terminology.md#era-of-health) better understand [your](terminology.md#user) feedback.
 
-Before you decide to open an issue, browse [open issues] to see current requests. [We](terminology.md#era-of-health) also generally want to hear about: 
+Before [you](terminology.md#user) decide to open an issue, browse [open issues] to see current requests. [We](terminology.md#era-of-health) also generally want to hear about: 
 
 * Typos
 * Clearer wording
 * Other sites that have adapted and reused some of our policies
 
-Open an issue to tell us about any of the above. You may also open a pull request to propose specific changes, but it's always OK to start with an issue.
+Open an issue to tell [Us](terminology.md#era-of-health) about any of the above. [You](terminology.md#user)  may also open a pull request to propose specific changes, but it's always OK to start with an issue.
 
-Issues are best used as a task list, where each issue contains one and only one thing to be addressed, resolved, fixed or decided. So please include only one work item per issue. This helps us know when issues are completed and can be closed. In turn, this helps everyone watching the issues know when the item they're interested in has been resolved.
+Issues are best used as a task list, where each issue contains one and only one thing to be addressed, resolved, fixed or decided. So please include only one work item per issue. This helps [Us](terminology.md#era-of-health) know when issues are completed and can be closed. In turn, this helps everyone watching the issues know when the item they're interested in has been resolved.
 
-If you decide to open a pull request to the master branch, please be aware that it is unlikely that we will merge it directly. It's not because we don't like your ideas, but because we will be opening new draft branches with each round of changes.
+If [you](terminology.md#user) decide to open a pull request to the master branch, please be aware that it is unlikely that [We](terminology.md#era-of-health) will merge it directly. It's not because [We](terminology.md#era-of-health) don't like [your](terminology.md#user) ideas, but because [We](terminology.md#era-of-health) will be opening new draft branches with each round of changes.
 
-At this moment we have an annual review and modification process of the repository and the feedback we received. If changes are not needed, great! [We'll](terminology.md#era-of-health) let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, [Era of Health](terminology.md#era-of-health) may alter this document outside that schedule if necessary, such as when we have new product releases.
+At this moment [We](terminology.md#era-of-health) have an annual review and modification process of the repository and the feedback [We](terminology.md#era-of-health) received. If changes are not needed, great! [We'll](terminology.md#era-of-health) let [you](terminology.md#user) know that [We're](terminology.md#era-of-health) not putting out an update, and [We'll](terminology.md#era-of-health) close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, [Era of Health](terminology.md#era-of-health) may alter this document outside that schedule if necessary, such as when [We](terminology.md#era-of-health) have new product releases.
 
-You can expect that someone from [Era of Health](terminology.md#era-of-health) will see your feedback, but we might not respond immediately. If you need an immediate help on a term, contact help@eraofhealth.com
+[You](terminology.md#user) can expect that someone from [Era of Health](terminology.md#era-of-health) will see [your](terminology.md#user) feedback, but [We](terminology.md#era-of-health) might not respond immediately. If [you](terminology.md#user) need an immediate help on a term, contact help@eraofhealth.com
 
-If changes to the document are needed, we will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input we've gotten. Then we'll post the updated document as a pull request, and we'll get your feedback on the pull request. The updated document will be available here for thirty days before it goes into effect.
+If changes to the document are needed, [We](terminology.md#era-of-health) will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input [We'ev](terminology.md#era-of-health) gotten. Then [We'll](terminology.md#era-of-health) post the updated document as a pull request, and [We'll](terminology.md#era-of-health) get [your](terminology.md#user) feedback on the pull request. The updated document will be available here for thirty days before it goes into effect.
 
-Please don't post complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If you need help, contact help@eraofhealth.com and they'll get you an answer.
+Please don't post complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If [you](terminology.md#user) need help, contact help@eraofhealth.com and they'll get [you](terminology.md#user) an answer.
 
 ---
 
 ### Access Grant
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a grant of one or more access scopes from one user/organization to another
+
+### Account
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, a individual or Organization Account to use [Our](terminology.md#era-of-health) Services. An Account is associated to a single human (13 years or older) or a legal entity and a valid email address. A single human may not have more than one [User](terminology.md#user) Account but can have multiple [Organization](terminology.md#organization) Accounts. [You](terminology.md#user) are responsible for keeping [your](terminology.md#user) [you](terminology.md#user) Account [Personal Information](terminology.md#personal-information) secure and may not share it with multiple people. 
 
 ### Accountable care organizations (ACOs)
 Needs definition
@@ -52,7 +55,7 @@ Needs definition
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available at eraofhealth.com/site/privacy ) and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our Website https://eraofhealth.com/. 
 
 ### Ambulatory care 
-Medical care provided on an outpatient basis. If you are hospitalized it is not ambulatory care. Such as visits to emergency departments resulting in hospital admission, these would be considered emergency medicine visits rather than ambulatory care.
+Medical care provided on an outpatient basis. If [you](terminology.md#user) are hospitalized it is not ambulatory care. Such as visits to emergency departments resulting in hospital admission, these would be considered emergency medicine visits rather than ambulatory care.
 
 Examples:
 - Doctor's offices
@@ -78,18 +81,18 @@ In [Era of Health](terminology.md#era-of-health) Legal documents, this means the
 Also known as an internet bot, web robot, or WWW robot, is a software application that runs automated tasks (scripts) over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
 
 ### Business Associate 
-Generally an entity or person who performs a function involving the use or disclosure of Protected Health Information (PHI) on behalf of a covered entity (such as claims processing, case management, utilization review, quality assurance, billing) or provides services for a covered entity that require the disclosure of [Protected Health Information (PHI)](terminology.md#protected-health-information-phi) (such as legal, actuarial, accounting, accreditation).  
+Generally an entity or person who performs a function involving the use or disclosure of [Protected Health Information (PHI)](terminology.md#protected-health-information-phi) on behalf of a [Covered Entity](terminology.md#covered-entity) (such as claims processing, case management, utilization review, quality assurance, billing) or provides services for a [Covered Entity](terminology.md#covered-entity) that require the disclosure of [Protected Health Information (PHI)](terminology.md#protected-health-information-phi) (such as legal, actuarial, accounting, accreditation).  
 
 In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103, and in all legal document will be specified as "[Era of Health](terminology.md#era-of-health)".
 
 ### Business Associate Agreement (BAA)
-The agreement standard document that clearly defines the roles and responsibilities of a business associate and the covered entity. The other key piece of the Business Associates Agreement is the assurance that businesses will take proper steps to implement the appropriate administrative, physical and technical safeguards.
+The agreement standard document that clearly defines the roles and responsibilities of a business associate ([Era of Health](terminology.md#era-of-health) and the covered entity ([Your Organization](terminology.md#covered-entity). The other key piece of the Business Associates Agreement is the assurance that businesses will take proper steps to implement the appropriate administrative, physical and technical safeguards.
 
 ### Care Gap
 A disparity between health care needs and health care services, esp. as it applies to the medically indigent.
 
 ### Care Plan
-The care plan is a means of communicating and organizing the actions of a constantly changing nursing staff. As the patient's needs are attended to, the updated plan is passed on to the nursing staff at shift change and during nursing rounds. Care plans help teach documentation.
+Is a means of communicating and organizing the actions of a constantly changing nursing staff. As the patient's needs are attended to, the updated plan is passed on to the nursing staff at shift change and during nursing rounds. Care plans help teach documentation.
 Nurse terminology
 
 ### Centers for Medicare & Medicaid Services (CMS) 
@@ -117,7 +120,7 @@ Payors define concurrent care as more than one physician providing care to the s
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a relationship between organization(s) &/or user(s).
 
 ### Content
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to content featured or displayed through the [Website](terminology.md#website), including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the [Website](terminology.md#website) or otherwise available through the Service. "Content" also includes Services. [Your Content](terminology.md#your-content) is Content, written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is Content that you, the [Users](terminology.md#user) create or own. See [Your Content](terminology.md#your-content).
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to content featured or displayed through the [Website](terminology.md#website), including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the [Website](terminology.md#website) or otherwise available through the Service. "Content" also includes Services. [Your Content](terminology.md#your-content) is Content, written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is Content that [You](terminology.md#user), the [Users](terminology.md#user) create or own. See [Your Content](terminology.md#your-content).
 
 ### Continuous Care
 Around the clock care.
@@ -126,13 +129,13 @@ Around the clock care.
 Is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103. It is anyone who provides treatment, payment, and operations in healthcare. It could include a doctor’s office, dental office, clinics, psychologist, nursing home, pharmacy, hospital or home health care agency. This also includes health plans, health insurance companies, [Health Maintenance Organization (HMO)](terminology.md#Health-Maintenance-Organization-HMO), company health plans and government programs that pay for health care. Health clearinghouses are also considered covered entities.
 
 ### Department of Health and Human Services (HHS)
-Also known as the Health Department, is a cabinet-level department of the U.S. federal government with the goal of protecting the health of all Americans and providing essential human services.
+Also known as the Health Department or U.S. Department of Health and Human Services, is a cabinet-level department of the U.S. federal government with the goal of protecting the health of all Americans and providing essential human services.
 
 ### Disclosure
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to the release, transfer, provision of access to, or divulging in any other manner of information outside the entity holding the information.
 
 ### Effective Date
-In [Era of Health](terminology.md#era-of-health) Legal documents, this means the date Your Organization agrees to this [Agreement](terminology.md#agreement) or Policy by creating an Organization account in [Era of Health](terminology.md#era-of-health).
+In [Era of Health](terminology.md#era-of-health) Legal documents, this means the date [Your Organization](terminology.md#coverd-entity) agrees to this [Agreement](terminology.md#agreement) or Policy by creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health).
 
 ### Electronic Medical Records (EMR)
 An electronic health record, or electronic medical record, is the systematized collection of patient and population electronically-stored health information in a digital format. These records can be shared across different healthcare settings.
@@ -150,8 +153,8 @@ It is the electronic form of [Patient-Reported Outcome](terminology.md#patient-r
 ### Era of Health
 Sometimes refereed to as “We,” and “Us”. In Era of Health Legal documents, this refers to "Era of Health, Inc.", as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees. 
 
-### Family Educational Rights and Privacy Act of 1974 (FERPA) 
-A federal legislation in the United States that protects the privacy of students' [Personally Identifiable Information (PII)](terminology.md#persaonlly-identifiable-information-pii). The act applies to all educational institutions that receive federal funds.
+### Family Educational Rights and Privacy Act (FERPA) 
+A federal legislation in the United States established in 1974, that protects the privacy of students' [Personally Identifiable Information (PII)](terminology.md#persaonlly-identifiable-information-pii). The act applies to all educational institutions that receive federal funds.
 
 ### HealthCare.gov
 Needs definition.
@@ -180,7 +183,7 @@ Information technology applied to health and health care. It supports health inf
 Is a health insurance provider with a network of contracted healthcare providers and facilities. Subscribers pay a fee for access to services within the HMO's network.
 
 ### HHS
-See Department of Health and Human Services 
+See [Department of Health and Human Services](terminology.md#department-of-health-and-human-services) 
 
 ### HIPAA Rules
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers the Privacy, Security, Breach Notification, and Enforcement Rules as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 160 and Part 164.
@@ -197,7 +200,7 @@ See [Access Grant](terminology.md#access-grant), [Connection](terminology.md#con
 ### Legal Terminology
 See [Agreement](terminology.md#agreement), [Breach](terminology.md#breach), [Business Associate](terminology.md#business-associate), [Business Associate Agreement (BAA)](terminology.md#business-associate-agreement-baa), [Content](terminology.md#content), [Covered Entity](terminology.md#covered-entity), [Disclosure](terminology.md#disclosure), [Effective Date](terminology.md#effective-date), [Era of Health](terminology.md#era-of-health), [Information](terminology.md#information), [HIPAA Rules](terminology.md#HIPAA-rules), [Organization](terminology.md#organization), [Personal Information](terminology.md#personal-information), [Protected Health Information (PHI)](terminology.md#protected-health-information-phi), [Service](terminology.md#service), [Unsecured Protected Health Information](terminology.md#Unsecured-Protected-Health-Information), [User](terminology.md#user), [Website](terminology.md#website).
 
-### Longitudinal  data
+### Longitudinal  Data
 Information gathered over time. 
 
 ### Medical Chronology
@@ -209,7 +212,7 @@ http://samples.jbpub.com/9781449652722/9781449645106_CH02_037_064.pdf
 A chronological written account of a patient's examination and treatment that includes the patient's medical history and complaints, the physician's physical findings, the results of diagnostic tests and procedures, and medications and therapeutic procedures.
 https://en.wikipedia.org/wiki/Medical_record 
 
-### Moral rights
+### Moral Rights
 Are the rights of creators of copyrighted works. Moral rights are distinct from any economic rights tied to copyrights. Even if a creator has assigned their copyright rights to a third party, they maintain the moral rights to the work. They include the right of integrity and attribution unless waived. 
 
 ### National Health Information Infrastructure (NHII)
@@ -221,7 +224,7 @@ The nationwide health information network known as NwHIN is a set of standards, 
 ### Organization 
 In [Era of Health](terminology.md#era-of-health) Legal documents, or while using or working with our API, this refers to any individual or group that created an Organization account in [Era of Health](terminology.md#era-of-health).
 
-### Outcome based care
+### Outcome Based Care
 working off outcome data to provide better care. Healthcare reform efforts that hope to foster value-based care should be based on patient outcomes instead of provider processes.
 
 ### Outpatient Care 
@@ -261,7 +264,7 @@ CMS's initiative to support better care coordination for patients with chronic i
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about one of our users which could, alone or together with other information, be used to identify the user. Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
 ### Personal Health Information
-See [Protected Health Information (PHI)](Terminology.md#Protected-Health-Information-PHI)
+See [Protected Health Information (PHI)](terminology.md#Protected-Health-Information-PHI)
 
 ### Personally Identifiable Information (PII)
 Needs definition
@@ -272,7 +275,7 @@ Needs definition
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a user involved in providing care in a professional capacity. 
 
 ### Protected Health Information (PHI)
-Sometimes called ["Personal" Health Information](Terminology.md#personla-health-information). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that we receive from a [User](terminology.md#user) or an Organization. It is information on a users past, present, or future physical or mental health condition, tests, results, provision, or payment, and could be used to identify the user.
+Sometimes called ["Personal" Health Information](terminology.md#personla-health-information). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a users past, present, or future physical or mental health condition, tests, results, provision, or payment, and could be used to identify the user.
 
 ### Public Health Service Act (PHSA)
 Needs definition.
@@ -298,16 +301,19 @@ An EMR or ePHR that uses the data to give recommendations.
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to the applications, software, products, and services provided by [Era of Health](terminology.md#era-of-health).
 
 ### Supportive Care
-See [Palliative Care](Terminology.md#palliative)
+See [Palliative Care](terminology.md#palliative)
 
 ### Unsecured Protected Health Information
 Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
+
+## U.S. Department of Health and Human Services
+See [Department of Health and Human Services](terminology.md#department-of-health-and-human-services) 
 
 ### User
 Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths] (terminology.md#era-of-health)services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
 
 ### Your Content
-Sometimes called "User-Generated Content". It is Content, written or otherwise, created or uploaded by our [Users](terminology.md#user)s. "Your Content" is [Content](Terminoloy.md#content) that you create or own.
+Sometimes called "User-Generated Content". It is Content, written or otherwise, created or uploaded by our [Users](terminology.md#user)s. "Your Content" is [Content](Terminoloy.md#content) that [You](terminology.md#user)u create or own.
 
 ### Value-Based Care
 [Accountable care organizations (ACOs)](terminology.md#accountable-care-organizations-acos) were originally designed by the [Centers for Medicare & Medicaid Services (CMS)](terminology.md#Centers-for-Medicare-&-Medicaid-Services-CMS) to provide high-quality medical care to Medicare patients. In an ACO, doctors, hospitals, and other healthcare providers work as a networked team to deliver the best possible coordinated care at the lowest possible cost. Each member of the team shares both risk and reward, with incentives to improve access to care, quality of care, and patient health outcomes while reducing costs. This approach differs from fee-for-service health care, in which individual providers are incentivized to order more tests and procedures and manage more patients in order to get paid more, regardless of patient outcomes.
@@ -318,4 +324,3 @@ Like PCMHs, ACOs are patient-centered organizations in which the patient and pro
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to [Era of Health's](terminology.md#era-of-health) website located at eraofhealth.com, and all content, services, and products provided by [Era of Health](terminology.md#era-of-health) at or through the Website. It also refers to [Era of Health](terminology.md#era-of-health)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#era-of-health) product websites with [Era of Health](terminology.md#era-of-health) copyright in the footer.
 
 Occasionally, websites owned by [Era of Health](terminology.md#era-of-health) may provide different or additional user agreements. If those conflict with this Agreement, the more specific terms apply to the relevant page or service.
-
