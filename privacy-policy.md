@@ -28,8 +28,8 @@ You can reach this person by email help@eraofhealth.com or call 1-650-399-3145
 
 If you deactivate your account, a practitioner or organization can keep information they have contributed if they give a good reason. 
 We comply with HIPPA security requirements. 
-If we suspect a breach of our website or application and your information we will let you know. 
-You can 1-650-399-3145 (**NEEDS TO BE A 1-800**)if you want to find out if you have been affected by any breach.
+If we suspect a [Breach](terminology.md#breach) of our [Website](terminology.md#website) or application and your information we will let you know. 
+You can 1-650-399-3145 (**NEEDS TO BE A 1-800**)if you want to find out if you have been affected by any [Breach](terminology.md#breach).
 
 ?? You can amend your data at any time.
 ?? You can access a full discloser of your information history at any time. 
@@ -40,12 +40,12 @@ You can 1-650-399-3145 (**NEEDS TO BE A 1-800**)if you want to find out if you h
 ---
 
 ## What information Era of Health collects and why information from website browsers 
-If you're just browsing the website or mobile app, we collect the same basic information that most websites and apps collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
+If you're just browsing the [Website](terminology.md#website) or mobile app, we collect the same basic information that most websites and apps collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
 
-The information we collect about all visitors to our website and the mobile app includes the visitor’s browser type, language preference, referring site, additional requested, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
+The information we collect about all visitors to our [Website](terminology.md#website) and the mobile app includes the visitor’s browser type, language preference, referring site, additional requested, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
 
 ## Why do we collect this?
-We collect this information to better understand how our website visitors use Era of Health and to monitor and protect the security of the website and mobile app. 
+We collect this information to better understand how our [Website](terminology.md#website) visitors use Era of Health and to monitor and protect the security of the [Website](terminology.md#website) and mobile app. 
 
 ## Information from users with accounts
 If you create an account, we require some basic information at the time of account creation. You will create your own password, and we will ask you for a valid email account and phone number. You also have the option to give us more information if you want to, and this may include "Protected Health Information."
@@ -58,7 +58,7 @@ An "Organization" is any individual or group that created an Organization accoun
 
 User "Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as an email and password, a real name, and a photograph are examples of “Personal Information.”
 
-User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our w[Website](terminology.md#website) and service.
 
 We may use and/or disclose Protected Health Information in the same manner as Personal Information, as described above.  Additional uses or disclosures of Personal Health Information shall require the Patient’s authorization or a valid authorization on the Patient’s behalf.
 
@@ -136,13 +136,13 @@ In particular:
 
 * Era of Health provides clear methods of unambiguous, informed consent at the time of data collection when we do collect your personal data.
 
-* We collect only the minimum amount of personal data necessary unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
+* [We](terminology.md#era-of-health) collect only the minimum amount of personal data necessary unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
 
-* We offer you simple methods of accessing, correcting or deleting the data we have collected.
+* [We](terminology.md#era-of-health) offer you simple methods of accessing, correcting or deleting the data we have collected.
 
-* We provide our users notice, choice, accountability, security, and access, and we limit the purpose for processing.  
+* [We](terminology.md#era-of-health) provide our users notice, choice, accountability, security, and access, and we limit the purpose for processing.  
 
-* We also provide our users with a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
+* [We](terminology.md#era-of-health) also provide our users with a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
 
 Era of Health operates as a data Processor and adheres to General Data Privacy Regulation (GDPR). In this limited role, Era of Health acts under the authority and instruction of Data Controllers who define the purpose and control the use of personal data. Data Controllers can: 
 * processes personal data only in agreement with the Controller;
@@ -152,7 +152,7 @@ Era of Health operates as a data Processor and adheres to General Data Privacy R
 Era of Health adheres to the Privacy Shield Framework. You may view our entry in the Privacy Shield List. In addition to providing our user's methods of unambiguous, informed consent and control over their data, we participate in and comply with the Privacy Shield framework, and we are committed to subject any of your Information we receive from the EU and EEA to the Privacy Shield Principles. In addition, we continue to participate in the Safe Harbor Framework for Swiss data transfers to the US. 
 
 ## Resolving Complaints
-If you have concerns about the way Era of Health is handling your Information, please let us know immediately. We want to help. You may email us directly at help@eraofhealth.com with the subject line "Privacy Concerns." We will respond within 45 days at the latest.
+If you have concerns about the way Era of Health is handling your Information, please let us know immediately. [We](terminology.md#era-of-health) want to help. You may email us directly at help@eraofhealth.com with the subject line "Privacy Concerns." [We](terminology.md#era-of-health) will respond within 45 days at the latest.
 
 ## Dispute Resolution Process
 In the unlikely event that a dispute arises between you and Era of Health regarding our handling of your Information, we will do our best to resolve it in a arbitration.
@@ -166,26 +166,26 @@ In complying with court orders and similar legal processes, Era of Health strive
 If you're already an Era of Health user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting Era of Health Support.
 
 ## Data Retention and Deletion
-We may retain certain Information indefinitely unless you request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to request we delete your account, we will retain your account information indefinitely.
+[We](terminology.md#era-of-health) may retain certain Information indefinitely unless you request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to request we delete your account, we will retain your account information indefinitely.
 
-If you would like to deactivate your account or delete your Information, you may do so in your user profile. We will retain and use your Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If you would like to deactivate your account or delete your Information, you may do so in your user profile. [We](terminology.md#era-of-health) will retain and use your Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## How we communicate with you
-We will use your email address, phone or text messaging to communicate with you if you've said that's okay, and only for the reasons you’ve said that’s okay. You may manage your communication preferences in your user profile.
+[We](terminology.md#era-of-health) will use your email address, phone or text messaging to communicate with you if you've said that's okay, and only for the reasons you’ve said that’s okay. You may manage your communication preferences in your user profile.
 
-Depending on your email, phone and text messaging settings, Era of Health may occasionally send notification emails, automated voicemails or text messages. We also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
+Depending on your email, phone and text messaging settings, Era of Health may occasionally send notification emails, automated voicemails or text messages. [We](terminology.md#era-of-health) also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
 
-Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we’re not sending you unwanted email. If you prefer not to receive pixel tags, please opt out of marketing emails.
+Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. [We](terminology.md#era-of-health) use this pixel tag to make our email more effective for you and to make sure we’re not sending you unwanted email. If you prefer not to receive pixel tags, please opt out of marketing emails.
 
 ## Q. Changes to this Privacy Policy
 
-We've opened this Privacy Policy up for you to amend and contribute to. We want you to see its historic revision and contribute to it future revision via a repository. We take our relationship with you very serious and want to display nurture trust through transparency. By seeing the past revision you can see our progression of thought over time. By allowing you to post suggestions we are enlisting your help to make improvements to this Privacy Policy in conjunction with our ever-changing world. 
+[We've](terminology.md#era-of-health) opened this Privacy Policy up for you to amend and contribute to. [We](terminology.md#era-of-health) want you to see its historic revision and contribute to it future revision via a repository. [We](terminology.md#era-of-health) take our relationship with you very serious and want to display nurture trust through transparency. By seeing the past revision you can see our progression of thought over time. By allowing you to post suggestions we are enlisting your help to make improvements to this Privacy Policy in conjunction with our ever-changing world. 
 
 This Privacy Policy is open to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means we give you permission to copy and re-use this Privacy Policy with our permission. No questions asked.  Note that CC0-1.0 does not grant any trademark permissions.
 
-Like other repositories, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. We've made an issue template to request information that will help us better understand your feedback.
+Like other repositories, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. [We've](terminology.md#era-of-health) made an issue template to request information that will help us better understand your feedback.
 
-Before you decide to open an issue, browse [open issues] to see current requests. We also generally want to hear about: 
+Before you decide to open an issue, browse [open issues] to see current requests. [We](terminology.md#era-of-health) also generally want to hear about: 
 
 * International issues with our policies
 * Typos
@@ -199,16 +199,16 @@ Issues are best used as a task list, where each issue contains one and only one 
 
 If you decide to open a pull request to the master branch, please be aware that it is unlikely that we will merge it directly. It's not because we don't like your ideas, but because we will be opening new draft branches with each round of changes.
 
-At this moment we have an annual review and modification process of the repository and the feedback we received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, Era of Health may alter this Privacy Policy outside that schedule if necessary, such as when we have new product releases.
+At this moment we have an annual review and modification process of the repository and the feedback we received. If changes are not needed, great! [We'll](terminology.md#era-of-health) let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, Era of Health may alter this Privacy Policy outside that schedule if necessary, such as when we have new product releases.
 
 You can expect that someone from Era of Healths legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, contact help@eraofhealth.com
 
-If changes to a policy are needed, we will freeze feedback for two weeks. We'll draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
+If changes to a policy are needed, we will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
 
 **NOTE:** 
-Please don't post legal complaints or ask for technical support in this repository. We may not respond to issues or comments promptly. If you need help, contact help@eraofhealth.com and they'll get you an answer.
+Please don't post legal complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If you need help, contact help@eraofhealth.com and they'll get you an answer.
 
-Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
+Please avoid hypotheticals. [We](terminology.md#era-of-health) can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. [We](terminology.md#era-of-health) also can't tell you what you should or shouldn't do. [We](terminology.md#era-of-health) can tell you how we interpret our policies.
 
 Please don't give other users legal advice in this repository, to avoid confusion.
 
