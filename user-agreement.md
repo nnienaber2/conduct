@@ -24,7 +24,7 @@ You own the content you post on Era of Health. However, you have some responsibi
 This section talks about how Era of Health will treat the content you post in an Organization. 
 
 ### F. Intellectual Property Notice
-This describes Era of Health's rights in the website and service. 
+This describes Era of Health's rights in the [Website](terminology.md#website) and service. 
 
 ### G. API
 These are the rules for using Era of Health's APIs, whether you are using the API for development or data collection. 
