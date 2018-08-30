@@ -1,11 +1,11 @@
 ## Conduct on Era of Health
-We created this repository as a place for [Users](terminology.md#users) to fork, contribute to, and provide feedback on our policies, procedures and agreements (Collectively know as "[Conduct Documents](terminology.md#conduct-documents)") that govern the use of [Era of Health](terminology.md#era-of-health). While this is our official repository of open-sourced [Conduct Documents](terminology.md#conduct-documents), it may not reflect the exact policies that are live on [Era of Health's](terminology.md#era-of-health) Website or app, because this site is updated separately.
+We created this repository as a place for [Users](terminology.md#users) to fork, contribute to, and provide feedback on our policies, procedures and agreements (collectively know as "[Conduct Documents](terminology.md#conduct-documents)") that govern the use of [Era of Health](terminology.md#era-of-health). While this is our official repository of open-sourced [Conduct Documents](terminology.md#conduct-documents), it may not reflect the exact policies that are live on [Era of Health's](terminology.md#era-of-health) Website or app, because this site is updated separately.
 
 ### What can I do here?
 
 #### First, you can use and adapt our policies! 
 
-We are proud to offerthis repository under [CC0-1.0](#license). That means that if it is useful to you, even in part, you're welcome to use it, without restriction. Of course, keep in mind that we wrote these as they apply to Era of Health, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
+We are proud to offer this repository under [CC0-1.0](#license). That means that if it is useful to you, even in part, you're welcome to use it, without restriction. Of course, keep in mind that we wrote these as they apply to Era of Health, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
 
 Because we are providing these policies to our community, we believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use our policies to see the discussions and alterations that have gone into them.
 
