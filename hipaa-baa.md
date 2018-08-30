@@ -2,7 +2,7 @@
  
 **Effective date: 1st October 2018**
  
-*Thank you for using [Era of Health](Terminology.md#era-of-health)! We're happy you're here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health organization account. You have indicated your agreement to this HIPAA Associate Agreement by creating an account. By creating an Organization account in [Era of Health](Terminology.md#era-of-health), You agree you have read, understood, and agree to the terms above on the date the account is created. *
+*Thank you for using [Era of Health](Terminology.md#era-of-health)! We're happy you're here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health organization account. You have indicated your agreement to this HIPAA Associate Agreement by creating an account. By creating an Organization account in [Era of Health](Terminology.md#era-of-health), You agree you have read, understood, and agree to the terms above on the date the account is created.*
  
 *Because it is such an important agreement between us and the organizations that use us, we have tried to make it as clear as possible. For your convenience, we have presented a short non-binding summary of this agreement followed by the full legal terms. In addition, we have included in each section a "short version" followed by the full legal version.*
  
