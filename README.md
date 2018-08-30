@@ -15,7 +15,7 @@ We host collaborative development on Era of Health's [Conduct Documents](termino
 
 ### That seems like great power! What about the great responsibility?
 
-That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.md), and help us maintain a respectful environment for all contributors.
+That's easy: just be responsible. We require all Users to follow [The Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct), and help us maintain a respectful environment for all contributors.
 
 #### There are a few things you should _not_ post in this repository:
 
