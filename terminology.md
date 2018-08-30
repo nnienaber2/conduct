@@ -116,6 +116,9 @@ Needs definition.
 ### Concurrent Care Plans
 Payors define concurrent care as more than one physician providing care to the same patient on the same date, or during the same hospitalization.
 
+### Conduct Documents
+Needs definition
+
 ### Connection
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a relationship between organization(s) &/or user(s).
 
