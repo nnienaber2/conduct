@@ -96,7 +96,7 @@ Is a means of communicating and organizing the actions of a constantly changing 
 Nurse terminology
 
 ### Centers for Medicare & Medicaid Services (CMS) 
-Previously known as the Health Care Financing Administration (HCFA), is a federal agency within the United States Department of Health and Human Services (HHS) that administers the Medicare program and works in partnership with state governments to administer Medicaid, the [Children's Health Insurance Program (CHIP)](terminology.md#Children's-Health-Insurance-Program-CHIP), and health insurance portability standards. In addition to these programs, CMS has other responsibilities, including the administrative simplification standards from the Health Insurance Portability and Accountability Act of 1996 (HIPAA), quality standards in long-term care facilities (more commonly referred to as nursing homes) through its survey and certification process, clinical laboratory quality standards under the [Clinical Laboratory Improvement Amendments](terminology.md#Clinical-Laboratory-Improvement-Amendments), and oversight of [HealthCare.gov](terminology.md#healthcare.gov). 
+Previously known as the [Health Care Financing Administration (HCFA)](terminology.md#Health-Care-Financing-Administration-HCFA), is a federal agency within the [United States Department of Health and Human Services (HHS)](terminology.md#Department-of-Health-and-Human-Services-HHS) that administers the [Medicare](terminology.md#medicare) program and works in partnership with state governments to administer [Medicaid](terminology.md#medicaid), the [Children's Health Insurance Program (CHIP)](terminology.md#Children's-Health-Insurance-Program-CHIP), and [health insurance portability standards](terminology.md#health-insurance-portability-standards). In addition to these programs, CMS has other responsibilities, including the administrative simplification standards from the [Health Insurance Portability and Accountability Act of 1996 (HIPAA)](terminology.md#Healthcare-Insurance-Portability-and-Accountability-Act-HIPAA), quality standards in long-term care facilities (more commonly referred to as nursing homes) through its survey and certification process, clinical laboratory quality standards under the [Clinical Laboratory Improvement Amendments](terminology.md#Clinical-Laboratory-Improvement-Amendments), and oversight of [HealthCare.gov](terminology.md#healthcare.gov). 
 
 ### Certification Commission for Healthcare Information Technology (CCHIT)
 An independent, not-for-profit group that certifies [Electronic Health Records (EHR)](terminology.md#electronic-health-records-EHR) and networks for [Health Information Exchange (HIE)](terminology.md#health-information-exchange-hie) in the United States.
@@ -179,6 +179,9 @@ A nonprofit organization that works to optimize the use of technologies in a hea
 ### Health Information Technology (HIT) 
 Information technology applied to health and health care. It supports health information management across computerized systems and the secure exchange of health information between consumers, providers, payers, and quality monitors.
 
+### Health Insurance Portability Standards
+Needs definition
+
 ### Health Maintenance Organization (HMO)
 Is a health insurance provider with a network of contracted healthcare providers and facilities. Subscribers pay a fee for access to services within the HMO's network.
 
@@ -211,6 +214,12 @@ http://samples.jbpub.com/9781449652722/9781449645106_CH02_037_064.pdf
 ### Medical Records
 A chronological written account of a patient's examination and treatment that includes the patient's medical history and complaints, the physician's physical findings, the results of diagnostic tests and procedures, and medications and therapeutic procedures.
 https://en.wikipedia.org/wiki/Medical_record 
+
+### Medicaid
+Need definition
+
+### Medicare
+Need definition
 
 ### Moral Rights
 Are the rights of creators of copyrighted works. Moral rights are distinct from any economic rights tied to copyrights. Even if a creator has assigned their copyright rights to a third party, they maintain the moral rights to the work. They include the right of integrity and attribution unless waived. 
@@ -306,7 +315,7 @@ See [Palliative Care](terminology.md#palliative)
 ### Unsecured Protected Health Information
 Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
 
-## U.S. Department of Health and Human Services
+### U.S. Department of Health and Human Services
 See [Department of Health and Human Services](terminology.md#department-of-health-and-human-services) 
 
 ### User
@@ -318,9 +327,9 @@ Sometimes called "User-Generated Content". It is Content, written or otherwise, 
 ### Value-Based Care
 [Accountable care organizations (ACOs)](terminology.md#accountable-care-organizations-acos) were originally designed by the [Centers for Medicare & Medicaid Services (CMS)](terminology.md#Centers-for-Medicare-&-Medicaid-Services-CMS) to provide high-quality medical care to Medicare patients. In an ACO, doctors, hospitals, and other healthcare providers work as a networked team to deliver the best possible coordinated care at the lowest possible cost. Each member of the team shares both risk and reward, with incentives to improve access to care, quality of care, and patient health outcomes while reducing costs. This approach differs from fee-for-service health care, in which individual providers are incentivized to order more tests and procedures and manage more patients in order to get paid more, regardless of patient outcomes.
 
-Like PCMHs, ACOs are patient-centered organizations in which the patient and providers are true partners in care decisions. Also like PCMHs, ACOs stress coordination and data sharing among team members to help achieve these goals among their entire patient population. Clinical and claims data are also shared with payers to demonstrate improvements in outcomes such as hospital readmissions, adverse events, patient engagement, and population health.
+ Like PCMHs, ACOs are patient-centered organizations in which the patient and providers are true partners in care decisions. Also like PCMHs, ACOs stress coordination and data sharing among team members to help achieve these goals among their entire patient population. Clinical and claims data are also shared with payers to demonstrate improvements in outcomes such as hospital readmissions, adverse events, patient engagement, and population health.
 
 ### Website 
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to [Era of Health's](terminology.md#era-of-health) website located at eraofhealth.com, and all content, services, and products provided by [Era of Health](terminology.md#era-of-health) at or through the Website. It also refers to [Era of Health](terminology.md#era-of-health)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#era-of-health) product websites with [Era of Health](terminology.md#era-of-health) copyright in the footer.
 
-Occasionally, websites owned by [Era of Health](terminology.md#era-of-health) may provide different or additional user agreements. If those conflict with this Agreement, the more specific terms apply to the relevant page or service.
+ Occasionally, websites owned by [Era of Health](terminology.md#era-of-health) may provide different or additional user agreements. If those conflict with this Agreement, the more specific terms apply to the relevant page or service.
