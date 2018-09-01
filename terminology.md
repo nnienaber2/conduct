@@ -195,7 +195,7 @@ See [Department of Health and Human Services](terminology.md#department-of-healt
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers the Privacy, Security, Breach Notification, and Enforcement Rules as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 160 and Part 164.
 
 ### HITECH
-See [Health Information Technology for Economic and Clinical Health (HITECH)](terminology.md#Health-Information-Technology-for-Economic-and-Clinical-Health-HITECH).
+See [Health Information Technology for Economic and Clinical Health (HITECH)](terminology.md#health-information-technology-for-economic-and-clinical-health-hitech).
 
 ### Information
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to both “[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)”, and "[Personal Information](terminology.md#personal-information)".
@@ -313,7 +313,7 @@ An EMR or ePHR that uses the data to give recommendations.
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to the applications, software, products, and services provided by [Era of Health](terminology.md#era-of-health).
 
 ### Supportive Care
-See [Palliative Care](terminology.md#palliative)
+See [Palliative Care](terminology.md#palliative-care)
 
 ### Unsecured Protected Health Information
 Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
