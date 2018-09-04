@@ -1,5 +1,5 @@
 ## Conduct on Era of Health
-We created this repository as a place for [Users](terminology.md#users) to fork, contribute to, and provide feedback on our policies, procedures and agreements (collectively know as "[Conduct Documents](terminology.md#conduct-documents)") that govern the use of [Era of Health](terminology.md#era-of-health). While this is our official repository of open-sourced [Conduct Documents](terminology.md#conduct-documents), it may not reflect the exact policies that are live on [Era of Health's](terminology.md#era-of-health) Website or app, because this site is updated separately.
+We created this repository as a place for [Users](terminology.md#users) to fork, contribute to, and provide feedback on our policies, procedures and agreements (collectively know as "[Conduct Documents](terminology.md#conduct-documents)") that govern the operation and use of [Era of Health](terminology.md#era-of-health). While this is our official repository of open-sourced [Conduct Documents](terminology.md#conduct-documents), it may not reflect the exact policies that are live on [Era of Health's](terminology.md#era-of-health) Website or app, because this site is updated separately.
 
 ### What can I do here?
 
