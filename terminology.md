@@ -194,6 +194,9 @@ Is a health insurance provider with a network of contracted healthcare providers
 ### HHS
 See [Department of Health and Human Services](terminology.md#department-of-health-and-human-services) 
 
+### HIPAA
+See [Healthcare Insurance Portability and Accountability Act (HIPAA)])terminology.md#-Healthcare-Insurance-Portability-and-Accountability-Act-HIPAA)
+
 ### HIPAA Rules
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers the Privacy, Security, Breach Notification, and Enforcement Rules as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 160 and Part 164.
 
@@ -250,6 +253,11 @@ The nationwide health information network known as NwHIN is a set of standards, 
 ### Organization 
 In [Era of Health](terminology.md#era-of-health) Legal documents, or while using or working with our API, this refers to any individual or group that created an Organization account in [Era of Health](terminology.md#era-of-health).
 
+### Organization Information
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about an [Organization](terminology.md#organization) such as an an [Oraginzation Member's](terminology.md#organization-member) real namee, mail and password, or employee record. Organization Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+
+### Oraginzation Member
+
 ### Outcome Based Care
 working off outcome data to provide better care. Healthcare reform efforts that hope to foster value-based care should be based on patient outcomes instead of provider processes.
 
@@ -264,7 +272,6 @@ While using [Era of Health](terminology.md#era-of-health)h or working with our A
 
 ### Patient Check-in
 Patient check-in is the process where patients check-in to begin their registration with the healthcare facility topically using a clipboard, electronic tablet, touch screen, kiosk, or some other method, sometimes self-service. Patient check-in started as far back as the Roman times when patients would wait for special services in purpose-built hospitals. Romans were the first to have hospitals with doctors assigned to consult and observe patients. Prior to the Romans, many cultures such as the Greeks relied on temples and the Gods to cure through supernatural forces. As patient services were made more available, so was the need to have some method of tracking patients as they arrived.
-https://en.wikipedia.org/wiki/Patient_check-in 
 
 ### Patient Diary
 An electronic patient diary registers the data in a storage device and allows for automatically monitoring the time the entry was made.
@@ -272,7 +279,7 @@ Frequent recording of symptoms using a diary helps to reduce recall bias. Electr
 Patient diaries are also a way to find out if a patient takes the medication according to the treatment schedule, which is an important problem during clinical trials and the treatment of degenerative diseases with relatively few symptoms.
 
 ### Patient Protection and Affordable Care Act
-https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act 
+needs definition.
 
 ### Patient-Reported Outcome (PRO)
 This is a health outcome directly reported by the patient who experienced it. It stands in contrast to an outcome reported by someone else, such as a physician-reported outcome, a nurse-reported outcome, and so on. PRO methods, such as questionnaires, are used in clinical trials or other clinical settings, to help better understand a treatment's efficacy. The use of digitized PROs, or electronic patient-reported outcomes (ePROs), is on the rise in today's health research industry.
