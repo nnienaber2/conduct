@@ -51,6 +51,9 @@ In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, a
 ### Accountable care organizations (ACOs)
 Needs definition
 
+### Activities of daily living (ADLs) 
+Is a term used in healthcare to refer to people's daily self care activities. Practitioners often use a person's ability or inability to perform ADLs as a measurement of their functional status, particularly in regard to people post injury, with disabilities and the elderly. Common ADLs include feeding ourselves, bathing, dressing, grooming, work, homemaking, cleaning oneself after defecating and leisure. See [Instrumental activities of daily living (IADLs)](terminology.md#Instrumental-activities-of-daily-living-IADLs) for explaination on what let an individual acheive ADLs.
+
 ### Agreement
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available at eraofhealth.com/site/privacy ) and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our Website https://eraofhealth.com/. 
 
@@ -199,6 +202,17 @@ See [Health Information Technology for Economic and Clinical Health (HITECH)](te
 
 ### Information
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to both “[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)”, and "[Personal Information](terminology.md#personal-information)".
+
+### Instrumental activities of daily living (IADLs) 
+Are not necessary for fundamental functioning, but they let an individual live independently in a community by aheiving [Activities of daily living (ADLs)](terminology.md#activites-of-daily-living-adls).
+
+* Cleaning and maintaining the house
+* Managing money
+* Moving within the community
+* Preparing meals
+* Shopping for groceries and necessities
+* Taking prescribed medications
+* Using the telephone or other form of communication
 
 ### Internal Terminology
 See [Access Grant](terminology.md#access-grant), [Connection](terminology.md#connection), [User](terminology.md#user), [Organization](terminology.md#organization), [Patient](terminology.md#patient), [Practitioner](terminology.md#practitioner).
