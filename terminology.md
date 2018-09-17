@@ -195,7 +195,7 @@ Is a health insurance provider with a network of contracted healthcare providers
 See [Department of Health and Human Services](terminology.md#department-of-health-and-human-services) 
 
 ### HIPAA
-See [Healthcare Insurance Portability and Accountability Act (HIPAA)])terminology.md#-Healthcare-Insurance-Portability-and-Accountability-Act-HIPAA)
+See [Healthcare Insurance Portability and Accountability Act (HIPAA)](terminology.md#Healthcare-Insurance-Portability-and-Accountability-Act-HIPAA)
 
 ### HIPAA Rules
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers the Privacy, Security, Breach Notification, and Enforcement Rules as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 160 and Part 164.
