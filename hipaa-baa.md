@@ -99,7 +99,7 @@ Era of Health and Your Organization (for the remainder of the document they will
 [Era of Health](Terminology.md#era-of-health) will carry out [Your Organization's](Terminology.md#covered-entity) obligation under the [HIPAA Rules](Terminology.md#HIPAA-rules), require Era of Health to comply with the requirements applicable to the obligation.
 
 ### 7. Your Organization Health & Human Services (HHS) Compliance
-[Era of Health](Terminology.md#era-of-health) will make available to the [Department of Health and Human Services (HHS)](https://github.com/eraofhealth/conduct/blob/master/terminology.md#department-of-health-and-human-services-hhs) its internal practices, books, and records relating to the use and disclosure of protected health information received from, or created, or received by the [Era of Health](Terminology.md#era-of-health) on behalf of, [Your Organization](Terminology.md#covered-entity) for purposes of U.S. Department of Health & Human Services (HHS) determining [Your Organization's](Terminology.md#covered-entity) compliance with the [HIPAA Rules](Terminology.md#HIPAA-rules)s.
+[Era of Health](Terminology.md#era-of-health) will make available to the [Department of Health and Human Services (HHS)](https://github.com/eraofhealth/conduct/blob/master/terminology.md#department-of-health-and-human-services-hhs) its internal practices, books, and records relating to the use and disclosure of protected health information received from, or created, or received by the [Era of Health](Terminology.md#era-of-health) on behalf of, [Your Organization](Terminology.md#covered-entity) for purposes of [Department of Health and Human Services (HHS)](https://github.com/eraofhealth/conduct/blob/master/terminology.md#department-of-health-and-human-services-hhs) determining [Your Organization's](Terminology.md#covered-entity) compliance with the [HIPAA Rules](Terminology.md#HIPAA-rules)s.
 
 
 ## C. Responsibilities of Your Organization
@@ -138,7 +138,7 @@ If you Deactivate [Your Organization's](Terminology.md#covered-entity) account, 
 Upon termination of this [Agreement](Terminology.md#agreement) for any reason, [Era of Health](Terminology.md#era-of-health) shall destroy all [Your Organization](Terminology.md#covered-entity) Information not necessary for [Era of Health](Terminology.md#era-of-health) to continue its proper management and administration or to carry out its legal responsibilities. If destroying the [Your Organizations](Terminology.md#covered-entity) Information is not possible, [Era of Health](Terminology.md#era-of-health) will provide [Your Organization](Terminology.md#covered-entity) notification of this and the reason for such. [Era of Health](Terminology.md#era-of-health) Inc will remain bound by the provisions of this [Agreement](Terminology.md#agreement) even after termination, until such time as all Information has been returned or is destroyed.
 
 ### 4. Survival 
-The obligations of Business Associate under this Section 5 shall survive the termination of this [Agreement](Terminology.md#agreement) and remain in force as long as Business Associate stores or maintains PHI in any form or format.
+The obligations of [Business Associate](Terminology.md#business-associate) under this Section 5 shall survive the termination of this [Agreement](Terminology.md#agreement) and remain in force as long as [Business Associate](Terminology.md#business-associate) stores or maintains [Protected Health Information (PHI)](Terminology.md#protected-health-information-phi) in any form or format.
 
 ## E. General Provisions
 
