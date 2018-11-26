@@ -99,7 +99,7 @@ Era of Health and Your Organization (for the remainder of the document they will
 [Era of Health](Terminology.md#era-of-health) will carry out [Your Organization's](Terminology.md#covered-entity) obligation under the [HIPAA Rules](Terminology.md#HIPAA-rules), require Era of Health to comply with the requirements applicable to the obligation.
 
 ### 7. Your Organization Health & Human Services (HHS) Compliance
-[Era of Health](Terminology.md#era-of-health) will make available to HHS its internal practices, books, and records relating to the use and disclosure of protected health information received from, or created, or received by the [Era of Health](Terminology.md#era-of-health) on behalf of, [Your Organization](Terminology.md#covered-entity) for purposes of U.S. Department of Health & Human Services (HHS) determining [Your Organization's](Terminology.md#covered-entity) compliance with the [HIPAA Rules](Terminology.md#HIPAA-rules)s.
+[Era of Health](Terminology.md#era-of-health) will make available to the [Department of Health and Human Services (HHS)](https://github.com/eraofhealth/conduct/blob/master/terminology.md#department-of-health-and-human-services-hhs) its internal practices, books, and records relating to the use and disclosure of protected health information received from, or created, or received by the [Era of Health](Terminology.md#era-of-health) on behalf of, [Your Organization](Terminology.md#covered-entity) for purposes of U.S. Department of Health & Human Services (HHS) determining [Your Organization's](Terminology.md#covered-entity) compliance with the [HIPAA Rules](Terminology.md#HIPAA-rules)s.
 
 
 ## C. Responsibilities of Your Organization
