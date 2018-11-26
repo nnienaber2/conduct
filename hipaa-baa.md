@@ -87,7 +87,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 [Era of Health](terminology.md#era-of-health) will secure you and your patient's [Information](terminology.md#information) to prevent unauthorized use or disclosure, including implementing requirements of the [HIPAA Rules](terminology.md#HIPAA-rules).
 
 ### 3. Breach of Information
-[Era of Health](terminology.md#era-of-health) will report to [Your Organization](terminology.md#covered-entity) any breaches of you or your patient's [Information](terminology.md#information) that are not covered in this [Agreement](terminology.md#agreement).
+[Era of Health](terminology.md#era-of-health) will report to [Your Organization](terminology.md#covered-entity) any breaches of you or your patient's [Information](terminology.md#information) that are not covered in this [Agreement](terminology.md#agreement in accordance to the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 164 Subpart D.
 
 ### 4. Account of Information request
 [Era of Health](terminology.md#era-of-health) will communicate when a patient requests an account of their [Information](terminology.md#information) and assist [Your Organization](terminology.md#covered-entity) in responding, completing or denying the request. 
