@@ -2,9 +2,9 @@
  
 **Effective date: 1st October 2018**
  
-*Thank you for using [Era of Health](Terminology.md#era-of-health)! We're happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health [Organization](terminology.md#organization) account. You have indicated your agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an account. By creating an Organization account in Era of Health, You agree you have read, understood, and agree to the terms above on the date the account is created.*
+*Thank you for using [Era of Health](Terminology.md#era-of-health)! [We're](Terminology.md#era-of-health) happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health [Organization](terminology.md#organization) account. [You](terminology.md#user) have indicated [your](terminology.md#user) agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an account. By creating an Organization account in Era of Health, [you](terminology.md#user) agree [you](terminology.md#user) have read, understood, and agree to the terms above on the date the account is created.*
  
-*Because it is such an important [Agreement](Terminology.md#agreement) between us and the organizations that use us, we have tried to make it as clear as possible. For your convenience, we have presented a short non-binding summary of this agreement followed by the full legal terms. In addition, we have included in each section a "short version" followed by the full legal version.*
+*Because it is such an important [Agreement](Terminology.md#agreement) between [us](Terminology.md#era-of-health) and the organizations that use [us](Terminology.md#era-of-health), [we](Terminology.md#era-of-health) have tried to make it as clear as possible. For [your](terminology.md#user) convenience, [we](Terminology.md#era-of-health) have presented a short non-binding summary of this agreement followed by the full legal terms. In addition, [we](Terminology.md#era-of-health) have included in each section a "short version" followed by the full legal version.*
  
 **Summary**
 
