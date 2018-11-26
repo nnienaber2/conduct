@@ -150,6 +150,12 @@ i.e. Hospitals
 ### Electronic Health Records (EHR)
 Electronic health records are an electronic record of patient health information generated within a clinical institution or environments, such as a hospital or doctor’s office. This may include medical history, laboratory results, immunizations, demographics, etc. I.e. provider offices. 
 
+## Email
+The electronic transmission of information through a mail protocol such as SMTP, POP, or IMAP.
+
+### Encryption
+The process of converting data to an unrecognizable or "encrypted" form.
+
 ### Epidemiology
 The use of statistics and data for insights into how a disease spread.
 
