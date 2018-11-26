@@ -113,14 +113,14 @@ Needs definition
 ### Clinical Trial Management System (CTMS)
 A software system used by biotechnology and pharmaceutical industries to manage clinical trials in clinical research. The system maintains and manages the planning, performing and reporting functions, along with participant contact information, tracking deadlines and milestones.
 
-### Code of Federal Regulations
-Needs definition.
+### Code of Federal Regulations (CRF)
+Is the codification of the general and permanent rules and regulations (sometimes called administrative law) published in the Federal Register by the executive departments and agencies of the federal government of the United States.
 
 ### Concurrent Care Plans
 Payors define concurrent care as more than one physician providing care to the same patient on the same date, or during the same hospitalization.
 
 ### Conduct Documents
-Needs definition
+In [Era of Health](terminology.md#era-of-health) these are a collection of documents for how [Users](terminolgoy.md#users) and [Organization](terminology.md#organization) must behave while useing [Era of Health](terminology.md#era-of-health) products or services. 
 
 ### Connection
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a relationship between organization(s) &/or user(s).
@@ -163,7 +163,7 @@ Sometimes refereed to as “We,” and “Us”. In Era of Health Legal document
 A federal legislation in the United States established in 1974, that protects the privacy of students' [Personally Identifiable Information (PII)](terminology.md#persaonlly-identifiable-information-pii). The act applies to all educational institutions that receive federal funds.
 
 ### HealthCare.gov
-Needs definition.
+Is a health insurance exchange website operated under the United States federal government under the provisions of the [Patient Protection and Affordable Care Act](terminology.md#patient-protection-and-affordable-care-act0, which currently serves the residents of the U.S. states which have opted not to create their own state exchanges.
 
 ### Health information exchange (HIE)
 A mobilization of healthcare information electronically across organizations within a region, community or hospital system. In practice the term HIE may also refer to the organization that facilitates the exchange.
@@ -223,7 +223,7 @@ See [Access Grant](terminology.md#access-grant), [Connection](terminology.md#con
 ### Legal Terminology
 See [Agreement](terminology.md#agreement), [Breach](terminology.md#breach), [Business Associate](terminology.md#business-associate), [Business Associate Agreement (BAA)](terminology.md#business-associate-agreement-baa), [Content](terminology.md#content), [Covered Entity](terminology.md#covered-entity), [Disclosure](terminology.md#disclosure), [Effective Date](terminology.md#effective-date), [Era of Health](terminology.md#era-of-health), [Information](terminology.md#information), [HIPAA Rules](terminology.md#HIPAA-rules), [Organization](terminology.md#organization), [Personal Information](terminology.md#personal-information), [Protected Health Information (PHI)](terminology.md#protected-health-information-phi), [Service](terminology.md#service), [Unsecured Protected Health Information](terminology.md#Unsecured-Protected-Health-Information), [User](terminology.md#user), [Website](terminology.md#website).
 
-### Longitudinal  Data
+### Longitudinal Data
 Information gathered over time. 
 
 ### Medical Chronology
@@ -257,9 +257,10 @@ In [Era of Health](terminology.md#era-of-health) Legal documents, or while using
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about an [Organization](terminology.md#organization) such as an an [Oraginzation Member's](terminology.md#organization-member) real namee, mail and password, or employee record. Organization Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
 ### Oraginzation Member
+A [Era of Health](terminology.md#era-of-health) [User](terminology.md#user) who has accepted a request to be a member of an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization).
 
 ### Outcome Based Care
-working off outcome data to provide better care. Healthcare reform efforts that hope to foster value-based care should be based on patient outcomes instead of provider processes.
+Working off outcome data to provide better care. Healthcare reform efforts that hope to foster value-based care should be based on patient outcomes instead of provider processes.
 
 ### Outpatient Care 
 See [Ambulatory care](terminology.md#amulatory-care)
@@ -268,7 +269,7 @@ See [Ambulatory care](terminology.md#amulatory-care)
 Sometimes called Supportive Care. It is a multidisciplinary approach to specialized medical and nursing care for people with life-limiting illnesses. It is treatment given to prevent, control, or relieve complications and side effects and to improve the patient's comfort and quality of life. 
 
 ### Patient
-While using [Era of Health](terminology.md#era-of-health)h or working with our API, this refers to a user which receives care.
+While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a user which receives care.
 
 ### Patient Check-in
 Patient check-in is the process where patients check-in to begin their registration with the healthcare facility topically using a clipboard, electronic tablet, touch screen, kiosk, or some other method, sometimes self-service. Patient check-in started as far back as the Roman times when patients would wait for special services in purpose-built hospitals. Romans were the first to have hospitals with doctors assigned to consult and observe patients. Prior to the Romans, many cultures such as the Greeks relied on temples and the Gods to cure through supernatural forces. As patient services were made more available, so was the need to have some method of tracking patients as they arrived.
@@ -279,7 +280,7 @@ Frequent recording of symptoms using a diary helps to reduce recall bias. Electr
 Patient diaries are also a way to find out if a patient takes the medication according to the treatment schedule, which is an important problem during clinical trials and the treatment of degenerative diseases with relatively few symptoms.
 
 ### Patient Protection and Affordable Care Act
-needs definition.
+Is often shortened to the Affordable Care Act or nicknamed Obamacare. The act largely retains the existing structure of Medicare, Medicaid, and the employer market, but individual markets were radically overhauled.
 
 ### Patient-Reported Outcome (PRO)
 This is a health outcome directly reported by the patient who experienced it. It stands in contrast to an outcome reported by someone else, such as a physician-reported outcome, a nurse-reported outcome, and so on. PRO methods, such as questionnaires, are used in clinical trials or other clinical settings, to help better understand a treatment's efficacy. The use of digitized PROs, or electronic patient-reported outcomes (ePROs), is on the rise in today's health research industry.
@@ -300,9 +301,10 @@ In [Era of Health](terminology.md#era-of-health) Legal documents, this refers an
 See [Protected Health Information (PHI)](terminology.md#Protected-Health-Information-PHI)
 
 ### Personally Identifiable Information (PII)
-Needs definition
+Is described in United States legal fields as either personally identifiable information (PII), or sensitive personal information (SPI), as used in information security and privacy laws, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
 ### Postoperative Follow-up
+Needs definition
 
 ### Practitioner
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a user involved in providing care in a professional capacity. 
@@ -311,7 +313,7 @@ While using [Era of Health](terminology.md#era-of-health) or working with our AP
 Sometimes called ["Personal" Health Information](terminology.md#personla-health-information). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a users past, present, or future physical or mental health condition, tests, results, provision, or payment, and could be used to identify the user.
 
 ### Public Health Service Act (PHSA)
-Needs definition.
+Is a United States federal law enacted in 1944. It gave the [U.S. Public Health Service (USPHS0](us.s.-public-health-servics-usphs) responsibility for preventing the introduction, transmission and spread of communicable diseases from foreign countries into the United States.[
 
 ### RAPP- Systematic E-assessment of Postoperative Recovery in Patients Undergoing Day Surgery (RAPP)
 https://www.semanticscholar.org/paper/The-Development-of-the-Recovery-Assessments-by-A-Jaensson-Dahlberg/4e445e9d1997f162383d70e07c061e59e9de4652 
@@ -339,8 +341,11 @@ See [Palliative Care](terminology.md#palliative-care)
 ### Unsecured Protected Health Information
 Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
 
-### U.S. Department of Health and Human Services
+### U.S. Department of Health and Human Services (HHS)
 See [Department of Health and Human Services](terminology.md#department-of-health-and-human-services) 
+
+### U.S. Public Health Service (USPHS)
+Is a division of the U.S. [Department of Health and Human Services (DHHS)](terminology.md#u.s.-department-of-health-and-human-services-hhs) concerned with public health. It contains eight out of the department's eleven operating divisions.
 
 ### User
 Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths] (terminology.md#era-of-health)services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
