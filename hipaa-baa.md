@@ -50,7 +50,7 @@ Era of Health and Your Organization (for the remainder of the document they will
 
 * “[Era of Health](Terminology.md#era-of-health),” “We,” and “Us” refer to Era of Health, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 
-* “[HIPAA Rules](Terminology.md#HIPAA-rules)” shall mean the Privacy, Security, [Breach](Terminology.md#breach) Notification, and Enforcement Rules as defined by [Code of Federal Regulations](Terminology.md#code-of-federal-regulations) 45 CFR Part 160 and Part 164.
+* “[HIPAA Rules](Terminology.md#HIPAA-rules)” shall mean the Privacy, Security, [Breach](Terminology.md#breach) Notification, and Enforcement Rules as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 160 and Part 164.
 
 * “Information” shall mean both “[Protected Health Information (PHI)](Terminology.md#protected-health-information-phi)”, and "[Personal Information](Terminology.md#personal-information)".   
 
