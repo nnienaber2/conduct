@@ -298,7 +298,9 @@ No formal definition.
 CMS's initiative to support better care coordination for patients with chronic illnesses. 
 
 ### Personal Information
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about one of our users which could, alone or together with other information, be used to identify the user. Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+Is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the user. Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+
+
 
 ### Personal Health Information
 See [Protected Health Information (PHI)](terminology.md#Protected-Health-Information-PHI)
