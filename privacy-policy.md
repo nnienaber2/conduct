@@ -26,35 +26,35 @@ Our email, texts or voicemail content will not compromise your privacy.
 We have a privacy officer on staff to monitor our practices and policies locally and globally. 
 You can reach this person by email help@eraofhealth.com or call 1-650-399-3145
 
-If you deactivate your account, a practitioner or organization can keep information they have contributed if they give a good reason. 
+If you deactivate your [account](terminology.md#account), a practitioner or organization can keep information they have contributed if they give a good reason. 
 We comply with HIPPA security requirements. 
 If we suspect a [Breach](terminology.md#breach) of our [Website](terminology.md#website) or application and your information we will let you know. 
 You can 1-650-399-3145 (**NEEDS TO BE A 1-800**)if you want to find out if you have been affected by any [Breach](terminology.md#breach).
 
 ?? You can amend your data at any time.
 ?? You can access a full discloser of your information history at any time. 
-?? If you deactivate your account, you can delete all the information you added and request all practitioners and organizations do the same. 
+?? If you deactivate your [account](terminology.md#account), you can delete all the information you added and request all practitioners and organizations do the same. 
 
 **Of course, the summary doesn't tell you everything, so please read on for more details!**  
 
 ---
 
 ## What information Era of Health collects and why information from website browsers 
-If you're just browsing the [Website](terminology.md#website) or mobile app, we collect the same basic information that most websites and apps collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
+If you're just browsing the [Website](terminology.md#website) or mobile app, we collect the same basic information that most websites and apps collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an [account](terminology.md#account) or not.
 
 The information we collect about all visitors to our [Website](terminology.md#website) and the mobile app includes the visitor’s browser type, language preference, referring site, additional requested, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
 
 ## Why do we collect this?
 We collect this information to better understand how our [Website](terminology.md#website) visitors use Era of Health and to monitor and protect the security of the [Website](terminology.md#website) and mobile app. 
 
-## Information from users with accounts
-If you create an account, we require some basic information at the time of account creation. You will create your own password, and we will ask you for a valid email account and phone number. You also have the option to give us more information if you want to, and this may include "Protected Health Information."
+## Information from users with [accounts](terminology.md#account)
+If you create an [account](terminology.md#account), we require some basic information at the time of [account](terminology.md#account) creation. You will create your own password, and we will ask you for a valid email address and phone number. You also have the option to give us more information if you want to, and this may include "Protected Health Information."
 
 "Protected Health Information" is defined by Code of Federal Regulations 45 CFR 164.402 and is information that we receive from a User or an Organization. It is information on a users past, present, or future physical or mental health condition, provision, or payment, and could be used to identify the user. 
 
-A "User" (or “You,” and “Your”) is an individual person, company, or organization that has visited or is using Era of Healths services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
+A "User" (or “You,” and “Your”) is an individual person, company, or organization that has visited or is using Era of Healths services; that accesses or uses any part of the [account](terminology.md#account), or that directs the use of the [account](terminology.md#account) in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government [accounts](terminology.md#account).
 
-An "Organization" is any individual or group that created an Organization account in Era of Health.
+An "Organization" is any individual or group that created an Organization [account](terminology.md#account) in Era of Health.
 
 User "Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as an email and password, a real name, and a photograph are examples of “Personal Information.”
 
@@ -66,7 +66,7 @@ For the remainder of this agreement “Information” will be defined as both Us
 
 ## Why do we collect this?
 
-We need your Information to create your account, and to provide the services you request.
+We need your Information to create your [account](terminology.md#account), and to provide the services you request.
 
 We use your Information, specifically your email, to identify you on Era of Health.
 
@@ -78,7 +78,7 @@ We limit our use of your Information to the purposes listed in this Privacy Poli
 
 Era of Health employees does not access Information unless required to for security or maintenance, or for support reasons, with the consent of the Information owner.
 
-If you're a child under the age of 13, you may not have an account on Era of Health. Era of Health does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will, unfortunately, have to close your account. Please see our User Agreement for information about account termination.
+If you're a child under the age of 13, you may not have an [account](terminology.md#account) on Era of Health. Era of Health does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will, unfortunately, have to close your [account](terminology.md#account). Please see our User Agreement for information about [account](terminology.md#account) termination.
 
 ## How we share the information we collect
 We do not share, sell, rent, or trade your Information with third parties for their commercial purposes.
@@ -166,9 +166,9 @@ In complying with court orders and similar legal processes, Era of Health strive
 If you're already an Era of Health user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting Era of Health Support.
 
 ## Data Retention and Deletion
-[We](terminology.md#era-of-health) may retain certain Information indefinitely unless you request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to request we delete your account, we will retain your account information indefinitely.
+[We](terminology.md#era-of-health) may retain certain Information indefinitely unless you request its deletion. For example, we don’t automatically delete inactive user [accounts](terminology.md#account), so unless you choose to request we delete your [account](terminology.md#account), we will retain your [account](terminology.md#account) information indefinitely.
 
-If you would like to deactivate your account or delete your Information, you may do so in your user profile. [We](terminology.md#era-of-health) will retain and use your Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If you would like to deactivate your [account](terminology.md#account) or delete your Information, you may do so in your user profile. [We](terminology.md#era-of-health) will retain and use your Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## How we communicate with you
 [We](terminology.md#era-of-health) will use your email address, phone or text messaging to communicate with you if you've said that's okay, and only for the reasons you’ve said that’s okay. You may manage your communication preferences in your user profile.
@@ -218,4 +218,4 @@ The information in this repository is for informational purposes only and is not
 
 This Agreements terms may not suit your Organization's needs. Please consult a lawyer if you want to adopt this for your own uses.
 
-Questions about the Privacy Policy? Contact a human at  help@eraofhealth.com.
+Questions about the Privacy Policy? Contact a human at admin@eraofhealth.com.
