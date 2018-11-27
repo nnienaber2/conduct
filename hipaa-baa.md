@@ -2,7 +2,7 @@
  
 **Effective date: 1st October 2018**
  
-*Thank you for using [Era of Health](terminology.md#era-of-health)! [We're](terminology.md#era-of-health) happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health [Organization](terminology.md#organization) account. [You](terminology.md#user) have indicated [your](terminology.md#user) agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an account. By creating an Organization account in Era of Health, [you](terminology.md#user) agree [you](terminology.md#user) have read, understood, and agree to the terms above on the date the account is created.*
+*Thank you for using [Era of Health](terminology.md#era-of-health)! [We're](terminology.md#era-of-health) happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health [Organization](terminology.md#organization) [account](terminology.md#account). [You](terminology.md#user) have indicated [your](terminology.md#user) agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an [account](terminology.md#account). By creating an Organization [account](terminology.md#account) in Era of Health, [you](terminology.md#user) agree [you](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created.*
  
 *Because it is such an important [Agreement](terminology.md#agreement) between [us](terminology.md#era-of-health) and the organizations that use [us](terminology.md#era-of-health), [we](terminology.md#era-of-health) have tried to make it as clear as possible. For [your](terminology.md#user) convenience, [we](terminology.md#era-of-health) have presented a short non-binding summary of this agreement followed by the full legal terms. In addition, [we](terminology.md#era-of-health) have included in each section a "short version" followed by the full legal version.*
  
@@ -46,7 +46,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 
 * "[Disclosure](terminology.md#disclosure)" means the release, transfer, provision of access to, or divulging in any other manner of information outside the entity holding the information. 
 
-* “[Effective Date](terminology.md#effective-date)” shall mean the date [Your Organization](terminology.md#covered-entity) agrees to this Agreement by creating an Organization account in [Era of Health](terminology.md#era-of-health).
+* “[Effective Date](terminology.md#effective-date)” shall mean the date [Your Organization](terminology.md#covered-entity) agrees to this Agreement by creating an [Organization](trminology.md#organization) [account](terminology.md#account) in [Era of Health](terminology.md#era-of-health).
 
 * “[Era of Health](terminology.md#era-of-health),” “We,” and “Us” refer to Era of Health, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 
@@ -54,7 +54,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 
 * “Information” shall mean both “[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)”, and "[Personal Information](terminology.md#personal-information)".   
 
-* "[Organization](trminology.md#organization)" is any individual or group that created an Organization account in [Era of Health](terminology.md#era-of-health).  
+* "[Organization](trminology.md#organization)" is any individual or group that created an Organization [account](terminology.md#account) in [Era of Health](terminology.md#era-of-health).  
 
 * "Parties"  is defined in the [Agreement](terminology.md#agreement) as both [Era of Health Inc.](terminology.md#era-of-health) ("[Business Associate](terminology.md#business-associate)"), a Delaware corporation, and [Your Organization](terminology.md#covered-entity) ("[Covered Entity](terminology.md#covered-entity)")
 
@@ -66,7 +66,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 
 * “[Unsecured Protected Health Information](terminology.md#Unsecured-Protected-Health-Information)” Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
 
-* “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A [User](terminology.md#user) must be at least 13 years of age. Special terms may apply for government accounts.
+* “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the [account](terminology.md#account), or that directs the use of the [account](terminology.md#account) in the performance of its functions. A [User](terminology.md#user) must be at least 13 years of age. Special terms may apply for government [accounts](terminology.md#account).
 
 * “[Your Organization](terminology.md#covered-entity)” is the same as a "[Covered Entity](terminology.md#covered-entity)" as defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103. 
 
@@ -122,13 +122,13 @@ In the event that [Your Organization](terminology.md#covered-entity) honors a re
 ## D. Termination
 
 ### 1. Term
-The term of this [Agreement](terminology.md#agreement) shall commence when [Your Organization](terminology.md#covered-entity) creates an [Era of Health](terminology.md#era-of-health) Organization account (the [Effective Date](terminology.md#effective-date)). This [Agreement](terminology.md#agreement) will terminate without any further action upon the deactivation of [Your Organization](terminology.md#covered-entity) [Era of Health](terminology.md#era-of-health) Organization account or in accordance with the below.
+The term of this [Agreement](terminology.md#agreement) shall commence when [Your Organization](terminology.md#covered-entity) creates an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization) [account](terminology.md#account) (the [Effective Date](terminology.md#effective-date)). This [Agreement](terminology.md#agreement) will terminate without any further action upon the deactivation of [Your Organization](terminology.md#covered-entity) [Era of Health](terminology.md#era-of-health) Organization [account](terminology.md#account) or in accordance with the below.
 
 ### 2. Violation of this [Agreement](terminology.md#agreement). 
 If either Party knows of a pattern or practice of the other Party that constitutes a violation of this [Agreement](terminology.md#agreement) then the non-violating Party shall provide written notice of the violation to the other Party that specifies the nature of the violation. The violating Party must correct the violation on or before thirty (30) days after receipt of the written notice. In the absence of a satisfactory correction to the non-violating Party within the specified timeframe or in the event the violation is reasonably incapable of correction, then the non-violating Party may terminate this [Agreement](terminology.md#agreement).
 
 
-If you Deactivate [Your Organization's](terminology.md#covered-entity) account, [Era of Health](terminology.md#era-of-health) will de-activate all [Your Organization](terminology.md#covered-entity) and your patient's [Information](terminology.md#information) received from, created or received by the [Era of Health](terminology.md#era-of-health) on behalf of [Your Organization](terminology.md#covered-entity).
+If you Deactivate [Your Organization's](terminology.md#covered-entity) [account](terminology.md#account), [Era of Health](terminology.md#era-of-health) will de-activate all [Your Organization](terminology.md#covered-entity) and your patient's [Information](terminology.md#information) received from, created or received by the [Era of Health](terminology.md#era-of-health) on behalf of [Your Organization](terminology.md#covered-entity).
 
 
 [Your Organization](terminology.md#covered-entity) can terminate this [Agreement](terminology.md#agreement) if [Era of Health](terminology.md#era-of-health) violates a term of the [Agreement](Terminology.md#agreement).  If terminated by [Your Organization](terminology.md#covered-entity), all [Agreement's](terminology.md#agreement) between [Era of Health](terminology.md#era-of-health) Inc and its subcontractors are subject to the same termination requirements. 
@@ -176,7 +176,7 @@ This [Agreement](terminology.md#agreement) may be executed in any number of coun
 Any ambiguity in this [Agreement](terminology.md#agreement) shall be resolved in favor of a meaning that permits [Your Organization](terminology.md#covered-entity) and the [Era of Health](terminology.md#era-of-health) to comply with the [HIPAA Rules](terminology.md#HIPAA-rules).
 
 ### 11. How [Your Organization](terminology.md#covered-entity) agrees to this [Agreement](terminology.md#agreement)
-By creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health), [You](terminology.md#user) and [Your Organization](terminology.md#covered-entity) agree [You](terminology.md#user) have read, understood, and agree to the terms above on the date the account is created on behafe or [Your Organization](terminology.md#covered-entity). 
+By creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health), [You](terminology.md#user) and [Your Organization](terminology.md#covered-entity) agree [You](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created on behafe or [Your Organization](terminology.md#covered-entity). 
 
 ### 12. Questions
 Questions about this [Agreement](terminology.md#agreement)? Contact a human at help@eraofhealth.com.
