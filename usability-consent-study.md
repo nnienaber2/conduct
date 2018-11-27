@@ -34,4 +34,4 @@ By creating an account you are voluntarily agreeing to this study. All Informati
 You can withdraw your consent to the study and stop participation at any time. 
 
 ## Questions?
-If you have any question you can email help@eraofhealth.com
+If you have any question you can email admin@eraofhealth.com
