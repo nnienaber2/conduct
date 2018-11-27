@@ -66,7 +66,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 
 * “[Unsecured Protected Health Information](terminology.md#Unsecured-Protected-Health-Information)” Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
 
-* “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the [account](terminology.md#account), or that directs the use of the [account](terminology.md#account) in the performance of its functions. A [User](terminology.md#user) must be at least 13 years of age. Special terms may apply for government [accounts](terminology.md#account).
+* “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Health's](terminology.md#era-of-health) [services](terminology.md#service); that accesses or uses or direct any part of the [services](terminology.md#service). A [User](terminology.md#user) must be at least 13 years of age. Special terms may apply for government [accounts](terminology.md#account).
 
 * “[Your Organization](terminology.md#covered-entity)” is the same as a "[Covered Entity](terminology.md#covered-entity)" as defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103. 
 
