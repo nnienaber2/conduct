@@ -1,14 +1,14 @@
 ## DO put terms in alphabetical order
 ### Pro
-* Allow easy search.
+- Allow easy search.
 ## DO put links to more information or deeper definitions. 
 ### Pro
-* Allows user to go into a deeper understanding without bloating this document.  
+- Allows a user to go into a deeper understanding without bloating this document.  
 ### Con
-* Can be a lazy way to define a term. Try to summerize the information you are linking to. 
-## DON'T make definition more them 200 words. 
+- Can be a lazy way to define a term. Try to summarize the information you are linking to. 
+## DON'T make the definition more them 200 words. 
 ### Pro
-* Limits the docuements bloating and difficulty of the user understanding. 
+- Limits the documents bloating and difficulty of the user understanding.
 
 ---
 
