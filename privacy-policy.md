@@ -24,8 +24,6 @@ We don't use your information for research without your permission.
 
 We don't use your information for marketing without your permission.
 
-You will have a record of when and where your information has been used or shared. 
-
 We will never remove data from your profile, sell it, anonymize the data without your permission. 
 
 We have transparent Policies and Agreements. We show all past revisions, and allow you to amend them.
