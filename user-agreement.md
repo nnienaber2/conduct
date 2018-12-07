@@ -56,6 +56,8 @@ We may modify this agreement but will give you 30 days' notice of changes that a
 ### P. Miscellaneous
 Please see this section for legal details including our choice of law.  The Era of Health Terms of Service
 
+### Q. Questions
+
 **Of course, the summary doesn't tell you everything, so please read on for more details!**
 
 ---
@@ -202,7 +204,7 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
 ### 3. Ownership of Content, Right to Post, and License Grants
 You retain ownership of and responsibility for Content you create or own ("Your Content"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
-Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other Era of Health Users — certain legal permissions, listed in Sections D.4 — D.5. (****IS THIS THE RIGHT SECTION REFERENCE?****)These license grants apply to Your Content. If you upload Content that already comes with a license granting Era of Health the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.5. The licenses you grant to us will end when you remove Your Content from our servers unless other Users have forked it. 
+Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other Era of Health Users — certain legal permissions, listed in Sections titled "User-Generated Content." These license grants apply to Your Content. If you upload Content that already comes with a license granting Era of Health the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Section titled "User-Generated Content." The licenses you grant to us will end when you remove Your Content from our servers unless other Users have forked it. 
 
 ### 4. License Grant to Us
 We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
@@ -390,17 +392,10 @@ If you have a dispute with one or more Users or Organizations, you agree to rele
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Era of Health (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Era of Health of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-## O. Changes to These Terms
+## O. Changes to this User Agreement
 **Short version** 
-*We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
-We reserve the right, at our sole discretion, to amend this User Agreement at any time and will update this User Agreement in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes an agreement to our revisions of this User Agreement.
-
-We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
-
-## P. Changes to this Agreement
-
-We've opened this Agreement up for you to amend and contribute to. We want you to see its historic revision and contribute to it future revision via a repository. We take our relationship with you very serious and want to display nurture trust through transparency. By seeing the past revision you can see our progression of thought over time. By allowing you to post suggestions we are enlisting your help to make improvements to this Agreement in conjunction with our ever-changing world. 
+*We've opened this Agreement up for you to amend and contribute to. We want you to see its historic revision and contribute to it future revision via a repository. We take our relationship with you very serious and want to display nurture trust through transparency. By seeing the past revision you can see our progression of thought over time. By allowing you to post suggestions we are enlisting your help to make improvements to this Agreement in conjunction with our ever-changing world. We will notify users of any changes that affect your rights and give you time to adjust to them. For non-material modifications, your continued use of the Website constitutes an agreement to our revisions of this User Agreement.*
 
 This Agreement is open to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means we give you permission to copy and re-use this Agreement with our permission. No questions asked.  Note that CC0-1.0 does not grant any trademark permissions.
 
@@ -439,7 +434,7 @@ The information in this repository is for informational purposes only and is not
 
 This Agreements terms may not suit your Organization's needs. Please consult a lawyer if you want to adopt this for your own uses.
 
-## Q. Miscellaneous  
+## P. Miscellaneous  
 
 ### 1. Amendments 
 Amendments to this Agreement may not be modified in any respect other than by a written instrument signed by both parties.
@@ -457,7 +452,7 @@ Nothing express or implied in this Agreement is intended to confer, nor shall an
 Except to the extent applicable law provides otherwise, this Agreement between you and Era of Health and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of Washington, without regard to conflict of law provisions. You and Era of Health agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of Seattle, Washington.
 
 ### 6. Non-Assignability
-Era of Health may assign or delegate this User Agreement and/or the Era of Health Privacy Statement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+Era of Health may assign or delegate this User Agreement and/or the Era of Health Privacy Statement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant. You may not assign or delegate any rights or obligations under the User Agreement or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 ### 7. Section Headings and Summaries
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
@@ -466,7 +461,7 @@ Throughout this Agreement, each section includes titles and brief summaries of t
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of Era of Health to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
 ### 9. Amendments; Complete Agreement
-This Agreement may only be modified by a written amendment signed by an authorized representative of Era of Health, or by the posting by Era of Health of a revised version in accordance with Section R. Changes to These Terms. this User Agreement, together with the Era of Health Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Era of Health relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of Era of Health, or by the posting by Era of Health of a revised version in accordance with Section Titled "Changes to this User Agreement." Changes to These Terms. this User Agreement, together with the Era of Health Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Era of Health relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
-## R.  Questions
+## Q.  Questions
 Questions about the Terms of Service? Contact a human at  support@eraofhealth.com.
