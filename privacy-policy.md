@@ -14,26 +14,37 @@ Control who has accesses to it.
 Control what access they have. 
 
 **What that means:**
+
 We collect your information only with your consent.
+
 We don't use your information for research without your permission.
+
 We don't use your information for marketing without your permission.
+
 You will have a record of when and where your information has been used or shared. 
+
 We will never remove data from your profile, sell it, anonymize the data without your permission. 
+
 We have transparent Policies and Agreements. We show all past revisions, and allow you to amend them.
+
 We follow all HIPPA compliant practices. 
-We let you decide how to be communicated with.
+
 Our email, texts or voicemail content will not compromise your privacy. 
+
 We have a privacy officer on staff to monitor our practices and policies locally and globally. 
+
 You can reach this person by email support@eraofhealth.com.
 
 If you deactivate your [account](terminology.md#account), a practitioner or organization can keep information they have contributed if they give a good reason. 
+
 We comply with HIPPA security requirements. 
+
 If we suspect a [Breach](terminology.md#breach) of our [Website](terminology.md#website) or application and your information we will let you know. 
+
 You can email support@eraofhealth.com if you want to find out if you have been affected by any [Breach](terminology.md#breach).
 
 You can amend your data at any time.
-You can access a full discloser of your information history at any time. 
-If you deactivate your [account](terminology.md#account), you can delete all the information you added and request all practitioners and organizations do the same. 
+
 
 **Of course, the summary doesn't tell you everything, so please read on for more details!**  
 
