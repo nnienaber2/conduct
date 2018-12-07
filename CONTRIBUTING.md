@@ -1,6 +1,6 @@
 # Contributing
 
-Hi there! [We're](terminology.md#era-of-health) thrilled that you'd like to contribute to [Era of Health's](terminology.md#era-of-health) [Conduct Documents](terminology.md#conduct-documents). Your help is essential. Our [README](README.md) describes [Era of Health's](terminology.md#era-of-health) [Conduct Documents](terminology.md#conduct-documents), their purposes, caveats, and is necessary reading for contributors.
+Hi there! [We're](terminology.md#era-of-health) thrilled that you'd like to contribute to [Era of Health's](terminology.md#era-of-health) [Conduct Documents](terminology.md#conduct-documents). Your help is essential. [Our](terminology.md#era-of-health) [README](README.md) describes [Era of Health's](terminology.md#era-of-health) [Conduct Documents](terminology.md#conduct-documents), their purposes, caveats, and is necessary reading for contributors.
 
 Contributions are dedicated to the public domain under [CC0-1.0](LICENSE.md).
 
