@@ -35,7 +35,7 @@ If you want to promote your content on Era of Health, this section lays out some
 ### I. Payment
 You are responsible for payment. We are responsible for billing you accurately. 
 
-### J. Cancellation and Termination
+### J. Deactivation and Termination
 You may cancel this agreement and close your account at any time. 
 
 ### K. Communications with Era of Health
