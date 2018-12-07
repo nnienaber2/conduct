@@ -2,9 +2,9 @@
  
 **Effective date: 12th of Decemberb2018**
  
-*Thank you for using [Era of Health](terminology.md#era-of-health)! [We're](terminology.md#era-of-health) happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health [Organization](terminology.md#organization) [account](terminology.md#account). [You](terminology.md#user) have indicated [your](terminology.md#user) agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an [account](terminology.md#account). By creating an Organization [account](terminology.md#account) in Era of Health, [you](terminology.md#user) agree [you](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created.*
+*Thank you for using [Era of Health](terminology.md#era-of-health)! [We're](terminology.md#era-of-health) happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization) [account](terminology.md#account). [You](terminology.md#user) have indicated [your](terminology.md#user) agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an [account](terminology.md#account). By creating an [Organization](terminology.md#organization) [account](terminology.md#account) in [Era of Health](terminology.md#era-of-health), [you](terminology.md#user) agree [you](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created.*
  
-*Because it is such an important [Agreement](terminology.md#agreement) between [us](terminology.md#era-of-health) and the organizations that use [us](terminology.md#era-of-health), [we](terminology.md#era-of-health) have tried to make it as clear as possible. For [your](terminology.md#user) convenience, [we](terminology.md#era-of-health) have presented a short non-binding summary of this agreement followed by the full legal terms. In addition, [we](terminology.md#era-of-health) have included in each section a "short version" followed by the full legal version.*
+*Because it is such an important [Agreement](terminology.md#agreement) between [us](terminology.md#era-of-health) and the [organizations](terminology.md#organization) that use [us](terminology.md#era-of-health), [we](terminology.md#era-of-health) have tried to make it as clear as possible. For [your](terminology.md#user) convenience, [we](terminology.md#era-of-health) have presented a short non-binding summary of this agreement followed by the full legal terms. In addition, [we](terminology.md#era-of-health) have included in each section a "short version" followed by the full legal version.*
  
 **Summary**
 
@@ -18,17 +18,17 @@ What [Era of Health](terminology.md#era-of-health) can or cannot do as well, as 
 What [Your Organization](terminology.md#covered-entity) can or cannot do as well, as have to do. This section is designed to set clear criteria for [Era of Health](terminology.md#era-of-health) to keep [Your Organization](terminology.md#covered-entity) accountable to. 
 
 ## D. Termination
-What happens if either [Your Organization](terminology.md#covered-entity) or [Era of Health](terminology.md#era-of-health) terminate this agreement by deactivating the Era of Health Organization.
+What happens if either [Your Organization](terminology.md#covered-entity) or [Era of Health](terminology.md#era-of-health) terminate this agreement by deactivating the [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization).
 
 ## E. General Provisions
 Legal provisions that don't fall under the previous sections. They apply to both Parties and protect both by giving additional clarity and protection around a number of scenarios this [Agreement](terminology.md#agreement) could play out. 
 
 ---
-## This HIPAA Business Associate Agreement (the “[Agreement](terminology.md#agreement)") is between [Era of Health Inc.](terminology.md#era-of-health) ("[Business Associate](terminology.md#business-associate)"), a Delaware corporation, and [Your Organization](terminology.md#covered-entity) ("[Covered Entity](terminology.md#covered-entity)").  
+## This HIPAA Business Associate Agreement (the “[Agreement](terminology.md#agreement)") is between [Era of Health Inc.](terminology.md#era-of-health) ("[Business Associate](terminology.md#business-associate)"), a Washington State LLC and [Your Organization](terminology.md#covered-entity) ("[Covered Entity](terminology.md#covered-entity)").  
 
-By creating an Era of Health Organization you are agreeing to this [Agreement](terminology.md#agreement).
+By creating an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization) you are agreeing to this [Agreement](terminology.md#agreement).
 
-Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) will provide [Services](terminology.md#services) to [Your Organization](terminology.md#covered-entity) under the requirements of Health Insurance Portability and Accountability Act of 1996 ("HIPAA") as set forth in [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Parts 160 and 164 and Subparts A through E ("Privacy Rule" and "Security Rules") and the Health Information Technology for Economic and Clinical Health Act, Public Law 111-005 (the "[Health Information Technology for Economic and Clinical Health (HITECH) Act](terminology.md#Health-Information-Technology-for-Economic-and-Clinical-Health-HITECH)").
+Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) will provide [Services](terminology.md#services) to [Your Organization](terminology.md#covered-entity) under the requirements of [Health Insurance Portability and Accountability Act of 1996 ("HIPAA")](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) as set forth in [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Parts 160 and 164 and Subparts A through E ("Privacy Rule" and "Security Rules") and the [Health Information Technology for Economic and Clinical Health (HITECH)](terminology.md#health-information-technology-for-economic-and-clinical-health-hitech), Public Law 111-005.
 
 [Era of Health Inc.](terminology.md#era-of-health) and [Your Organization](terminology.md#covered-entity) (for the remainder of the document they will together be referred to as the "Parties") to enter into this [Agreement](terminology.md#agreement) as follows.
 
@@ -38,7 +38,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 
 * The “[Agreement](terminology.md#agreement)” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Business Associate Agreement") and all other operating rules, policies (including the [Era of Health](terminology.md#era-of-health) Privacy Policy, available at on to bottom of our [Website](terminology.md#website) home page. 
 
-* “[Breach](terminology.md#breach)” means the acquisition, use or disclosure of Information that compromises the security or privacy of Information as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations)s 45 CFR 164.402.
+* “[Breach](terminology.md#breach)” means the acquisition, use or disclosure of [Information](terminology.md#information) that compromises the security or privacy of [Information](terminology.md#information) as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations)s 45 CFR 164.402.
 
 * "[Business Associate](terminology.md#business-associate)" is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103, and in this document will be specified as [Era of Health](Terminology.md#era-of-health).
 
@@ -54,17 +54,17 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 
 * “[Information](terminology.md#information)” shall mean both “[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)”, and "[Personal Information](terminology.md#personal-information)".   
 
-* "[Organization](trminology.md#organization)" is any individual or group that created an Organization [account](terminology.md#account) in [Era of Health](terminology.md#era-of-health).  
+* "[Organization](trminology.md#organization)" is any individual or group that created an [Organization](trminology.md#organization) [account](terminology.md#account) in [Era of Health](terminology.md#era-of-health).  
 
-* "Parties"  is defined in the [Agreement](terminology.md#agreement) as both [Era of Health Inc.](terminology.md#era-of-health) ("[Business Associate](terminology.md#business-associate)"), a Delaware corporation, and [Your Organization](terminology.md#covered-entity) ("[Covered Entity](terminology.md#covered-entity)")
+* "Parties"  is defined in the [Agreement](terminology.md#agreement) as both [Era of Health Inc.](terminology.md#era-of-health) ("[Business Associate](terminology.md#business-associate)"), a Washington State LLC, and [Your Organization](terminology.md#covered-entity) ("[Covered Entity](terminology.md#covered-entity)")
 
-* "[Personal Information](terminology.md#personal-information)" is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the user. Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+* "[Personal Information](terminology.md#personal-information)" is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the [users](terminology.md#users). Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
-* "[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)" Sometimes called ["Personal" Health Information](terminology.md#personla-health-information) or Electronic Protected Health Information (ePHI). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a users past, present, or future physical or mental health condition, tests, results, provision, or payment, and if it could be used to identify the user it is called["Personally Identifiable Information (PII)"](terminology.md#personally-identifiable-information-pii).
+* "[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)" Sometimes called ["Personal" Health Information](terminology.md#personla-health-information) or [Electronic Protected Health Information (ePHI)](terminology.md#electronic-protected-health-information-ephi). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a users past, present, or future physical or mental health condition, tests, results, provision, or payment, and if it could be used to identify the user it is called["Personally Identifiable Information (PII)"](terminology.md#personally-identifiable-information-pii).
 
 * The “[Service](terminology.md#service)” refers to the applications, software, products, and services provided by [Era of Health](terminology.md#era-of-health).
 
-* “[Unsecured Protected Health Information](terminology.md#Unsecured-Protected-Health-Information)” Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is protected health information that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
+* “[Unsecured Protected Health Information](terminology.md#Unsecured-Protected-Health-Information)” Is defined by the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402. It is [Protected Health Information (PHI)](terminology.md#protected-health-information-phi) that has not been rendered unusable, unreadable, or indecipherable to unauthorized persons.
 
 * “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Health's](terminology.md#era-of-health) [services](terminology.md#service); that accesses or uses or direct any part of the [services](terminology.md#service). A [User](terminology.md#user) must be at least 13 years of age. Special terms may apply for government [accounts](terminology.md#account).
 
@@ -78,16 +78,16 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 ## B. Responsibilities of Era of Health
 **Short version**
 
-*[Era of Health](terminology.md#era-of-health) manages you and your patient's [Information](terminology.md#information) in compliance with [HIPAA Rules](terminology.md#HIPAA-rules) and U.S. Department of Health & Human Services (HSS).*
+*[Era of Health](terminology.md#era-of-health) manages [you](terminology.md#covered-entity) and [your](terminology.md#covered-entity) patient's [Information](terminology.md#information) in compliance with [HIPAA Rules](terminology.md#HIPAA-rules) and [U.S. Department of Health & Human Services (HSS)](terminology.md#us-department-of-health-and-human-services-hhs).*
 
 ### 1. Disclosure of Information
 [Era of Health](terminology.md#era-of-health) will not use or disclose you or your patient's [Information](terminology.md#information) in any way not covered in this [Agreement](terminology.md#agreement) or as required by law. 
 
 ### 2. Securing of Information
-[Era of Health](terminology.md#era-of-health) will secure you and your patient's [Information](terminology.md#information) to prevent unauthorized use or disclosure, including implementing requirements of the [HIPAA Rules](terminology.md#HIPAA-rules).
+[Era of Health](terminology.md#era-of-health) will secure you and [your](terminology.md#covered-entity) patient's [Information](terminology.md#information) to prevent unauthorized use or disclosure, including implementing requirements of the [HIPAA Rules](terminology.md#HIPAA-rules).
 
 ### 3. Breach of Information
-[Era of Health](terminology.md#era-of-health) will report to [Your Organization](terminology.md#covered-entity) any breaches of you or your patient's [Information](terminology.md#information) that are not covered in this [Agreement](terminology.md#agreement in accordance to the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 164 Subpart D.
+[Era of Health](terminology.md#era-of-health) will report to [Your Organization](terminology.md#covered-entity) any [breaches](terminology.md#breach) of [you](terminology.md#covered-entity) or [your](terminology.md#covered-entity) patient's [Information](terminology.md#information) that are not covered in this [Agreement](terminology.md#agreement in accordance to the [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR Part 164 Subpart D.
 
 ### 4. Account of Information request
 [Era of Health](terminology.md#era-of-health) will communicate when a patient requests an account of their [Information](terminology.md#information) and assist [Your Organization](terminology.md#covered-entity) in responding, completing or denying the request. 
