@@ -1,6 +1,6 @@
 # Era of Health HIPAA Business Associate Agreement (BAA)
  
-**Effective date: 1st October 2018**
+**Effective date: 12th of Decemberb2018**
  
 *Thank you for using [Era of Health](terminology.md#era-of-health)! [We're](terminology.md#era-of-health) happy [you're](terminology.md#user) here. Please read this HIPAA compliant Business Associate Agreement carefully before creating an Era of Health [Organization](terminology.md#organization) [account](terminology.md#account). [You](terminology.md#user) have indicated [your](terminology.md#user) agreement to this [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) Associate Agreement by creating an [account](terminology.md#account). By creating an Organization [account](terminology.md#account) in Era of Health, [you](terminology.md#user) agree [you](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created.*
  
