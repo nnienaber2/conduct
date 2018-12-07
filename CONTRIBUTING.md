@@ -6,7 +6,7 @@ Contributions are dedicated to the public domain under [CC0-1.0](LICENSE.md).
 
 Remember that information in this repository [is not legal advice and comes without warranty](README.md#disclaimer).
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct). By participating in this project you agree to abide by its terms.
 
 ## Getting Started
 
