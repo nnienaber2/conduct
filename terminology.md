@@ -150,7 +150,7 @@ i.e. Hospitals
 ### Electronic Health Records (EHR)
 Electronic health records are an electronic record of patient health information generated within a clinical institution or environments, such as a hospital or doctor’s office. This may include medical history, laboratory results, immunizations, demographics, etc. I.e. provider offices. 
 
-## Email
+### Email
 The electronic transmission of information through a mail protocol such as SMTP, POP, or IMAP.
 
 ### Encryption
@@ -172,7 +172,7 @@ Sometimes refereed to as “We,” and “Us”. In Era of Health Legal document
 A federal legislation in the United States established in 1974, that protects the privacy of students' [Personally Identifiable Information (PII)](terminology.md#persaonlly-identifiable-information-pii). The act applies to all educational institutions that receive federal funds.
 
 ### HealthCare.gov
-Is a health insurance exchange website operated under the United States federal government under the provisions of the [Patient Protection and Affordable Care Act](terminology.md#patient-protection-and-affordable-care-act0, which currently serves the residents of the U.S. states which have opted not to create their own state exchanges.
+Is a health insurance exchange website operated under the United States federal government under the provisions of the [Patient Protection and Affordable Care Act](terminology.md#patient-protection-and-affordable-care-act), which currently serves the residents of the U.S. states which have opted not to create their own state exchanges.
 
 ### Health information exchange (HIE)
 A mobilization of healthcare information electronically across organizations within a region, community or hospital system. In practice the term HIE may also refer to the organization that facilitates the exchange.
