@@ -480,4 +480,4 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 This Agreement may only be modified by a written amendment signed by an authorized representative of Era of Health, or by the posting by Era of Health of a revised version in accordance with Section R. Changes to These Terms. this User Agreement, together with the Era of Health Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Era of Health relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 ## S.  Questions
-Questions about the Terms of Service? Contact a human at  help@eraofhealth.com.
+Questions about the Terms of Service? Contact a human at  support@eraofhealth.com.
