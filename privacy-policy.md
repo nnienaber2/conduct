@@ -24,16 +24,16 @@ We follow all HIPPA compliant practices.
 We let you decide how to be communicated with.
 Our email, texts or voicemail content will not compromise your privacy. 
 We have a privacy officer on staff to monitor our practices and policies locally and globally. 
-You can reach this person by email help@eraofhealth.com or call 1-650-399-3145
+You can reach this person by email support@eraofhealth.com.
 
 If you deactivate your [account](terminology.md#account), a practitioner or organization can keep information they have contributed if they give a good reason. 
 We comply with HIPPA security requirements. 
 If we suspect a [Breach](terminology.md#breach) of our [Website](terminology.md#website) or application and your information we will let you know. 
-You can 1-650-399-3145 (**NEEDS TO BE A 1-800**)if you want to find out if you have been affected by any [Breach](terminology.md#breach).
+You can email support@eraofhealth.com if you want to find out if you have been affected by any [Breach](terminology.md#breach).
 
-?? You can amend your data at any time.
-?? You can access a full discloser of your information history at any time. 
-?? If you deactivate your [account](terminology.md#account), you can delete all the information you added and request all practitioners and organizations do the same. 
+You can amend your data at any time.
+You can access a full discloser of your information history at any time. 
+If you deactivate your [account](terminology.md#account), you can delete all the information you added and request all practitioners and organizations do the same. 
 
 **Of course, the summary doesn't tell you everything, so please read on for more details!**  
 
@@ -152,7 +152,7 @@ Era of Health operates as a data Processor and adheres to General Data Privacy R
 Era of Health adheres to the Privacy Shield Framework. You may view our entry in the Privacy Shield List. In addition to providing our user's methods of unambiguous, informed consent and control over their data, we participate in and comply with the Privacy Shield framework, and we are committed to subject any of your Information we receive from the EU and EEA to the Privacy Shield Principles. In addition, we continue to participate in the Safe Harbor Framework for Swiss data transfers to the US. 
 
 ## Resolving Complaints
-If you have concerns about the way Era of Health is handling your Information, please let us know immediately. [We](terminology.md#era-of-health) want to help. You may email us directly at help@eraofhealth.com with the subject line "Privacy Concerns." [We](terminology.md#era-of-health) will respond within 45 days at the latest.
+If you have concerns about the way Era of Health is handling your Information, please let us know immediately. [We](terminology.md#era-of-health) want to help. You may email us directly at support@eraofhealth.com with the subject line "Privacy Concerns." [We](terminology.md#era-of-health) will respond within 45 days at the latest.
 
 ## Dispute Resolution Process
 In the unlikely event that a dispute arises between you and Era of Health regarding our handling of your Information, we will do our best to resolve it in a arbitration.
@@ -201,12 +201,12 @@ If you decide to open a pull request to the master branch, please be aware that 
 
 At this moment we have an annual review and modification process of the repository and the feedback we received. If changes are not needed, great! [We'll](terminology.md#era-of-health) let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, Era of Health may alter this Privacy Policy outside that schedule if necessary, such as when we have new product releases.
 
-You can expect that someone from Era of Healths legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, contact help@eraofhealth.com
+You can expect that someone from Era of Healths legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, contact support@eraofhealth.com
 
 If changes to a policy are needed, we will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
 
 **NOTE:** 
-Please don't post legal complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If you need help, contact help@eraofhealth.com and they'll get you an answer.
+Please don't post legal complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If you need help, contact support@eraofhealth.com and they'll get you an answer.
 
 Please avoid hypotheticals. [We](terminology.md#era-of-health) can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. [We](terminology.md#era-of-health) also can't tell you what you should or shouldn't do. [We](terminology.md#era-of-health) can tell you how we interpret our policies.
 
