@@ -78,7 +78,7 @@ Needs definition.
 In computing, bandwidth is the maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth. This definition is in contrast to other fields that define bandwidth as an analog signal measured in hertz.
 
 ### Breach
-In [Era of Health](terminology.md#era-of-health) Legal documents, this means the acquisition, use or disclosure of Information that compromises the security or privacy of Information as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402.
+In [Era of Health](terminology.md#era-of-health) Legal documents, this means the acquisition, use or disclosure of [Information](terminology.md#infomration) that compromises the security or privacy of [Information](terminology.md#infomration) as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402.
 
 ### Bots
 Also known as an internet bot, web robot, or WWW robot, is a software application that runs automated tasks (scripts) over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
