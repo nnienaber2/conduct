@@ -4,7 +4,7 @@
  
 **Effective date: 1st July 2018**
 
-*Thanks for entrusting [Era of Health](terminology.md#era-of-health) with your personal and organizational information. Holding onto your private [information](terminology.md#information) is a serious responsibility, and [we](terminology.md#era-of-health) want you to know how[We're](terminology.md#era-of-health)  handling it.*
+*Thanks for entrusting [Era of Health](terminology.md#era-of-health) with your personal and organizational information. Holding onto your private [information](terminology.md#information) is a serious responsibility, and [we](terminology.md#era-of-health) want you to know how [we're](terminology.md#era-of-health)  handling it.*
 
 *Because it is such an important contract between us and [our](terminology.md#era-of-health) users, [we](terminology.md#era-of-health) have tried to make it as clear as possible. For your convenience, [we](terminology.md#era-of-health) have presented this policy in a short non-binding summary followed by the full legal terms.*
 
