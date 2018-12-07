@@ -9,8 +9,11 @@
 **Summary**
 
 **We believe you have the right to:** 
+
 Control all information you create. 
+
 Control who has accesses to it.
+
 Control what access they have. 
 
 **What that means:**
