@@ -1,8 +1,8 @@
 # ISSUES TEMPLATE
 
-*Please read our **README.md** and **CONTRIBUTING.md** files before creating an issue.*
+*Please read our [**README.md**](README.md) and [**CONTRIBUTING.md**](contributing.md) files before creating an issue.*
 
-***NOTE:** We may not incorporate your feedback into our [Conduct Document](terminology.md#conduct-documents) due to laws that limit our flexibility around those issues. If your feedback is not related to any of the questions below, feel free to delete the template questions and enter your comments in free form.*
+***NOTE:** [We](terminology.md#era-of-health) may not incorporate your feedback into our [Conduct Document](terminology.md#conduct-documents) due to laws that limit our flexibility around those issues. If your feedback is not related to any of the questions below, feel free to delete the template questions and enter your comments in free form.*
 
 #### 1. What's the name of the [Conduct Documents](terminology.md#conduct-documents)?
 
