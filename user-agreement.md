@@ -29,34 +29,31 @@ This describes Era of Health's rights in the [Website](terminology.md#website) a
 ### G. API
 These are the rules for using Era of Health's APIs, whether you are using the API for development or data collection. 
 
-### H. Additional Terms for Era of Health Pages
-We have a few specific rules for content hosted using Era of Health Pages. 
-
-### I. Advertising on Era of Health
+### H. Advertising on Era of Health
 If you want to promote your content on Era of Health, this section lays out some rules you must follow. 
 
-### J. Payment
+### I. Payment
 You are responsible for payment. We are responsible for billing you accurately. 
 
-### K. Cancellation and Termination
+### J. Cancellation and Termination
 You may cancel this agreement and close your account at any time. 
 
-### L. Communications with Era of Health
+### K. Communications with Era of Health
 We only use email and other electronic means to stay in touch with our users. We do not provide phone support. 
 
-### M. Disclaimer of Warranties
+### L. Disclaimer of Warranties
 We provide our service as is, and make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect. 
 
-### N. Limitation of Liability
+### M. Limitation of Liability
 We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
 
-### O. Release and Indemnification
+### N. Release and Indemnification
 You are fully responsible for your use of the service.  
  
-### P. Changes to this User Agreement
+### O. Changes to this User Agreement
 We may modify this agreement but will give you 30 days' notice of changes that affect your rights. 
 
-### Q. Miscellaneous
+### P. Miscellaneous
 Please see this section for legal details including our choice of law.  The Era of Health Terms of Service
 
 **Of course, the summary doesn't tell you everything, so please read on for more details!**
@@ -217,9 +214,9 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 
 To the extent this agreement is not enforceable by applicable law, you grant Era of Health the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
-## E. Organizations (****NEEDS TO BE RE-WRITTEN****)
+## E. Organizations
 **Short version** 
-*You may have access to an organization. We treat the content of an organization as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
+You may create an organization account. We treat the content of an organization as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
 ### 1. Control of Organizations.
 Organizations allow the User to control access to Content. 
@@ -271,15 +268,7 @@ All use of the Era of Health API is subject to this User Agreement and the Era o
 
 Era of Health may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in the resale of Era of Health's Service.
 
-## H. Additional Terms for Era of Health Pages
-**Short version** 
-*The Era of Health Pages hosting service is subject to certain rules, in addition to the rest of the Terms.*
-
-Each Era of Health account comes with access to the Era of Health Pages static hosting service. This hosting service is intended to host static web pages for Era of Health users. Era of Health Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses.
-
-Era of Health reserves the right at all times to reclaim any Era of Health subdomain without liability.
-
-## I. Advertising on Era of Health
+## H. Advertising on Era of Health
 **Short version** 
 *We do not generally prohibit the use of Era of Health for advertising. However, we expect our users to follow certain limitations, so Era of Health messages does not become a spam haven or creepy marketing. No one wants that.*
 
@@ -294,7 +283,7 @@ You may not advertise in other Users' organization, such as by posting monetized
 ### 3. Spamming and Inappropriate Use of Era of Health
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any Era of Health terms or policies.
 
-## J. Payment
+## I. Payment
 **Short version** 
 *You are responsible for any fees associated with your use of Era of Health. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
@@ -318,7 +307,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 ### 5. Responsibility for Payment
 You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Era of Health any charge incurred in connection with your use of the Service. If you dispute the matter, contact Era of Health Support. You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
-## K. Deactivation and Termination
+## J. Deactivation and Termination
 **Short version** 
 *You may deactivate your account at any time. If you do, we'll treat your information responsibly.*
 
@@ -346,7 +335,7 @@ Era of Health has the right to suspend or terminate your access to all or any pa
 ### 4. Survival
 All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-## L. Communications with Era of Health
+## K. Communications with Era of Health
 **Short version**
 *We use email and other electronic means to stay in touch with our users.*
 
@@ -361,7 +350,7 @@ Communications made through email or Era of Health Support's messaging system wi
 ### 3. No Phone Support
 Era of Health only offers support via email, in-service communications, and electronic messages. We do not offer telephone support.
 
-## M. Disclaimer of Warranties
+## L. Disclaimer of Warranties
 **Short version** 
 *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
@@ -369,7 +358,7 @@ Era of Health provides the Website and the Service “as is” and “as availab
 
 Era of Health does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-## N. Limitation of Liability
+## M. Limitation of Liability
 **Short version** 
 *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
@@ -393,7 +382,7 @@ You understand and agree that we will not be liable to you or any third party fo
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-## O. Release and Indemnification
+## N. Release and Indemnification
 **Short version** 
 *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
@@ -401,7 +390,7 @@ If you have a dispute with one or more Users or Organizations, you agree to rele
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Era of Health (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Era of Health of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-## P. Changes to These Terms
+## O. Changes to These Terms
 **Short version** 
 *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
@@ -409,7 +398,7 @@ We reserve the right, at our sole discretion, to amend this User Agreement at an
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
-## Q. Changes to this Agreement
+## P. Changes to this Agreement
 
 We've opened this Agreement up for you to amend and contribute to. We want you to see its historic revision and contribute to it future revision via a repository. We take our relationship with you very serious and want to display nurture trust through transparency. By seeing the past revision you can see our progression of thought over time. By allowing you to post suggestions we are enlisting your help to make improvements to this Agreement in conjunction with our ever-changing world. 
 
@@ -450,7 +439,7 @@ The information in this repository is for informational purposes only and is not
 
 This Agreements terms may not suit your Organization's needs. Please consult a lawyer if you want to adopt this for your own uses.
 
-## R. Miscellaneous  
+## Q. Miscellaneous  
 
 ### 1. Amendments 
 Amendments to this Agreement may not be modified in any respect other than by a written instrument signed by both parties.
@@ -479,5 +468,5 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 ### 9. Amendments; Complete Agreement
 This Agreement may only be modified by a written amendment signed by an authorized representative of Era of Health, or by the posting by Era of Health of a revised version in accordance with Section R. Changes to These Terms. this User Agreement, together with the Era of Health Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Era of Health relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
-## S.  Questions
+## R.  Questions
 Questions about the Terms of Service? Contact a human at  support@eraofhealth.com.
