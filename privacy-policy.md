@@ -1,6 +1,6 @@
 # Era of Health Privacy Policy
  
-**Effective date: 1st July 2018**
+**Effective date: 7th of December 2018**
 
 *Thanks for entrusting [Era of Health](terminology.md#era-of-health) with your personal and organizational information. Holding onto your private [information](terminology.md#information) is a serious responsibility, and [we](terminology.md#era-of-health) want you to know how [we're](terminology.md#era-of-health)  handling it.*
 
