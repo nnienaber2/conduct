@@ -90,7 +90,7 @@ Please see this section for legal details including our choice of law.  The [Era
 
 * “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Health](terminology.md#eraofhealth) [services](terminology.md#service); that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
 
-* “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own. See Content.
+* “User-Generated Content” is Content, written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is Content that you create or own. See Content.
 
 * The “[Website](terminology.md#website)” refers to [Era of Health](terminology.md#eraofhealth)’s website located at eraofhealth.com, and all content, [services](terminology.md#service), and products provided by [Era of Health](terminology.md#eraofhealth) at or through the [Website](terminology.md#website). It also refers to [Era of Health](terminology.md#eraofhealth)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#eraofhealth) product websites with [Era of Health](terminology.md#eraofhealth) copyright in the footer. 
 
@@ -115,7 +115,7 @@ We have a few simple rules for accounts on [Era of Health’s](terminology.md#er
 * You must be age 13 or older. We must comply with United States law and not target our [Service](terminology.md#service) to children under 13, and we do not permit any [Users](terminology.md#user) under 13 on our [Service](terminology.md#service). If we learn of any User under the age of 13, we will terminate that User’s account immediately. If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid [organization](terminology.md#organization)  account may create separate logins for as many [Users](terminology.md#user)s as its subscription allows.
 
-* Overall, the number of Users must not exceed the number of accounts you've ordered from us.
+* Overall, the number of [Users](terminology.md#user) must not exceed the number of accounts you've ordered from us.
 
 ### 3. User Account Security
 You are responsible for keeping your account secure while you use our [Service](terminology.md#service). We offer tools such as two-factor authentication to help you maintain your account's security, but the content of your account and its security are up to you.
@@ -182,13 +182,13 @@ All use of [Era of Health](terminology.md#eraofhealth) data gathered through scr
 ### 6. Privacy
 Misuse of [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user) Information is prohibited.
 
-Any person, entity, or service collecting data from [Era of Health](terminology.md#eraofhealth) must comply with the [Era of Health](terminology.md#eraofhealth) Privacy Statement, particularly in regards to the collection of our [Users](terminology.md#user) Information (as defined in the [Era of Health](terminology.md#eraofhealth) Privacy Statement). If you collect any [Era of Health](terminology.md#eraofhealth) User's Information from [Era of Health](terminology.md#eraofhealth), you agree that you will only use the Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Information you have gathered from [Era of Health](terminology.md#eraofhealth), and you will respond promptly to complaints, removal requests, and "do not contact" requests from [Era of Health](terminology.md#eraofhealth) or [Era of Health](terminology.md#eraofhealth) Users.
+Any person, entity, or service collecting data from [Era of Health](terminology.md#eraofhealth) must comply with the [Era of Health](terminology.md#eraofhealth) Privacy Statement, particularly in regards to the collection of our [Users](terminology.md#user) Information (as defined in the [Era of Health](terminology.md#eraofhealth) Privacy Statement). If you collect any [Era of Health](terminology.md#eraofhealth) User's Information from [Era of Health](terminology.md#eraofhealth), you agree that you will only use the Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Information you have gathered from [Era of Health](terminology.md#eraofhealth), and you will respond promptly to complaints, removal requests, and "do not contact" requests from [Era of Health](terminology.md#eraofhealth) or [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user).
 
 ### 7. Excessive Bandwidth Use
 If we determine your bandwidth usage to be significantly excessive in relation to other [Era of Health](terminology.md#eraofhealth) customers, we reserve the right to suspend your account or throttle your file hosting until you can reduce your bandwidth consumption.
 
 ### 8. User Protection
-You agree not to engage in activity that significantly harms our Users. We will resolve disputes in favor of protecting our Users as a whole.
+You agree not to engage in activity that significantly harms our [Users](terminology.md#user). We will resolve disputes in favor of protecting our [Users](terminology.md#user) as a whole.
 
 ## D. User-Generated Content
 
@@ -204,7 +204,7 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
 ### 3. Ownership of Content, Right to Post, and License Grants
 You retain ownership of and responsibility for Content you create or own ("Your Content"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
-Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other [Era of Health](terminology.md#eraofhealth) Users — certain legal permissions, listed in Sections titled "User-Generated Content." These license grants apply to Your Content. If you upload Content that already comes with a license granting [Era of Health](terminology.md#eraofhealth) the permissions we need to run our [Service](terminology.md#service), no additional license is required. You understand that you will not receive any payment for any of the rights granted in Section titled "User-Generated Content." The licenses you grant to us will end when you remove Your Content from our servers unless other Users have forked it. 
+Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user)— certain legal permissions, listed in Sections titled "User-Generated Content." These license grants apply to Your Content. If you upload Content that already comes with a license granting [Era of Health](terminology.md#eraofhealth) the permissions we need to run our [Service](terminology.md#service), no additional license is required. You understand that you will not receive any payment for any of the rights granted in Section titled "User-Generated Content." The licenses you grant to us will end when you remove Your Content from our servers.
 
 ### 4. License Grant to Us
 We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the [Website](terminology.md#website) and provide the [Service](terminology.md#service). This includes the right to do things like copy it to our database and make backups; show it to you and other [users](terminology.md#user); parse it into a search index or otherwise analyze it on our servers; share it with other [user's](terminology.md#user); and perform it, in case Your Content is something like music or video.
@@ -264,7 +264,7 @@ Abuse or excessively frequent requests to [Era of Health](terminology.md#eraofhe
 
 You may not share API tokens to exceed [Era of Health](terminology.md#eraofhealth)'s rate limitations.
 
-You may not use the API to download data or Content from [Era of Health](terminology.md#eraofhealth) for spamming purposes, including for the purposes of selling [Era of Health](terminology.md#eraofhealth) [users](terminology.md#user) personal information, such as to recruiters, headhunters, and job boards.
+You may not use the API to download data or Content from [Era of Health](terminology.md#eraofhealth) for spamming purposes, including for the purposes of selling [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user) personal information, such as to recruiters, headhunters, and job boards.
 
 All use of the [Era of Health](terminology.md#eraofhealth) API is subject to this User Agreement and the [Era of Health](terminology.md#eraofhealth) Privacy Statement.
 
@@ -279,8 +279,6 @@ We offer Pages sites primarily as a showcase for personal and [organization](ter
 
 ### 2. [Era of Health](terminology.md#eraofhealth) organization
 [Era of Health](terminology.md#eraofhealth) [organization](terminology.md#organization)  is intended to host Content. You may include static images, links, and promotional text, but they must be related to the Organization you are hosting on [Era of Health](terminology.md#eraofhealth).
-
-You may not advertise in other Users Organization, such as by posting monetized or excessive bulk content in issues.
 
 ### 3. Spamming and Inappropriate Use of [Era of Health](terminology.md#eraofhealth)
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any [Era of Health](terminology.md#eraofhealth) terms or policies.
