@@ -14,9 +14,9 @@ As we mentioned in the README, we're mostly looking for contributions to a few o
 
 * [Era of Health User Agreement](https://eraofhealth.com/user-agreement)
 * [Era of Health Privacy Policy](https://eraofhealth.com/privacy-policy)
-* [Era of Health HIPAA Businsss Associate Agreement (BAA)](https://eraofhealth.com/HIPPA-BAA)
+* [Era of Health HIPAA Business Associate Agreement (BAA)](https://eraofhealth.com/HIPPA-BAA)
 
-Like other repositorys, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. We've made an issue template to request information that will help us better understand your feedback.
+Like other repositories, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. We've made an issue template to request information that will help us better understand your feedback.
 
 ## Help Wanted
 
