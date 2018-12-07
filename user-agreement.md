@@ -24,12 +24,12 @@ You own the content you post on [Era of Health](terminology.md#eraofhealth). How
 This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the content you post in an Organization. 
 
 ### F. Intellectual Property Notice
-This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [[Website](terminology.md#website)](terminology.md#website) and service. 
+This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [Website](terminology.md#website) and service. 
 
 ### G. API
 These are the rules for using [Era of Health](terminology.md#eraofhealth)'s APIs, whether you are using the API for development or data collection. 
 
-### H. Advertising on [Era of Health](terminology.md#eraofhealth)
+### H. Advertising on Era of Health
 If you want to promote your content on [Era of Health](terminology.md#eraofhealth), this section lays out some rules you must follow. 
 
 ### I. Payment
@@ -38,7 +38,7 @@ You are responsible for payment. We are responsible for billing you accurately.
 ### J. Deactivation and Termination
 You may cancel this agreement and close your account at any time. 
 
-### K. Communications with [Era of Health](terminology.md#eraofhealth)
+### K. Communications with Era of Health
 We only use email and other electronic means to stay in touch with our [users](terminology.md#user). We do not provide phone support. 
 
 ### L. Disclaimer of Warranties
@@ -57,6 +57,8 @@ We may modify this agreement but will give you 30 days' notice of changes that a
 Please see this section for legal details including our choice of law.  The [Era of Health](terminology.md#eraofhealth) Terms of Service
 
 ### Q. Questions
+Email us at support@eraofhealth.com with any questions. 
+
 
 **Of course, the summary doesn't tell you everything, so please read on for more details!**
 
