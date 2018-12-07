@@ -154,11 +154,11 @@ this [Agreement](terminology.md#agreement) in the event of any such amendments. 
 ### 3. If the User Agreement conflicts with this Business Associate Agreement 
 In the event of a conflict between the Era of Health User Agreement and this Era of Health HIPAA Business Associate Agreement, the terms of this Era of Health HIPAA Business Associate Agreement will govern.
 
-### 4. Modifications ?????
+### 4. Modifications
 No modification of this [Agreement](terminology.md#agreement) or additional obligation assumed by either Party in connection with this [Agreement](terminology.md#agreement) is binding unless it is electronically agreed to by each party or an authorized representative of each Party.
 
 ### 5. Choice and Law; Venue
-The Parties submit to the jurisdiction of the state of Washington and federal courts for or in Seattle, King County, Washington, and agree that any legal action or proceeding relating to this [Agreement](terminology.md#agreement) may be brought in those courts.
+The Parties submit to the jurisdiction of the State of Washington and federal courts for or in Seattle, King County, Washington, and agree that any legal action or proceeding relating to this [Agreement](terminology.md#agreement) may be brought in those courts.
 
 ### 6. Severability
 In the event any part or parts of this [Agreement](terminology.md#agreement) are held to be unenforceable, the remainder of this [Agreement](terminology.md#agreement) will continue in effect.
@@ -179,6 +179,6 @@ Any ambiguity in this [Agreement](terminology.md#agreement) shall be resolved in
 By creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health), [You](terminology.md#user) and [Your Organization](terminology.md#covered-entity) agree [You](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created on behafe or [Your Organization](terminology.md#covered-entity). 
 
 ### 12. Questions
-Questions about this [Agreement](terminology.md#agreement)? Contact a human at help@eraofhealth.com.
+Questions about this [Agreement](terminology.md#agreement)? Contact a human at supportp@eraofhealth.com.
 
 
