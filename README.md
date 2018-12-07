@@ -20,7 +20,7 @@ That's easy: just be responsible. [We](terminology.md#era-of-health) require all
 #### There are a few things you should _not_ post in this repository:
 
 - Please don't post legal complaints or ask for technical support. [We](terminology.md#era-of-health) may not respond to issues promptly. If you need help, contact Support (support@eraofhealth.com) and they'll get you an answer.
--	Please avoid hypotheticals. [We](terminology.md#era-of-health) can't give you legal advice, which means [we](terminology.md#era-of-health) often can't tell you if a hypothetical situation would or wouldn't be a violation of [our](terminology.md#era-of-health) policies. [We](terminology.md#era-of-health) also can't tell you what you should or shouldn't do. [We](terminology.md#era-of-health) can tell you how [We](terminology.md#era-of-health) interpret our policies.
+-	Please avoid hypotheticals. [We](terminology.md#era-of-health) can't give you legal advice, which means [we](terminology.md#era-of-health) often can't tell you if a hypothetical situation would or wouldn't be a violation of [our](terminology.md#era-of-health) policies. [We](terminology.md#era-of-health) also can't tell you what you should or shouldn't do. [We](terminology.md#era-of-health) can tell you how [we](terminology.md#era-of-health) interpret our policies.
 - Please don't give other users legal advice, to avoid confusion.
 
 ### How often will Era of Health review these policies?
