@@ -218,4 +218,4 @@ The information in this repository is for informational purposes only and is not
 
 This Agreements terms may not suit your Organization's needs. Please consult a lawyer if you want to adopt this for your own uses.
 
-Questions about the Privacy Policy? Contact a human at admin@eraofhealth.com.
+Questions about the Privacy Policy? Contact a human at support@eraofhealth.com.
