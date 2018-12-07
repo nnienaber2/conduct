@@ -1,4 +1,4 @@
-# [Era of Health](terminology.md#eraofhealth) User Agreement 
+# Era of Health User Agreement 
 
 **Effective date: 7th of December 2018**  
  
