@@ -45,10 +45,10 @@ We only use email and other electronic means to stay in touch with our [users](t
 We provide our [service](terminology.md#service) as is, and make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect. 
 
 ### M. Limitation of Liability
-We will not be liable for damages or losses arising from your use or inability to use the [service](terminology.md#service)or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
+We will not be liable for damages or losses arising from your use or inability to use the [service](terminology.md#service) or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
 
 ### N. Release and Indemnification
-You are fully responsible for your use of the service.  
+You are fully responsible for your use of the [service](terminology.md#service).  
  
 ### O. Changes to this User Agreement
 We may modify this agreement but will give you 30 days' notice of changes that affect your rights. 
