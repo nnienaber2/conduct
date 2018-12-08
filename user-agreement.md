@@ -18,10 +18,10 @@ These are the basic requirements of having an [account](terminology.md#account) 
 These are the basic rules you must follow when using your [Era of Health](terminology.md#eraofhealth) [account](terminology.md#account). 
 
 ### D. Your Content
-You own the [content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post on [Era of Health](terminology.md#eraofhealth). However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide [services](terminology.md#service) to you. 
+You own the [content](terminology.md#content) you post on [Era of Health](terminology.md#eraofhealth). However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide [services](terminology.md#service) to you. 
 
 ### E. Organizations
-This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post in an Organization. 
+This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the [content](terminology.md#content) you post in an Organization. 
 
 ### F. Intellectual Property Notice
 This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [Website](terminology.md#website) and [service](terminology.md#service). 
@@ -30,7 +30,7 @@ This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [We
 These are the rules for using [Era of Health](terminology.md#eraofhealth)'s APIs, whether you are using the API for development or data collection. 
 
 ### H. Advertising on Era of Health
-If you want to promote your [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) on [Era of Health](terminology.md#eraofhealth), this section lays out some rules you must follow. 
+If you want to promote your [content](terminology.md#content) on [Era of Health](terminology.md#eraofhealth), this section lays out some rules you must follow. 
 
 ### I. Payment
 You are responsible for payment. We are responsible for billing you accurately. 
@@ -89,7 +89,7 @@ Email us at support@eraofhealth.com with any questions.
 
 * “[Your Content](terminology.md#your-content)” is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [Content](terminoloy.md#content) that [You](terminology.md#user) create or own.
 
-* The “[Website](terminology.md#website)” refers to [Era of Health](terminology.md#eraofhealth)’s website located at eraofhealth.com, and all [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)), [services](terminology.md#service), and products provided by [Era of Health](terminology.md#eraofhealth) at or through the [Website](terminology.md#website). It also refers to [Era of Health](terminology.md#eraofhealth)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#eraofhealth) product websites with [Era of Health](terminology.md#eraofhealth) copyright in the footer. 
+* The “[Website](terminology.md#website)” refers to [Era of Health](terminology.md#eraofhealth)’s website located at eraofhealth.com, and all [content](terminology.md#content), [services](terminology.md#service), and products provided by [Era of Health](terminology.md#eraofhealth) at or through the [Website](terminology.md#website). It also refers to [Era of Health](terminology.md#eraofhealth)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#eraofhealth) product websites with [Era of Health](terminology.md#eraofhealth) copyright in the footer. 
 
   Occasionally, websites owned by [Era of Health](terminology.md#eraofhealth) may provide different or additional user agreements. If those conflict with this Agreement, the more specific terms apply to the relevant page or service.
 
@@ -115,9 +115,9 @@ Your login may only be used by one person — i.e., a single login may not be sh
 * Overall, the number of [Users](terminology.md#user) must not exceed the number of [account](terminology.md#account)s you've ordered from us.
 
 ### 3. User Account Security
-You are responsible for keeping your [account](terminology.md#account) secure while you use our [Service](terminology.md#service). We offer tools such as two-factor authentication to help you maintain your [account](terminology.md#account)'s security, but the [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) of your [account](terminology.md#account) and its security are up to you.
+You are responsible for keeping your [account](terminology.md#account) secure while you use our [Service](terminology.md#service). We offer tools such as two-factor authentication to help you maintain your [account](terminology.md#account)'s security, but the [content](terminology.md#content) of your [account](terminology.md#account) and its security are up to you.
 
-You are responsible for all [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) posted and activity that occurs under your [account](terminology.md#account) (even when [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) is posted by others who have [account](terminology.md#account)s under your [account](terminology.md#account)).
+You are responsible for all [content](terminology.md#content) posted and activity that occurs under your [account](terminology.md#account) even when [content](terminology.md#content) is posted by others who have [account](terminology.md#account)s under your [account](terminology.md#account)).
 
 You are responsible for maintaining the security of your [account](terminology.md#account) and password. [Era of Health](terminology.md#eraofhealth) cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 
@@ -130,7 +130,7 @@ If you are a government User or otherwise accessing or using any [Era of Health]
 
 ## C. Acceptable Use
 **Short version** 
-*While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you can post, conduct on the service, and other limitations. In short, use your manners.*
+*While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on [content](terminology.md#content) you can post, conduct on the service, and other limitations. In short, use your manners.*
 
 ### 1. Compliance with Laws and Regulations
 Your use of the [Website](terminology.md#website) and [Service](terminology.md#service) must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the [Service](terminology.md#service) is in compliance with laws and any applicable regulations.
@@ -230,12 +230,12 @@ You may create an [organization](terminology.md#organization)  [account](termino
 
 When access is required for security reasons. You may choose to enable additional access to your organization. For example:
 
-* You may enable various [Era of Health](terminology.md#eraofhealth) [services](terminology.md#service) or features that require additional rights to [Your Content](terminology.md#your-content) in [organizations](terminology.md#organization) . These rights may vary depending on the [service](terminology.md#service)or feature, but [Era of Health](terminology.md#eraofhealth) will continue to treat your [organization](terminology.md#organization) Content as confidential. If those [services](terminology.md#service) or features require rights in addition to those we need to provide the [Era of Health](terminology.md#eraofhealth) [Service](terminology.md#service), we will provide an explanation of those rights.
+* You may enable various [Era of Health](terminology.md#eraofhealth) [services](terminology.md#service) or features that require additional rights to [Your Content](terminology.md#your-content) in [organizations](terminology.md#organization) . These rights may vary depending on the [service](terminology.md#service)or feature, but [Era of Health](terminology.md#eraofhealth) will continue to treat your [organization](terminology.md#organization) [Content](terminology.md#content) as confidential. If those [services](terminology.md#service) or features require rights in addition to those we need to provide the [Era of Health](terminology.md#eraofhealth) [Service](terminology.md#service), we will provide an explanation of those rights.
 
-* You may also grant a third-party application authorization to use, access, and disclose the [content](terminology.md#content)s of your organization. Your use of third-party applications is at your sole risk; [Era of Health](terminology.md#eraofhealth) is not liable for disclosures to third parties that you authorize to access an organization.
+* You may also grant a third-party application authorization to use, access, and disclose the [contents](terminology.md#content) of your organization. Your use of third-party applications is at your sole risk; [Era of Health](terminology.md#eraofhealth) is not liable for disclosures to third parties that you authorize to access an organization.
 
 ### 4. Exclusions
-If we have reason to believe the [content](terminology.md#content)s of an [organization](terminology.md#organization) are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be compelled by law to disclose the [content](terminology.md#content)s of your organization.
+If we have reason to believe the [contents](terminology.md#content) of an [organization](terminology.md#organization) are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be compelled by law to disclose the [contents](terminology.md#content) of your organization.
 
 ## F. Intellectual Property Notice
 **Short version** 
