@@ -85,7 +85,7 @@ Email us at support@eraofhealth.com with any questions.
 
 * The “[Service](terminology.md#service)” refers to the applications, software, products, and [services](terminology.md#service) provided by [Era of Health](terminology.md#eraofhealth).
 
-* “[User](terminology.md#user),” Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health)services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
+* “[User](terminology.md#user),” Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health)services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A [User](terminology.md#user) must be at least 13 years of age. Special terms may apply for government accounts.
 
 * “[Your Content](terminology.md#your-content)” is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [Content](terminoloy.md#content) that [You](terminology.md#user) create or own.
 
@@ -109,7 +109,7 @@ We have a few simple rules for [account](terminology.md#account)s on [Era of Hea
 
 * One person or legal entity may maintain no more than one free [User](terminology.md#user) [account](terminology.md#account).
 
-* You must be age 13 or older. We must comply with United States law and not target our [Service](terminology.md#service) to children under 13, and we do not permit any [Users](terminology.md#user) under 13 on our [Service](terminology.md#service). If we learn of any User under the age of 13, we will terminate that User’s [account](terminology.md#account) immediately. If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
+* You must be age 13 or older. We must comply with United States law and not target our [Service](terminology.md#service) to children under 13, and we do not permit any [Users](terminology.md#user) under 13 on our [Service](terminology.md#service). If we learn of any [User](terminology.md#user) under the age of 13, we will terminate that User’s [account](terminology.md#account) immediately. If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid [organization](terminology.md#organization)  [account](terminology.md#account) may create separate logins for as many [Users](terminology.md#user)s as its subscription allows.
 
 * Overall, the number of [Users](terminology.md#user) must not exceed the number of [account](terminology.md#account)s you've ordered from us.
@@ -126,7 +126,7 @@ You will promptly notify [Era of Health](terminology.md#eraofhealth) if you beco
 ### 4. Additional Terms
 In some situations, third parties' terms may apply to your use of [Era of Health](terminology.md#eraofhealth). For example, you may be a member of an [organization](terminology.md#organization)  on [Era of Health](terminology.md#eraofhealth) with its own terms or license agreements; you may download an application that integrates with [Era of Health](terminology.md#eraofhealth), or you may use [Era of Health](terminology.md#eraofhealth) to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-If you are a government User or otherwise accessing or using any [Era of Health](terminology.md#eraofhealth) [Service](terminology.md#service) in a government capacity, this Government Amendment to [Era of Health](terminology.md#eraofhealth) User Agreement applies to you, and you agree to its provisions.
+If you are a government [User](terminology.md#user) or otherwise accessing or using any [Era of Health](terminology.md#eraofhealth) [Service](terminology.md#service) in a government capacity, this Government Amendment to [Era of Health](terminology.md#eraofhealth) User Agreement applies to you, and you agree to its provisions.
 
 ## C. Acceptable Use
 **Short version** 
@@ -179,7 +179,7 @@ All use of [Era of Health](terminology.md#eraofhealth) data gathered through [sc
 ### 6. Privacy
 Misuse of [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user) Information is prohibited.
 
-Any person, entity, or [service](terminology.md#service)collecting data from [Era of Health](terminology.md#eraofhealth) must comply with the [Era of Health](terminology.md#eraofhealth) Privacy Statement, particularly in regards to the collection of our [Users](terminology.md#user) Information (as defined in the [Era of Health](terminology.md#eraofhealth) Privacy Statement). If you collect any [Era of Health](terminology.md#eraofhealth) User's Information from [Era of Health](terminology.md#eraofhealth), you agree that you will only use the Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Information you have gathered from [Era of Health](terminology.md#eraofhealth), and you will respond promptly to complaints, removal requests, and "do not contact" requests from [Era of Health](terminology.md#eraofhealth) or [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user).
+Any person, entity, or [service](terminology.md#service)collecting data from [Era of Health](terminology.md#eraofhealth) must comply with the [Era of Health](terminology.md#eraofhealth) Privacy Statement, particularly in regards to the collection of our [Users](terminology.md#user) Information (as defined in the [Era of Health](terminology.md#eraofhealth) Privacy Statement). If you collect any [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user) information from [Era of Health](terminology.md#eraofhealth), you agree that you will only use the information you gather for the purpose for which our [User](terminology.md#user) has authorized it. You agree that you will reasonably secure any information you have gathered from [Era of Health](terminology.md#eraofhealth), and you will respond promptly to complaints, removal requests, and "do not contact" requests from [Era of Health](terminology.md#eraofhealth) or [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user).
 
 ### 7. Excessive Bandwidth Use
 If we determine your [bandwidth](terminology.md#bandwidth) usage to be significantly excessive in relation to other [Era of Health](terminology.md#eraofhealth) customers, we reserve the right to suspend your [account](terminology.md#account) or throttle your file hosting until you can reduce your [bandwidth](terminology.md#bandwidth) consumption.
@@ -218,7 +218,7 @@ To the extent this agreement is not enforceable by applicable law, you grant [Er
 You may create an [organization](terminology.md#organization)  [account](terminology.md#account). We treat the [content](terminology.md#content) of an [organization](terminology.md#organization)  as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
 ### 1. Control of Organizations.
-[Organizations](terminology.md#organization)  allow the User to control access to [content](terminology.md#content). 
+[Organizations](terminology.md#organization)  allow the[User](terminology.md#user) to control access to [content](terminology.md#content). 
 
 ### 2. Confidentiality of Organization.
 [Era of Health](terminology.md#eraofhealth) considers the [content](terminology.md#content)s of [organizations](terminology.md#organization)  to be confidential to you. [Era of Health](terminology.md#eraofhealth) will protect the [content](terminology.md#content)s of [organizations](terminology.md#organization)  from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
@@ -254,7 +254,7 @@ Note that CC0-1.0 does not grant any trademark permissions. For details on this 
 
 ## G. API Terms
 **Short version** 
-*You agree to this  User Agreement, plus this Section H, when using any of [Era of Health](terminology.md#eraofhealth)'s APIs (Application Provider Interface), including the use of the API through a third-party product that accesses [Era of Health](terminology.md#eraofhealth).*
+*You agree to this User Agreement, plus this Section H, when using any of [Era of Health](terminology.md#eraofhealth)'s APIs (Application Provider Interface), including the use of the API through a third-party product that accesses [Era of Health](terminology.md#eraofhealth).*
 
 **No Abuse or Overuse of the API**
 Abuse or excessively frequent requests to [Era of Health](terminology.md#eraofhealth) via the API may result in the temporary or permanent suspension of your [account](terminology.md#account)'s access to the API. [Era of Health](terminology.md#eraofhealth), in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
@@ -265,7 +265,7 @@ You may not use the API to download data or [content](terminology.md#content) fr
 
 All use of the [Era of Health](terminology.md#eraofhealth) API is subject to this User Agreement and the [Era of Health](terminology.md#eraofhealth) Privacy Statement.
 
-[Era of Health](terminology.md#eraofhealth) may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in the resale of [Era of Health’s](terminology.md#eraofhealth) [Service](terminology.md#service).
+[Era of Health](terminology.md#eraofhealth) may offer subscription-based access to our API for those [Users](terminology.md#user) who require high-throughput access or access that would result in the resale of [Era of Health’s](terminology.md#eraofhealth) [Service](terminology.md#service).
 
 ## H. Advertising on [Era of Health](terminology.md#eraofhealth)
 **Short version** 
@@ -314,9 +314,9 @@ It is your responsibility to properly deactivate your [account](terminology.md#a
 ### 2. Upon Deactivate
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Information may remain in encrypted backups. This information can not be recovered once your [account](terminology.md#account) is deactivated.
 
-We may retain certain User Information indefinitely unless you request its deletion. For example, we don’t automatically delete inactive [user](terminology.md#user) [account](terminology.md#account)s, so unless you choose to request your [account](terminology.md#account) deleted, we will retain your [account](terminology.md#account) information indefinitely.
+We may retain certain [Information](terminology.md#information) indefinitely unless you request its deletion. For example, we don’t automatically delete inactive [user](terminology.md#user) [account](terminology.md#account)s, so unless you choose to request your [account](terminology.md#account) deleted, we will retain your [account](terminology.md#account) information indefinitely.
 
-If you would like to deactivate your [account](terminology.md#account) or delete your User Information, you may do so in your [user](terminology.md#user) profile. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If you would like to deactivate your [account](terminology.md#account) or delete your [Information](terminology.md#information), you may do so in your [user](terminology.md#user) profile. We will retain and use your [Information](terminology.md#information) as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 We will not delete [content](terminology.md#content) that you have contributed to other [Users](terminology.md#user) or Organization.  
 
