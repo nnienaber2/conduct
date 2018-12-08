@@ -17,14 +17,14 @@ These are the basic requirements of having an [account](terminology.md#account) 
 ### C. Acceptable Use 
 These are the basic rules you must follow when using your [Era of Health](terminology.md#eraofhealth) [account](terminology.md#account). 
 
-### D. User-Generated Content
+### D. Your Content
 You own the [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post on [Era of Health](terminology.md#eraofhealth). However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide [services](terminology.md#service) to you. 
 
 ### E. Organizations
 This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post in an Organization. 
 
 ### F. Intellectual Property Notice
-This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [Website](terminology.md#website) and service. 
+This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [Website](terminology.md#website) and [service](terminology.md#service). 
 
 ### G. API
 These are the rules for using [Era of Health](terminology.md#eraofhealth)'s APIs, whether you are using the API for development or data collection. 
@@ -42,10 +42,10 @@ You may cancel this agreement and close your [account](terminology.md#account) a
 We only use email and other electronic means to stay in touch with our [users](terminology.md#user). We do not provide phone support. 
 
 ### L. Disclaimer of Warranties
-We provide our service as is, and make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect. 
+We provide our [service](terminology.md#service) as is, and make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect. 
 
 ### M. Limitation of Liability
-We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
+We will not be liable for damages or losses arising from your use or inability to use the [service](terminology.md#service)or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
 
 ### N. Release and Indemnification
 You are fully responsible for your use of the service.  
@@ -69,30 +69,25 @@ Email us at support@eraofhealth.com with any questions.
 **Short version**
 
 *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
-
-* "[User](terminology.md#user)-Generated Content"
-* "Your Content"
-
-
 * The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “User Agreement”) and all other operating rules, policies (including the [Era of Health](terminology.md#eraofhealth) Privacy Policy, available at eraofhealth.com and procedures that we may publish from time to time on the [Website](terminology.md#website). Most of our site policies are available at eraofhealth.com in the footer or on our publicly viewable github [account](terminology.md#account) https://github.com/eraofhealth/conduct/tree/master
 
 * "[Bandwidth](terminology.md#bandwidth)" In computing, [bandwidth](terminology.md#bandwidth) is the maximum rate of data transfer across a given path. [Bandwidth](terminology.md#bandwidth) may be characterized as network [bandwidth](terminology.md#bandwidth), data [bandwidth](terminology.md#bandwidth), or digital [bandwidth](terminology.md#bandwidth). This definition is in contrast to other fields that define [bandwidth](terminology.md#bandwidth) as an analog signal measured in hertz.
 
 * "[Bots](terminology.md#bots)" also known as an internet bot, web robot, or WWW robot, is a software application that runs automated tasks (scripts) over the Internet. Typically, [bots](terminology.md#bots) perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
 
-* “[content](terminology.md#content)” refers to [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) featured or displayed through the [Website](terminology.md#website), including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the [Website](terminology.md#website) or otherwise available through the Service. "Content" also includes Services. See also User-Generated [content](terminology.md#content).
+* “[Content](terminology.md#content)” is [content](terminology.md#content) featured or displayed through the [Website](terminology.md#website), including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the [Website](terminology.md#website) or otherwise available through the [Service](terminology.md#service). "[Content](terminology.md#content)" also includes [Service](terminology.md#service). [Your Content](terminology.md#your-content) is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "[Your Content](terminology.md#your-content)" is [Content](terminology.md#content) that [You](terminology.md#user), the [Users](terminology.md#user) create or own. See [Your Content](terminology.md#your-content).
 
 * “[Era of Health](terminology.md#eraofhealth),” “We,” and “Us” refer to [Era of Health](terminology.md#eraofhealth), Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 
-* "Moral rights" are the rights of creators of copyrighted works. Moral rights are distinct from any economic rights tied to copyrights. Even if a creator has assigned their copyright rights to a third party, they maintain the moral rights to the work. They include the right of integrity and attribution unless waived. 
+* "[Moral rights](terminoloyg.md#moral-rights)" are the rights of creators of copyrighted works. [Moral rights](terminology.md#moral-rights) are distinct from any economic rights tied to copyrights. Even if a creator has assigned their copyright rights to a third party, they maintain the [moral rights](terminology.md#moral-rights) to the work. They include the right of integrity and attribution unless waived. 
 
 * "[Scraping](terminology.md#scraping)" also known as Web scraping, web harvesting, or web data extraction is the act of copying data from websites. While [scraping](terminology.md#scraping) can be done manually, the term typically refers to automated processes using a [bot or web crawler](terminology.md#bots).
 
 * The “[Service](terminology.md#service)” refers to the applications, software, products, and [services](terminology.md#service) provided by [Era of Health](terminology.md#eraofhealth).
 
-* “[User](terminology.md#user),” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using [Era of Health](terminology.md#eraofhealth) [services](terminology.md#service); that accesses or uses any part of the [account](terminology.md#account), or that directs the use of the [account](terminology.md#account) in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government [account](terminology.md#account)s.
+* “[User](terminology.md#user),” Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health)services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
 
-* “User-Generated Content” is [content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [content](terminology.md#content) that you create or own. See [content](terminology.md#content).
+* “[Your Content](terminology.md#your-content)” is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [Content](terminoloy.md#content) that [You](terminology.md#user) create or own.
 
 * The “[Website](terminology.md#website)” refers to [Era of Health](terminology.md#eraofhealth)’s website located at eraofhealth.com, and all [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)), [services](terminology.md#service), and products provided by [Era of Health](terminology.md#eraofhealth) at or through the [Website](terminology.md#website). It also refers to [Era of Health](terminology.md#eraofhealth)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#eraofhealth) product websites with [Era of Health](terminology.md#eraofhealth) copyright in the footer. 
 
@@ -184,7 +179,7 @@ All use of [Era of Health](terminology.md#eraofhealth) data gathered through [sc
 ### 6. Privacy
 Misuse of [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user) Information is prohibited.
 
-Any person, entity, or service collecting data from [Era of Health](terminology.md#eraofhealth) must comply with the [Era of Health](terminology.md#eraofhealth) Privacy Statement, particularly in regards to the collection of our [Users](terminology.md#user) Information (as defined in the [Era of Health](terminology.md#eraofhealth) Privacy Statement). If you collect any [Era of Health](terminology.md#eraofhealth) User's Information from [Era of Health](terminology.md#eraofhealth), you agree that you will only use the Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Information you have gathered from [Era of Health](terminology.md#eraofhealth), and you will respond promptly to complaints, removal requests, and "do not contact" requests from [Era of Health](terminology.md#eraofhealth) or [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user).
+Any person, entity, or [service](terminology.md#service)collecting data from [Era of Health](terminology.md#eraofhealth) must comply with the [Era of Health](terminology.md#eraofhealth) Privacy Statement, particularly in regards to the collection of our [Users](terminology.md#user) Information (as defined in the [Era of Health](terminology.md#eraofhealth) Privacy Statement). If you collect any [Era of Health](terminology.md#eraofhealth) User's Information from [Era of Health](terminology.md#eraofhealth), you agree that you will only use the Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Information you have gathered from [Era of Health](terminology.md#eraofhealth), and you will respond promptly to complaints, removal requests, and "do not contact" requests from [Era of Health](terminology.md#eraofhealth) or [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user).
 
 ### 7. Excessive Bandwidth Use
 If we determine your [bandwidth](terminology.md#bandwidth) usage to be significantly excessive in relation to other [Era of Health](terminology.md#eraofhealth) customers, we reserve the right to suspend your [account](terminology.md#account) or throttle your file hosting until you can reduce your [bandwidth](terminology.md#bandwidth) consumption.
@@ -192,31 +187,31 @@ If we determine your [bandwidth](terminology.md#bandwidth) usage to be significa
 ### 8. User Protection
 You agree not to engage in activity that significantly harms our [Users](terminology.md#user). We will resolve disputes in favor of protecting our [Users](terminology.md#user) as a whole.
 
-## D. User-Generated Content
+## D. Your Content
 
 **Short version** 
 *You own [content](terminology.md#content) you create, but you allow us certain rights to it, so that we can display and share the [content](terminology.md#content) you post. You still have control over your [content](terminology.md#content), and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove [content](terminology.md#content) or close [account](terminology.md#account)s if we need to.*
 
-### 1. Responsibility for User-Generated Content
-You may create or upload User-Generated Content while using the [Service](terminology.md#service). You are solely responsible for the [content](terminology.md#content) of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the [Service](terminology.md#service), regardless of the form of that [content](terminology.md#content). We are not responsible for any public display or misuse of your User-Generated Content.
+### 1. Responsibility for Your Content
+You may create or upload [Your Content](terminology.md#your-content)while using the [Service](terminology.md#service). You are solely responsible for the [content](terminology.md#content) of, and for any harm resulting from, any [Content](terminology.md#content) that you post, upload, link to or otherwise make available via the [Service](terminology.md#service), regardless of the form of that [content](terminology.md#content). We are not responsible for any public display or misuse of [Your Content](terminology.md#your-content).
 
 ### 2. [Era of Health](terminology.md#eraofhealth) May Remove Content
-We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any [Era of Health](terminology.md#eraofhealth) terms or policies.
+We do not pre-screen [Your Content](terminology.md#your-content), but we have the right (though not the obligation) to refuse or remove any [Your Content](terminology.md#your-content) that, in our sole discretion, violates any [Era of Health](terminology.md#eraofhealth) terms or policies.
 
 ### 3. Ownership of Content, Right to Post, and License Grants
-You retain ownership of and responsibility for [content](terminology.md#content) you create or own ("Your Content"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any [content](terminology.md#content) you post; that you will only submit [content](terminology.md#content) that you have the right to post; and that you will fully comply with any third party licenses relating to [content](terminology.md#content) you post.
+You retain ownership of and responsibility for [content](terminology.md#content) you create or own ("[Your Content](terminology.md#your-content)"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any [content](terminology.md#content) you post; that you will only submit [content](terminology.md#content) that you have the right to post; and that you will fully comply with any third party licenses relating to [content](terminology.md#content) you post.
 
-Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user)— certain legal permissions, listed in Sections titled "User-Generated Content." These license grants apply to Your Content. If you upload [content](terminology.md#content) that already comes with a license granting [Era of Health](terminology.md#eraofhealth) the permissions we need to run our [Service](terminology.md#service), no additional license is required. You understand that you will not receive any payment for any of the rights granted in Section titled "User-Generated Content." The licenses you grant to us will end when you remove Your Content from our servers.
+Because you retain ownership of and responsibility for [Your Content](terminology.md#your-content), we need you to grant us — and other [Era of Health](terminology.md#eraofhealth) [Users](terminology.md#user)— certain legal permissions, listed in Sections titled "[Your Content](terminology.md#your-content)." These license grants apply to [Your Content](terminology.md#your-content). If you upload [content](terminology.md#content) that already comes with a license granting [Era of Health](terminology.md#eraofhealth) the permissions we need to run our [Service](terminology.md#service), no additional license is required. You understand that you will not receive any payment for any of the rights granted in Section titled "[Your Content](terminology.md#your-content)." The licenses you grant to us will end when you remove [Your Content](terminology.md#your-content) from our servers.
 
 ### 4. License Grant to Us
-We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the [Website](terminology.md#website) and provide the [Service](terminology.md#service). This includes the right to do things like copy it to our database and make backups; show it to you and other [users](terminology.md#user); parse it into a search index or otherwise analyze it on our servers; share it with other [user's](terminology.md#user); and perform it, in case Your Content is something like music or video.
+We need the legal right to do things like host [Your Content](terminology.md#your-content), publish it, and share it. You grant us and our legal successors the right to store, parse, and display [Your Content](terminology.md#your-content), and make incidental copies as necessary to render the [Website](terminology.md#website) and provide the [Service](terminology.md#service). This includes the right to do things like copy it to our database and make backups; show it to you and other [users](terminology.md#user); parse it into a search index or otherwise analyze it on our servers; share it with other [user's](terminology.md#user); and perform it, in case [Your Content](terminology.md#your-content) is something like music or video.
 
-This license does not grant [Era of Health](terminology.md#eraofhealth) the right to sell Your Content or otherwise distribute or use it outside of our provision of the [Service](terminology.md#service).
+This license does not grant [Era of Health](terminology.md#eraofhealth) the right to sell [Your Content](terminology.md#your-content) or otherwise distribute or use it outside of our provision of the [Service](terminology.md#service).
 
 ### 5. Moral Rights
-You retain all moral rights to Your Content that you upload, publish, or submit to any part of the [Service](terminology.md#service), including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
+You retain all [moral rights](terminology.md#moral-rights) to [Your Content](terminology.md#your-content) that you upload, publish, or submit to any part of the [Service](terminology.md#service), including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
 
-To the extent this agreement is not enforceable by applicable law, you grant [Era of Health](terminology.md#eraofhealth) the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the [Website](terminology.md#website) and provide the [Service](terminology.md#service).
+To the extent this agreement is not enforceable by applicable law, you grant [Era of Health](terminology.md#eraofhealth) the rights we need to use [Your Content](terminology.md#your-content) without attribution and to make reasonable adaptations of [Your Content](terminology.md#your-content) as necessary to render the [Website](terminology.md#website) and provide the [Service](terminology.md#service).
 
 ## E. Organizations
 **Short version** 
@@ -235,7 +230,7 @@ You may create an [organization](terminology.md#organization)  [account](termino
 
 When access is required for security reasons. You may choose to enable additional access to your organization. For example:
 
-* You may enable various [Era of Health](terminology.md#eraofhealth) [services](terminology.md#service) or features that require additional rights to Your Content in [organizations](terminology.md#organization) . These rights may vary depending on the service or feature, but [Era of Health](terminology.md#eraofhealth) will continue to treat your [organization](terminology.md#organization) Content as confidential. If those [services](terminology.md#service) or features require rights in addition to those we need to provide the [Era of Health](terminology.md#eraofhealth) [Service](terminology.md#service), we will provide an explanation of those rights.
+* You may enable various [Era of Health](terminology.md#eraofhealth) [services](terminology.md#service) or features that require additional rights to [Your Content](terminology.md#your-content) in [organizations](terminology.md#organization) . These rights may vary depending on the [service](terminology.md#service)or feature, but [Era of Health](terminology.md#eraofhealth) will continue to treat your [organization](terminology.md#organization) Content as confidential. If those [services](terminology.md#service) or features require rights in addition to those we need to provide the [Era of Health](terminology.md#eraofhealth) [Service](terminology.md#service), we will provide an explanation of those rights.
 
 * You may also grant a third-party application authorization to use, access, and disclose the [content](terminology.md#content)s of your organization. Your use of third-party applications is at your sole risk; [Era of Health](terminology.md#eraofhealth) is not liable for disclosures to third parties that you authorize to access an organization.
 
@@ -244,7 +239,7 @@ If we have reason to believe the [content](terminology.md#content)s of an [organ
 
 ## F. Intellectual Property Notice
 **Short version** 
-*We own the service and all of our [content](terminology.md#content). In order for you to use our [content](terminology.md#content), we give you certain rights to it, but you may only use our [content](terminology.md#content) in the way we have allowed.*
+*We own the [service](terminology.md#service)and all of our [content](terminology.md#content). In order for you to use our [content](terminology.md#content), we give you certain rights to it, but you may only use our [content](terminology.md#content) in the way we have allowed.*
 
 ### 1. [Era of Health](terminology.md#eraofhealth)'s Rights to [content](terminology.md#content)
 [Era of Health](terminology.md#eraofhealth) and our licensors, vendors, agents, and/or our [content](terminology.md#content) providers retain ownership of all intellectual property rights of any kind related to the [Website](terminology.md#website) and [Service](terminology.md#service). We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the [Website](terminology.md#website) and [Service](terminology.md#service) is copyright © [Era of Health](terminology.md#eraofhealth), Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from [Era of Health](terminology.md#eraofhealth).
@@ -297,10 +292,10 @@ We will immediately bill you when you upgrade from the free plan to any paying p
 If you change from a monthly billing plan to a yearly billing plan, [Era of Health](terminology.md#eraofhealth) will bill you for a full year at the next monthly billing date.
 
 If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
-You may change your level of service at any time by choosing a plan option or going into your Billing settings. If you choose to downgrade your [account](terminology.md#account), you may lose access to [content](terminology.md#content), features, or capacity of your [account](terminology.md#account). Please see our section on Cancellation for information on getting a copy of that [content](terminology.md#content).
+You may change your level of [service](terminology.md#service)at any time by choosing a plan option or going into your Billing settings. If you choose to downgrade your [account](terminology.md#account), you may lose access to [content](terminology.md#content), features, or capacity of your [account](terminology.md#account). Please see our section on Cancellation for information on getting a copy of that [content](terminology.md#content).
 
 ### 3. Billing Schedule; No Refunds
-For monthly or yearly payment plans, the [Service](terminology.md#service) is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open [account](terminology.md#account); however, the service will remain active for the length of the paid billing period.
+For monthly or yearly payment plans, the [Service](terminology.md#service) is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open [account](terminology.md#account); however, the [service](terminology.md#service)will remain active for the length of the paid billing period.
 In order to treat everyone equally, no exceptions will be made.
 
 ### 4. Authorization
@@ -332,7 +327,7 @@ We will not delete [content](terminology.md#content) that other [Organizations](
 Upon request, we will make a reasonable effort to provide an [account](terminology.md#account) owner with a copy of your lawful, non-infringing [account](terminology.md#account) [content](terminology.md#content)s after [account](terminology.md#account) cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade.
 
 ### 3. [Era of Health](terminology.md#eraofhealth) May Terminate
-[Era of Health](terminology.md#eraofhealth) has the right to suspend or terminate your access to all or any part of the [Website](terminology.md#website) at any time, with or without cause, with or without notice, effective immediately. [Era of Health](terminology.md#eraofhealth) reserves the right to refuse service to anyone for any reason at any time.
+[Era of Health](terminology.md#eraofhealth) has the right to suspend or terminate your access to all or any part of the [Website](terminology.md#website) at any time, with or without cause, with or without notice, effective immediately. [Era of Health](terminology.md#eraofhealth) reserves the right to refuse [service](terminology.md#service)to anyone for any reason at any time.
 
 ### 4. Survival
 All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
@@ -354,7 +349,7 @@ Communications made through email or [Era of Health](terminology.md#eraofhealth)
 
 ## L. Disclaimer of Warranties
 **Short version** 
-*We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
+*We provide our [service](terminology.md#service)as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
 [Era of Health](terminology.md#eraofhealth) provides the [Website](terminology.md#website) and the [Service](terminology.md#service) “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the [Website](terminology.md#website) and the [Service](terminology.md#service) including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy, and non-infringement.
 
@@ -362,11 +357,11 @@ Communications made through email or [Era of Health](terminology.md#eraofhealth)
 
 ## M. Limitation of Liability
 **Short version** 
-*We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
+*We will not be liable for damages or losses arising from your use or inability to use the [service](terminology.md#service)or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
-* the use, disclosure, or display of your User-Generated Content;
+* the use, disclosure, or display of [Your Content](terminology.md#your-content);
 
 * your use or inability to use the [Service](terminology.md#service);
 
