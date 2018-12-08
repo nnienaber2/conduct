@@ -18,7 +18,7 @@ These are the basic requirements of having an [account](terminology.md#account) 
 These are the basic rules you must follow when using your [Era of Health](terminology.md#eraofhealth) [account](terminology.md#account). 
 
 ### D. Your Content
-You own the [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post on [Era of Health](terminology.md#eraofhealth). However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide [services](terminology.md#service) to you. 
+You own the [content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post on [Era of Health](terminology.md#eraofhealth). However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide [services](terminology.md#service) to you. 
 
 ### E. Organizations
 This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the [[content](terminology.md#content)](terminology.md#[content](terminology.md#content)) you post in an Organization. 
