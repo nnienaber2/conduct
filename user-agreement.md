@@ -105,7 +105,7 @@ You must provide a valid email address in order to complete the signup process. 
 ### 2. Account Requirements
 We have a few simple rules for [account](terminology.md#account)s on [Era of Health’s](terminology.md#eraofhealth) [Service](terminology.md#service).
 
-* You must be a human to create an [account](terminology.md#account). [Accounts](terminology.md#account)s registered by "bots" or other automated methods are not permitted. 
+* You must be a human to create an [account](terminology.md#account). [Accounts](terminology.md#account) registered by "bots" or other automated methods are not permitted. 
 
 * One person or legal entity may maintain no more than one free [User](terminology.md#user) [account](terminology.md#account).
 
