@@ -55,7 +55,7 @@ Needs definition
 Is a term used in healthcare to refer to people's daily self care activities. Practitioners often use a person's ability or inability to perform ADLs as a measurement of their functional status, particularly in regard to people post injury, with disabilities and the elderly. Common ADLs include feeding ourselves, bathing, dressing, grooming, work, homemaking, cleaning oneself after defecating and leisure. See [Instrumental activities of daily living (IADLs)](terminology.md#Instrumental-activities-of-daily-living-IADLs) for explaination on what let an individual acheive ADLs.
 
 ### Agreement
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available at eraofhealth.com/site/privacy ) and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our Website https://eraofhealth.com/. 
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available on the footer (bottom of the page) of our Website https://eraofhealth.com/ and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our Website https://eraofhealth.com/. 
 
 ### Ambulatory care 
 Medical care provided on an outpatient basis. If [you](terminology.md#user) are hospitalized it is not ambulatory care. Such as visits to emergency departments resulting in hospital admission, these would be considered emergency medicine visits rather than ambulatory care.
@@ -325,17 +325,6 @@ Sometimes called ["Personal" Health Information](terminology.md#personla-health-
 ### Public Health Service Act (PHSA)
 Is a United States federal law enacted in 1944. It gave the [U.S. Public Health Service (USPHS0](us.s.-public-health-servics-usphs) responsibility for preventing the introduction, transmission and spread of communicable diseases from foreign countries into the United States.[
 
-### RAPP- Systematic E-assessment of Postoperative Recovery in Patients Undergoing Day Surgery (RAPP)
-https://www.semanticscholar.org/paper/The-Development-of-the-Recovery-Assessments-by-A-Jaensson-Dahlberg/4e445e9d1997f162383d70e07c061e59e9de4652 
-https://www.clinicaltrials.gov/ct2/show/record/NCT02492191?term=ulrica+Nilsson&rank=1 
-https://www.imedicalapps.com/2017/04/surgery-app-follow-up-study/ 
-
-### Risk Stratification
-Risk stratification is a tool for identifying and predicting which patients are at high risk or likely to be at high risk and prioritizing the management of their care in order to prevent worse outcomes
-(Einstein Analytics is what Salesforce calls it)
-https://www.rmhpcommunity.org/sites/default/files/resource/Vol. 2 Issue 2 Predict, Prioritize, Prevent.pdf  
-https://www.healthcatalyst.com/understanding-risk-stratification-comorbidities/ 
-
 ### Scraping
 Also known as Web scraping, web harvesting, or web data extraction is the act of copying data from websites. While scraping can be done manually, the term typically refers to automated processes using a bot or web crawler.
 
@@ -358,7 +347,7 @@ See [Department of Health and Human Services](terminology.md#department-of-healt
 Is a division of the U.S. [Department of Health and Human Services (DHHS)](terminology.md#u.s.-department-of-health-and-human-services-hhs) concerned with public health. It contains eight out of the department's eleven operating divisions.
 
 ### User
-Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health)services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
+Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
 
 ### Your Content
 Sometimes called "User-Generated Content". It is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [Content](terminoloy.md#content) that [You](terminology.md#user) create or own.
