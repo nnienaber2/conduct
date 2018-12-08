@@ -42,7 +42,7 @@ You may cancel this agreement and close your [account](terminology.md#account) a
 We only use email and other electronic means to stay in touch with our [users](terminology.md#user). We do not provide phone support. 
 
 ### L. Disclaimer of Warranties
-We provide our [service](terminology.md#service) as is, and make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect. 
+We provide our [service](terminology.md#service) as is, and make no promises or guarantees about this [service](terminology.md#service). Please read this section carefully; you should understand what to expect. 
 
 ### M. Limitation of Liability
 We will not be liable for damages or losses arising from your use or inability to use the [service](terminology.md#service) or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
