@@ -95,7 +95,7 @@ If you're a child under the age of 13, you may not have an [account](terminology
 ## How we collect information
 [We](terminology.md#era-of-health) do not share, sell, rent, or trade your [Information](terminology.md#information) with third parties for their commercial purposes.
 
-[We](terminology.md#era-of-health) do not disclose your [Information](terminology.md#information) outside [Era of Health](terminology.md#era-of-health), except in the situations listed in this section or in the section below on Compelled Disclosure.
+[We](terminology.md#era-of-health) do not disclose your [Information](terminology.md#information) outside [Era of Health](terminology.md#era-of-health), except in the situations listed in this section or in the section below on [Compelled Disclosure](privacy-policy.md#how-we-respond-to-compelled-disclosure).
 
 [We](terminology.md#era-of-health) do share certain aggregated, non-personally identifying  information with others about how [our](terminology.md#era-of-health) users, collectively, use [Era of Health](terminology.md#era-of-health), or how [our](terminology.md#era-of-health) [users](terminology.md#user) respond to [our](terminology.md#era-of-health) other offerings, such as [our](terminology.md#era-of-health) conferences or events. For example, [we](terminology.md#era-of-health) may compile statistics on the usage across [Era of Health](terminology.md#era-of-health). 
 
