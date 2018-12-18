@@ -46,7 +46,7 @@ Please don't post complaints or ask for technical support in this repository. [W
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a grant of one or more access scopes from one user/organization to another
 
 ### Account
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, a individual or Organization Account to use [Our](terminology.md#era-of-health) Services. An Account is associated to a single human (13 years or older) or a legal entity and a valid email address. A single human may not have more than one [User](terminology.md#user) Account but can have multiple [Organization](terminology.md#organization) Accounts. [You](terminology.md#user) are responsible for keeping [your](terminology.md#user) [you](terminology.md#user) Account [Personal Information](terminology.md#personal-information) secure and may not share it with multiple people. 
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, a individual or Organization Account to use [Our](terminology.md#era-of-health) [Services](terminology.md#service). An Account is associated to a single human (13 years or older) or a legal entity and a valid email address. A single human may not have more than one [User](terminology.md#user) Account but can have multiple [Organization](terminology.md#organization) Accounts. [You](terminology.md#user) are responsible for keeping [your](terminology.md#user) [you](terminology.md#user) Account [Personal Information](terminology.md#personal-information) secure and may not share it with multiple people. 
 
 ### Accountable care organizations (ACOs)
 Needs definition
@@ -55,7 +55,7 @@ Needs definition
 Is a term used in healthcare to refer to people's daily self care activities. Practitioners often use a person's ability or inability to perform ADLs as a measurement of their functional status, particularly in regard to people post injury, with disabilities and the elderly. Common ADLs include feeding ourselves, bathing, dressing, grooming, work, homemaking, cleaning oneself after defecating and leisure. See [Instrumental activities of daily living (IADLs)](terminology.md#Instrumental-activities-of-daily-living-IADLs) for explaination on what let an individual acheive ADLs.
 
 ### Agreement
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available on the footer (bottom of the page) of our Website https://eraofhealth.com/ and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our Website https://eraofhealth.com/. 
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available on the footer (bottom of the page) of our website https://eraofhealth.com/ and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our website https://eraofhealth.com/. 
 
 ### Ambulatory care 
 Medical care provided on an outpatient basis. If [you](terminology.md#user) are hospitalized it is not ambulatory care. Such as visits to emergency departments resulting in hospital admission, these would be considered emergency medicine visits rather than ambulatory care.
@@ -120,7 +120,7 @@ Is the codification of the general and permanent rules and regulations (sometime
 Payors define concurrent care as more than one physician providing care to the same patient on the same date, or during the same hospitalization.
 
 ### Conduct Documents
-In [Era of Health](terminology.md#era-of-health) these are a collection of documents for how [Users](terminolgoy.md#users) and [Organization](terminology.md#organization) must behave while useing [Era of Health](terminology.md#era-of-health) products or services. 
+In [Era of Health](terminology.md#era-of-health) these are a collection of documents for how [Users](terminolgoy.md#users) and [Organization](terminology.md#organization) must behave while using [Era of Health](terminology.md#era-of-health) [Services](terminology.md#service). 
 
 ### Connection
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a relationship between organization(s) &/or user(s).
@@ -263,7 +263,7 @@ The nationwide health information network known as NwHIN is a set of standards, 
 In [Era of Health](terminology.md#era-of-health) Legal documents, or while using or working with our API, this refers to any individual or group that created an Organization account in [Era of Health](terminology.md#era-of-health).
 
 ### Organization Information
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about an [Organization](terminology.md#organization) such as an an [Oraginzation Member's](terminology.md#organization-member) real namee, mail and password, or employee record. Organization Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about an [Organization](terminology.md#organization) such as an an [Oraginzation Member's](terminology.md#organization-member) real namee, mail and password, or employee record. Organization Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our [Website](terminology.md#website) and service.
 
 ### Oraginzation Member
 A [Era of Health](terminology.md#era-of-health) [User](terminology.md#user) who has accepted a request to be a member of an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization).
@@ -304,7 +304,7 @@ No formal definition.
 CMS's initiative to support better care coordination for patients with chronic illnesses. 
 
 ### Personal Information
-Is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the [User](terminology.md#users). Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+Is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the [User](terminology.md#users). Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our [Website](terminology.md#website) and service.
 
 
 ### Personal Health Information
@@ -332,7 +332,7 @@ Also known as Web scraping, web harvesting, or web data extraction is the act of
 An EMR or ePHR that uses the data to give recommendations. 
 
 ### Service
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to the applications, software, products, and services provided by [Era of Health](terminology.md#era-of-health).
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to the applications, software, products, and [Services](terminology.md#service) provided by [Era of Health](terminology.md#era-of-health).
 
 ### Supportive Care
 See [Palliative Care](terminology.md#palliative-care)
@@ -347,7 +347,7 @@ See [Department of Health and Human Services](terminology.md#department-of-healt
 Is a division of the U.S. [Department of Health and Human Services (DHHS)](terminology.md#u.s.-department-of-health-and-human-services-hhs) concerned with public health. It contains eight out of the department's eleven operating divisions.
 
 ### User
-Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A [User](terminology.md#users) must be at least 13 years of age. Special terms may apply for government accounts.
+Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) [Services](terminology.md#service); that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A [User](terminology.md#users) must be at least 13 years of age. Special terms may apply for government accounts.
 
 ### Your Content
 Sometimes called "User-Generated Content". It is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [Content](terminoloy.md#content) that [You](terminology.md#user) create or own.
@@ -358,6 +358,6 @@ Sometimes called "User-Generated Content". It is [Content](terminology.md#conten
  Like PCMHs, ACOs are patient-centered organizations in which the patient and providers are true partners in care decisions. Also like PCMHs, ACOs stress coordination and data sharing among team members to help achieve these goals among their entire patient population. Clinical and claims data are also shared with payers to demonstrate improvements in outcomes such as hospital readmissions, adverse events, patient engagement, and population health.
 
 ### Website 
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to [Era of Health's](terminology.md#era-of-health) website located at eraofhealth.com, and all content, services, and products provided by [Era of Health](terminology.md#era-of-health) at or through the Website. It also refers to [Era of Health](terminology.md#era-of-health)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#era-of-health) product websites with [Era of Health](terminology.md#era-of-health) copyright in the footer.
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to [Era of Health's](terminology.md#era-of-health) website located at www.eraofhealth.com, and all content, [Services](terminology.md#service), provided by [Era of Health](terminology.md#era-of-health) at or through the [Website](terminology.md#website). It also refers to [Era of Health](terminology.md#era-of-health)-owned subdomains. This Agreement also governs [Era of Health](terminology.md#era-of-health) websites with [Era of Health](terminology.md#era-of-health) copyright in the footer.
 
- Occasionally, websites owned by [Era of Health](terminology.md#era-of-health) may provide different or additional user agreements. If those conflict with this Agreement, the more specific terms apply to the relevant page or service.
+ Occasionally, [Websites](terminology.md#website)s owned by [Era of Health](terminology.md#era-of-health) may provide different or additional user agreements. If those conflict with this Agreement, the more specific terms apply to the relevant page or service.
