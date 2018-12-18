@@ -409,12 +409,12 @@ If you decide to open a pull request to the master branch, please be aware that 
 
 At this moment we have an annual review and modification process of the repository and the feedback we received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, [Era of Health](terminology.md#eraofhealth) may alter this Agreement outside that schedule if necessary, such as when we have new product releases.
 
-You can expect that someone from [Era of Healths](terminology.md#eraofhealth) legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, contact help@eraofhealth.com
+You can expect that someone from [Era of Healths](terminology.md#eraofhealth) legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, contact support@eraofhealth.com
 
 If changes to this Agreement are needed, we will freeze feedback for two weeks. We'll draft changes based on the pull requests and input we've gotten. Then we'll post the updated Agreement as a pull request, and we'll get your feedback on the pull request. The updated Agreement will be available here for thirty days before it goes into effect.
 
 **NOTE:** 
-Please don't post legal complaints or ask for technical support in this repository. We may not respond to issues or comments promptly. If you need help, contact help@eraofhealth.com and they'll get you an answer.
+Please don't post legal complaints or ask for technical support in this repository. We may not respond to issues or comments promptly. If you need help, contact support@eraofhealth.com and they'll get you an answer.
 
 Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
 
