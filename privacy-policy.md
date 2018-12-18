@@ -38,7 +38,7 @@ You can reach this person by email support@eraofhealth.com.
 
 If you deactivate your [account](terminology.md#account), a practitioner or organization can keep [information](terminology.md#information) they have contributed if they give a good reason. 
 
-[We](terminology.md#era-of-health) comply with HIPPA security requirements. 
+[We](terminology.md#era-of-health) comply with HIPAA security requirements. 
 
 If [we](terminology.md#era-of-health) suspect a [Breach](terminology.md#breach) of [our](terminology.md#era-of-health) [Website](terminology.md#website) or application and your [information](terminology.md#information) [we](terminology.md#era-of-health) will let you know. 
 
