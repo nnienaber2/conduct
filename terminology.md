@@ -3,7 +3,7 @@
 - Allow easy search.
 ## DO put links to more information or deeper definitions. 
 ### Pro
-- Allows a user to go into a deeper understanding without bloating this document.  
+- Allows a [User](terminology.md#user) to go into a deeper understanding without bloating this document.  
 ### Con
 - Can be a lazy way to define a term. Try to summarize the information you are linking to. 
 ## DON'T make the definition more them 200 words. 
@@ -278,7 +278,7 @@ See [Ambulatory care](terminology.md#amulatory-care)
 Sometimes called Supportive Care. It is a multidisciplinary approach to specialized medical and nursing care for people with life-limiting illnesses. It is treatment given to prevent, control, or relieve complications and side effects and to improve the patient's comfort and quality of life. 
 
 ### Patient
-While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a user which receives care.
+While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a [User](terminology.md#user) which receives care.
 
 ### Patient Check-in
 Patient check-in is the process where patients check-in to begin their registration with the healthcare facility topically using a clipboard, electronic tablet, touch screen, kiosk, or some other method, sometimes self-service. Patient check-in started as far back as the Roman times when patients would wait for special services in purpose-built hospitals. Romans were the first to have hospitals with doctors assigned to consult and observe patients. Prior to the Romans, many cultures such as the Greeks relied on temples and the Gods to cure through supernatural forces. As patient services were made more available, so was the need to have some method of tracking patients as they arrived.
@@ -304,7 +304,7 @@ No formal definition.
 CMS's initiative to support better care coordination for patients with chronic illnesses. 
 
 ### Personal Information
-Is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the user. Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+Is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the [User](terminology.md#users). Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
 
 ### Personal Health Information
@@ -317,10 +317,10 @@ Is described in United States legal fields as either personally identifiable inf
 Needs definition
 
 ### Practitioner
-While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a user involved in providing care in a professional capacity. 
+While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a [User](terminology.md#users) involved in providing care in a professional capacity. 
 
 ### Protected Health Information (PHI)
-Sometimes called ["Personal" Health Information](terminology.md#personla-health-information) or Electronic Protected Health Information (ePHI). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a users past, present, or future physical or mental health condition, tests, results, provision, or payment, and if it could be used to identify the user it is called["Personally Identifiable Information (PII)"](terminology.md#personally-identifiable-information-pii).
+Sometimes called ["Personal" Health Information](terminology.md#personla-health-information) or Electronic Protected Health Information (ePHI). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a [Users](terminology.md#users) past, present, or future physical or mental health condition, tests, results, provision, or payment, and if it could be used to identify the [User](terminology.md#users) it is called["Personally Identifiable Information (PII)"](terminology.md#personally-identifiable-information-pii).
 
 ### Public Health Service Act (PHSA)
 Is a United States federal law enacted in 1944. It gave the [U.S. Public Health Service (USPHS0](us.s.-public-health-servics-usphs) responsibility for preventing the introduction, transmission and spread of communicable diseases from foreign countries into the United States.[
@@ -347,7 +347,7 @@ See [Department of Health and Human Services](terminology.md#department-of-healt
 Is a division of the U.S. [Department of Health and Human Services (DHHS)](terminology.md#u.s.-department-of-health-and-human-services-hhs) concerned with public health. It contains eight out of the department's eleven operating divisions.
 
 ### User
-Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for government accounts.
+Sometimes displayed as "You" or Your". In [Era of Health](terminology.md#era-of-health) Legal documents, or while using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to the individual person, company, or organization that has visited or is using [Era of Healths](terminology.md#era-of-health) services; that accesses or uses any part of the account, or that directs the use of the account in the performance of its functions. A [User](terminology.md#users) must be at least 13 years of age. Special terms may apply for government accounts.
 
 ### Your Content
 Sometimes called "User-Generated Content". It is [Content](terminology.md#content), written or otherwise, created or uploaded by our [Users](terminology.md#user). "Your Content" is [Content](terminoloy.md#content) that [You](terminology.md#user) create or own.
