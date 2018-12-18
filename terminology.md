@@ -6,7 +6,7 @@
 - Allows a [User](terminology.md#user) to go into a deeper understanding without bloating this document.  
 ### Con
 - Can be a lazy way to define a term. Try to summarize the information you are linking to. 
-## DON'T make the definition more them 200 words. 
+## DON'T make the definition more than 200 words. 
 ### Pro
 - Limits the documents bloating and difficulty of the user understanding.
 
@@ -36,7 +36,7 @@ At this moment [We](terminology.md#era-of-health) have an annual review and modi
 
 [You](terminology.md#user) can expect that someone from [Era of Health](terminology.md#era-of-health) will see [your](terminology.md#user) feedback, but [We](terminology.md#era-of-health) might not respond immediately. If [you](terminology.md#user) need an immediate help on a term, contact support@eraofhealth.com
 
-If changes to the document are needed, [We](terminology.md#era-of-health) will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input [We'ev](terminology.md#era-of-health) gotten. Then [We'll](terminology.md#era-of-health) post the updated document as a pull request, and [We'll](terminology.md#era-of-health) get [your](terminology.md#user) feedback on the pull request. The updated document will be available here for thirty days before it goes into effect.
+If changes to the document are needed, [We](terminology.md#era-of-health) will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input [We've](terminology.md#era-of-health) gotten. Then [We'll](terminology.md#era-of-health) post the updated document as a pull request, and [We'll](terminology.md#era-of-health) get [your](terminology.md#user) feedback on the pull request. The updated document will be available here for thirty days before it goes into effect.
 
 Please don't post complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If [you](terminology.md#user) need help, contact support@eraofhealth.com and they'll get [you](terminology.md#user) an answer.
 
@@ -52,7 +52,7 @@ In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, a
 Needs definition
 
 ### Activities of daily living (ADLs) 
-Is a term used in healthcare to refer to people's daily self care activities. Practitioners often use a person's ability or inability to perform ADLs as a measurement of their functional status, particularly in regard to people post injury, with disabilities and the elderly. Common ADLs include feeding ourselves, bathing, dressing, grooming, work, homemaking, cleaning oneself after defecating and leisure. See [Instrumental activities of daily living (IADLs)](terminology.md#Instrumental-activities-of-daily-living-IADLs) for explaination on what let an individual acheive ADLs.
+Is a term used in healthcare to refer to people's daily self care activities. Practitioners often use a person's ability or inability to perform ADLs as a measurement of their functional status, particularly in regard to people post injury, with disabilities and the elderly. Common ADLs include feeding ourselves, bathing, dressing, grooming, work, homemaking, cleaning oneself after defecating and leisure. See [Instrumental activities of daily living (IADLs)](terminology.md#Instrumental-activities-of-daily-living-IADLs) for explanation on what let an individual achieve ADLs.
 
 ### Agreement
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers, collectively, to all the terms, conditions, notices contained or referenced in the legal document and all other operating rules, policies (including the Era of Health Privacy Policy, available on the footer (bottom of the page) of our website https://eraofhealth.com/ and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of our site agreements and policies are available on the footer (bottom of the page) of our website https://eraofhealth.com/. 
@@ -78,7 +78,7 @@ Needs definition.
 In computing, bandwidth is the maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth. This definition is in contrast to other fields that define bandwidth as an analog signal measured in hertz.
 
 ### Breach
-In [Era of Health](terminology.md#era-of-health) Legal documents, this means the acquisition, use or disclosure of [Information](terminology.md#infomration) that compromises the security or privacy of [Information](terminology.md#infomration) as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402.
+In [Era of Health](terminology.md#era-of-health) Legal documents, this means the acquisition, use or disclosure of [Information](terminology.md#information) that compromises the security or privacy of [Information](terminology.md#information) as defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.402.
 
 ### Bots
 Also known as an internet bot, web robot, or WWW robot, is a software application that runs automated tasks (scripts) over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
@@ -141,7 +141,7 @@ Also known as the Health Department or U.S. Department of Health and Human Servi
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to the release, transfer, provision of access to, or divulging in any other manner of information outside the entity holding the information.
 
 ### Effective Date
-In [Era of Health](terminology.md#era-of-health) Legal documents, this means the date [Your Organization](terminology.md#coverd-entity) agrees to this [Agreement](terminology.md#agreement) or Policy by creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health).
+In [Era of Health](terminology.md#era-of-health) Legal documents, this means the date [Your Organization](terminology.md#covered-entity) agrees to this [Agreement](terminology.md#agreement) or Policy by creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health).
 
 ### Electronic Medical Records (EMR)
 An electronic health record, or electronic medical record, is the systematized collection of patient and population electronically-stored health information in a digital format. These records can be shared across different healthcare settings.
@@ -166,10 +166,10 @@ It is the electronic form of [Patient-Reported Outcome](terminology.md#patient-r
 see [Personal Health Information (PHI)](terminology.md#personal-health-information-phi)
 
 ### Era of Health
-Sometimes refereed to as “We,” and “Us”. In Era of Health Legal documents, this refers to "Era of Health, Inc.", as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees. 
+Sometimes referred to as “We,” and “Us”. In Era of Health Legal documents, this refers to "Era of Health, Inc.", as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees. 
 
 ### Family Educational Rights and Privacy Act (FERPA) 
-A federal legislation in the United States established in 1974, that protects the privacy of students' [Personally Identifiable Information (PII)](terminology.md#persaonlly-identifiable-information-pii). The act applies to all educational institutions that receive federal funds.
+A federal legislation in the United States established in 1974, that protects the privacy of students' [Personally Identifiable Information (PII)](terminology.md#personally-identifiable-information-pii). The act applies to all educational institutions that receive federal funds.
 
 ### HealthCare.gov
 Is a health insurance exchange website operated under the United States federal government under the provisions of the [Patient Protection and Affordable Care Act](terminology.md#patient-protection-and-affordable-care-act), which currently serves the residents of the U.S. states which have opted not to create their own state exchanges.
@@ -216,7 +216,7 @@ See [Health Information Technology for Economic and Clinical Health (HITECH)](te
 In [Era of Health](terminology.md#era-of-health) Legal documents, this refers to both “[Protected Health Information (PHI)](terminology.md#protected-health-information-phi)”, and "[Personal Information](terminology.md#personal-information)".
 
 ### Instrumental activities of daily living (IADLs) 
-Are not necessary for fundamental functioning, but they let an individual live independently in a community by aheiving [Activities of daily living (ADLs)](terminology.md#activites-of-daily-living-adls).
+Are not necessary for fundamental functioning, but they let an individual live independently in a community by achieving [Activities of daily living (ADLs)](terminology.md#activities-of-daily-living-adls).
 
 * Cleaning and maintaining the house
 * Managing money
@@ -263,16 +263,16 @@ The nationwide health information network known as NwHIN is a set of standards, 
 In [Era of Health](terminology.md#era-of-health) Legal documents, or while using or working with our API, this refers to any individual or group that created an Organization account in [Era of Health](terminology.md#era-of-health).
 
 ### Organization Information
-In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about an [Organization](terminology.md#organization) such as an an [Oraginzation Member's](terminology.md#organization-member) real namee, mail and password, or employee record. Organization Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our [Website](terminology.md#website) and service.
+In [Era of Health](terminology.md#era-of-health) Legal documents, this refers any information about an [Organization](terminology.md#organization) such as an an [Organization Members](terminology.md#organization-member) real name, mail and password, or employee record. Organization Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our [Website](terminology.md#website) and service.
 
-### Oraginzation Member
+### Organization Member
 A [Era of Health](terminology.md#era-of-health) [User](terminology.md#user) who has accepted a request to be a member of an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization).
 
 ### Outcome Based Care
 Working off outcome data to provide better care. Healthcare reform efforts that hope to foster value-based care should be based on patient outcomes instead of provider processes.
 
 ### Outpatient Care 
-See [Ambulatory care](terminology.md#amulatory-care)
+See [Ambulatory care](terminology.md#ambulatory-care)
 
 ### Palliative Care
 Sometimes called Supportive Care. It is a multidisciplinary approach to specialized medical and nursing care for people with life-limiting illnesses. It is treatment given to prevent, control, or relieve complications and side effects and to improve the patient's comfort and quality of life. 
@@ -292,7 +292,7 @@ Patient diaries are also a way to find out if a patient takes the medication acc
 Is often shortened to the Affordable Care Act or nicknamed Obamacare. The act largely retains the existing structure of Medicare, Medicaid, and the employer market, but individual markets were radically overhauled.
 
 ### Patient-Reported Outcome (PRO)
-This is a health outcome directly reported by the patient who experienced it. It stands in contrast to an outcome reported by someone else, such as a physician-reported outcome, a nurse-reported outcome, and so on. PRO methods, such as questionnaires, are used in clinical trials or other clinical settings, to help better understand a treatment's efficacy. The use of digitized PROs, or electronic patient-reported outcomes (ePROs), is on the rise in today's health research industry.
+This is a health outcome directly reported by the patient who experienced it. It stands in contrast to an outcome reported by someone else, such as a physician-reported outcome, a nurse-reported outcome, and so on. PRO methods, such as questionnaires, are used in clinical trials or other clinical settings, to help better understand a treatment efficacy. The use of digitized PROs, or electronic patient-reported outcomes (ePROs), is on the rise in today's health research industry.
 
 ### Patient Tracking
 No formal definition.
@@ -304,7 +304,7 @@ No formal definition.
 CMS's initiative to support better care coordination for patients with chronic illnesses. 
 
 ### Personal Information
-Is information in addition to [Protected Health Informtion (PHI)](terminolgoy.md@protected-health-informtion-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the [User](terminology.md#users). Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our [Website](terminology.md#website) and service.
+Is information in addition to [Protected Health Information (PHI)](terminology.md@protected-health-information-phi) about one of [Era of Health](terminology.md#era-of-health) [Users](terminology.md#users) which could, alone or together with other information, be used to identify the [User](terminology.md#users). Information such as an email and password, a real name, and a photograph are examples of Personal Information. Personal Information does not include aggregated, non-personally identifying information. [We](terminology.md#era-of-health) may use aggregated, non-personally identifying information to operate, improve, and optimize our [Website](terminology.md#website) and service.
 
 
 ### Personal Health Information
@@ -320,15 +320,15 @@ Needs definition
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a [User](terminology.md#users) involved in providing care in a professional capacity. 
 
 ### Protected Health Information (PHI)
-Sometimes called ["Personal" Health Information](terminology.md#personla-health-information) or Electronic Protected Health Information (ePHI). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a [Users](terminology.md#users) past, present, or future physical or mental health condition, tests, results, provision, or payment, and if it could be used to identify the [User](terminology.md#users) it is called["Personally Identifiable Information (PII)"](terminology.md#personally-identifiable-information-pii).
+Sometimes called ["Personal" Health Information](terminology.md#personal-health-information) or Electronic Protected Health Information (ePHI). In [Era of Health](terminology.md#era-of-health) Legal documents, this is defined by [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 160.103 and is both physical and electronic information that [We](terminology.md#era-of-health) receive from a [User](terminology.md#user) or an [Organization](terminology.md#organization). It is information on a [Users](terminology.md#users) past, present, or future physical or mental health condition, tests, results, provision, or payment, and if it could be used to identify the [User](terminology.md#users) it is called["Personally Identifiable Information (PII)"](terminology.md#personally-identifiable-information-pii).
 
 ### Public Health Service Act (PHSA)
-Is a United States federal law enacted in 1944. It gave the [U.S. Public Health Service (USPHS0](us.s.-public-health-servics-usphs) responsibility for preventing the introduction, transmission and spread of communicable diseases from foreign countries into the United States.[
+Is a United States federal law enacted in 1944. It gave the [U.S. Public Health Service (USPHS 0](us.s.-public-health-service-usphs) responsibility for preventing the introduction, transmission and spread of communicable diseases from foreign countries into the United States.[
 
 ### Scraping
 Also known as Web scraping, web harvesting, or web data extraction is the act of copying data from websites. While scraping can be done manually, the term typically refers to automated processes using a bot or web crawler.
 
-### Sentinal System
+### Sentinel System
 An EMR or ePHR that uses the data to give recommendations. 
 
 ### Service
