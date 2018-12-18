@@ -34,11 +34,11 @@ If [you](terminology.md#user) decide to open a pull request to the master branch
 
 At this moment [We](terminology.md#era-of-health) have an annual review and modification process of the repository and the feedback [We](terminology.md#era-of-health) received. If changes are not needed, great! [We'll](terminology.md#era-of-health) let [you](terminology.md#user) know that [We're](terminology.md#era-of-health) not putting out an update, and [We'll](terminology.md#era-of-health) close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, [Era of Health](terminology.md#era-of-health) may alter this document outside that schedule if necessary, such as when [We](terminology.md#era-of-health) have new product releases.
 
-[You](terminology.md#user) can expect that someone from [Era of Health](terminology.md#era-of-health) will see [your](terminology.md#user) feedback, but [We](terminology.md#era-of-health) might not respond immediately. If [you](terminology.md#user) need an immediate help on a term, contact help@eraofhealth.com
+[You](terminology.md#user) can expect that someone from [Era of Health](terminology.md#era-of-health) will see [your](terminology.md#user) feedback, but [We](terminology.md#era-of-health) might not respond immediately. If [you](terminology.md#user) need an immediate help on a term, contact support@eraofhealth.com
 
 If changes to the document are needed, [We](terminology.md#era-of-health) will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input [We'ev](terminology.md#era-of-health) gotten. Then [We'll](terminology.md#era-of-health) post the updated document as a pull request, and [We'll](terminology.md#era-of-health) get [your](terminology.md#user) feedback on the pull request. The updated document will be available here for thirty days before it goes into effect.
 
-Please don't post complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If [you](terminology.md#user) need help, contact help@eraofhealth.com and they'll get [you](terminology.md#user) an answer.
+Please don't post complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If [you](terminology.md#user) need help, contact support@eraofhealth.com and they'll get [you](terminology.md#user) an answer.
 
 ---
 
