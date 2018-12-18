@@ -179,6 +179,6 @@ Any ambiguity in this [Agreement](terminology.md#agreement) shall be resolved in
 By creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health), [You](terminology.md#user) and [Your Organization](terminology.md#covered-entity) agree [You](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created on behafe or [Your Organization](terminology.md#covered-entity). 
 
 ### 12. Questions
-Questions about this [Agreement](terminology.md#agreement)? Contact a human at supportp@eraofhealth.com.
+Questions about this [Agreement](terminology.md#agreement)? Contact a human at support@eraofhealth.com.
 
 
