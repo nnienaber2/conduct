@@ -7,7 +7,7 @@
 
 [We](terminology.md#era-of-health) are proud to offer this repository under [CC0-1.0](#license). That means that if it is useful to you, even in part, you're welcome to use it, without restriction. Of course, keep in mind that [We](terminology.md#era-of-health) wrote these as they apply to [Era of Health](terminology.md#era-of-health), so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
 
-Because [We](terminology.md#era-of-health) are providing these policies to [our](terminology.md#era-of-health) community, [We](terminology.md#era-of-health) believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use [our](terminology.md#era-of-health) policies to see the discussions and alterations that have gone into them.
+Because [We](terminology.md#era-of-health) are providing these policies to [Our](terminology.md#era-of-health) community, [We](terminology.md#era-of-health) believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use [our](terminology.md#era-of-health) policies to see the discussions and alterations that have gone into them.
 
 #### Second, you can contribute to making our Conduct Documents even better.
 
@@ -19,13 +19,13 @@ That's easy: just be responsible. [We](terminology.md#era-of-health) require all
 
 #### There are a few things you should _not_ post in this repository:
 
-- Please don't post legal complaints or ask for technical support. [We](terminology.md#era-of-health) may not respond to issues promptly. If you need help, contact Support (support@eraofhealth.com) and they'll get you an answer.
+- Please don't post legal complaints or ask for technical support. [We](terminology.md#era-of-health) may not respond to issues promptly. If you need help, email support@eraofhealth.com, and they'll get you an answer.
 -	Please avoid hypotheticals. [We](terminology.md#era-of-health) can't give you legal advice, which means [We](terminology.md#era-of-health) often can't tell you if a hypothetical situation would or wouldn't be a violation of [our](terminology.md#era-of-health) policies. [We](terminology.md#era-of-health) also can't tell you what you should or shouldn't do. [We](terminology.md#era-of-health) can tell you how [We](terminology.md#era-of-health) interpret our policies.
 - Please don't give other users legal advice, to avoid confusion.
 
 ### How often will Era of Health review these policies?
 
-[We](terminology.md#era-of-health) have a annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets [our](terminology.md#era-of-health) community rely on [our](terminology.md#era-of-health) policies. Of course, [Era of Health](terminology.md#era-of-health) may alter [our](terminology.md#era-of-health) policies outside that schedule if necessary, such as when [We](terminology.md#era-of-health) have new product releases.
+[We](terminology.md#era-of-health) have a annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets [Our](terminology.md#era-of-health) community rely on [Our](terminology.md#era-of-health) policies. Of course, [Era of Health](terminology.md#era-of-health) may alter [Our](terminology.md#era-of-health) policies outside that schedule if necessary, such as when [We](terminology.md#era-of-health) have new product releases.
 
 #### What's the process? 
 
