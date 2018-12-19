@@ -1,6 +1,6 @@
 # Era of Health User Agreement 
 
-**Effective date: 7th of December 2018**  
+**Effective date: 19th of December 2018**  
  
 *Thank [You](terminology.md#user) for using [Era of Health](terminology.md#eraofhealth)! We're happy [You're](terminology.md#user) here. Please read this User Agreement carefully before using [Era of Health](terminology.md#eraofhealth). [You](terminology.md#user) have indicated your agreement to this User Agreement by creating an [Account](terminology.md#account).*
 
