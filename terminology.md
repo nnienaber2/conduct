@@ -12,36 +12,6 @@
 
 ---
 
-### Changes to this document
-
-[We've](terminology.md#era-of-health) opened this document up for [you](terminology.md#user)  to amend and contribute to. [We](terminology.md#era-of-health) want [you](terminology.md#user) to see its historic revision and contribute to it future revision via a repository. [We](terminology.md#era-of-health) take our relationship with [you](terminology.md#user) very serious and want to display nurture trust through transparency. By seeing the past revision [you](terminology.md#user) can see our progression of thought over time. By allowing you to post suggestions [We](terminology.md#era-of-health) are enlisting [your](terminology.md#user) help to make improvements to this document in conjunction with our ever-changing world. 
-
-This document is open to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means [We](terminology.md#era-of-health) give [you](terminology.md#user) permission to copy and re-use this document with our permission. No questions asked.  Note that CC0-1.0 does not grant any trademark permissions.
-
-Like other repositories, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever [you](terminology.md#user) prefer. [We've](terminology.md#era-of-health) made an issue template to request information that will help [Us](terminology.md#era-of-health) better understand [your](terminology.md#user) feedback.
-
-Before [you](terminology.md#user) decide to open an issue, browse [open issues] to see current requests. [We](terminology.md#era-of-health) also generally want to hear about: 
-
-* Typos
-* Clearer wording
-* Other sites that have adapted and reused some of our policies
-
-Open an issue to tell [Us](terminology.md#era-of-health) about any of the above. [You](terminology.md#user)  may also open a pull request to propose specific changes, but it's always OK to start with an issue.
-
-Issues are best used as a task list, where each issue contains one and only one thing to be addressed, resolved, fixed or decided. So please include only one work item per issue. This helps [Us](terminology.md#era-of-health) know when issues are completed and can be closed. In turn, this helps everyone watching the issues know when the item they're interested in has been resolved.
-
-If [you](terminology.md#user) decide to open a pull request to the master branch, please be aware that it is unlikely that [We](terminology.md#era-of-health) will merge it directly. It's not because [We](terminology.md#era-of-health) don't like [your](terminology.md#user) ideas, but because [We](terminology.md#era-of-health) will be opening new draft branches with each round of changes.
-
-At this moment [We](terminology.md#era-of-health) have an annual review and modification process of the repository and the feedback [We](terminology.md#era-of-health) received. If changes are not needed, great! [We'll](terminology.md#era-of-health) let [you](terminology.md#user) know that [We're](terminology.md#era-of-health) not putting out an update, and [We'll](terminology.md#era-of-health) close any issues or PRs that are still hanging around. This allows plenty of time for discussion. Of course, [Era of Health](terminology.md#era-of-health) may alter this document outside that schedule if necessary, such as when [We](terminology.md#era-of-health) have new product releases.
-
-[You](terminology.md#user) can expect that someone from [Era of Health](terminology.md#era-of-health) will see [your](terminology.md#user) feedback, but [We](terminology.md#era-of-health) might not respond immediately. If [you](terminology.md#user) need an immediate help on a term, contact support@eraofhealth.com
-
-If changes to the document are needed, [We](terminology.md#era-of-health) will freeze feedback for two weeks. [We'll](terminology.md#era-of-health) draft changes based on the pull requests and input [We've](terminology.md#era-of-health) gotten. Then [We'll](terminology.md#era-of-health) post the updated document as a pull request, and [We'll](terminology.md#era-of-health) get [your](terminology.md#user) feedback on the pull request. The updated document will be available here for thirty days before it goes into effect.
-
-Please don't post complaints or ask for technical support in this repository. [We](terminology.md#era-of-health) may not respond to issues or comments promptly. If [you](terminology.md#user) need help, contact support@eraofhealth.com and they'll get [you](terminology.md#user) an answer.
-
----
-
 ### Access Grant
 While using [Era of Health](terminology.md#era-of-health) or working with our API, this refers to a grant of one or more access scopes from one user/organization to another
 
