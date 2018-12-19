@@ -21,7 +21,7 @@ These are the basic rules [You](terminology.md#user) must follow when using [You
 [You](terminology.md#user) own the [Content](terminology.md#content) [You](terminology.md#user) post on [Era of Health](terminology.md#eraofhealth). However, [You](terminology.md#user) have some responsibilities regarding it, and [We](terminology.md#era-of-health) ask [You](terminology.md#user) to grant [Us](terminology.md#era-of-health) some rights so [We](terminology.md#era-of-health) can provide [Services](terminology.md#service) to [You](terminology.md#user).  
 
 ### E. Organizations
-This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the [Content](terminology.md#content) [You](terminology.md#user) post in an Organization. 
+This section talks about how [Era of Health](terminology.md#eraofhealth) will treat the [Content](terminology.md#content) [You](terminology.md#user) post in an [Organization](terminology.md#organization). 
 
 ### F. Intellectual Property Notice
 This describes [Era of Health’s](terminology.md#eraofhealth) rights in the [Website](terminology.md#website) and [Service](terminology.md#service). 
@@ -320,7 +320,7 @@ It is [Your](terminology.md#user) responsibility to properly deactivate [Your](t
 
 If [You](terminology.md#user) would like to deactivate [Your](terminology.md#user) [Account](terminology.md#account) or delete [Your](terminology.md#user) [Information](terminology.md#information), [You](terminology.md#user) may do so in [Your](terminology.md#user) [User](terminology.md#user) profile. [We](terminology.md#eraofhealth) will retain and use [Your](terminology.md#user) [Information](terminology.md#information) as necessary to comply with [Our](terminology.md#era-of-health) legal obligations, resolve disputes, and enforce [Our](terminology.md#era-of-health) [Agreements](terminology.md#agreement).
 
-[We](terminology.md#eraofhealth) will not delete [Content](terminology.md#content) that [You](terminology.md#user) have contributed to other [Users](terminology.md#user) or Organizations.  
+[We](terminology.md#eraofhealth) will not delete [Content](terminology.md#content) that [You](terminology.md#user) have contributed to other [Users](terminology.md#user) or [Organizations](terminology.md#organization).
 
 [We](terminology.md#eraofhealth) will delete [Content](terminology.md#content) that other [Users](terminology.md#user) have contributed to [Your](terminology.md#user) [Account](terminology.md#account). 
 
