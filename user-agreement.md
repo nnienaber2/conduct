@@ -199,7 +199,7 @@ If [We](terminology.md#era-of-health) determine [Your](terminology.md#user) [ban
 ### 1. Responsibility for Your Content
 [You](terminology.md#user) may create or upload [Your](terminology.md#user) [Content](terminology.md#your-content) while using the [Service](terminology.md#service). [You](terminology.md#user) are solely responsible for the [Content](terminology.md#content) of, and for any harm resulting from, any [Content](terminology.md#content) that [You](terminology.md#user) post, upload, link to or otherwise make available via the [Service](terminology.md#service), regardless of the form of that [Content](terminology.md#content). [We](terminology.md#eraofhealth) are not responsible for any public display or misuse of [Your](terminology.md#user) [Content](terminology.md#your-content).
 
-### 2. [We](terminology.md#eraofhealth) may remove Content
+### 2. We may remove Content
 [We](terminology.md#eraofhealth) do not pre-screen [Your](terminology.md#user) [Content](terminology.md#your-content), but [We](terminology.md#era-of-health) have the right (though not the obligation) to refuse or remove any of [Your](terminology.md#user) [Content](terminology.md#your-content) that, in [Our](terminology.md#era-of-health) sole discretion, violates any [Era of Health](terminology.md#eraofhealth) terms or policies.
 
 ### 3. Ownership of Content, Right to Post, and License Grants
