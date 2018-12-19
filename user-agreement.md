@@ -67,6 +67,7 @@ Email [Us](terminology.md#era-of-health) at support@eraofhealth.com with any que
 ## A. Definitions
 
 **Short version**
+
 *[We](terminology.md#eraofhealth) use these basic terms throughout the [Agreement](terminology.md#agreement), and they have specific meanings. [You](terminology.md#user) should know what [We](terminology.md#era-of-health) mean when [We](terminology.md#era-of-health) use each of the terms. There's not going to be a test on it, but it's still useful information.*
 * The “[Agreement](terminology.md#agreement)” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “User Agreement”) and all other operating rules, policies (including the [Era of Health](terminology.md#eraofhealth) Privacy Policy, available at www.eraofhealth.com), and procedures that [We](terminology.md#era-of-health) may publish from time to time on the [Website](terminology.md#website). Most of [Our](terminology.md#era-of-health) site policies are available at www.eraofhealth.com in the footer or on [Our](terminology.md#era-of-health) publicly viewable github account https://github.com/eraofhealth/conduct/tree/master
 
@@ -96,6 +97,7 @@ Email [Us](terminology.md#era-of-health) at support@eraofhealth.com with any que
 ## B. Account Terms  
 
 **Short version** 
+
 *A human must create [Your](terminology.md#user) [Account](terminology.md#account); [You](terminology.md#user) must be 13 or over; [You](terminology.md#user) must provide a valid email address, and [You](terminology.md#user) may not have more than one [User](terminology.md#user) [Account](terminology.md#account). [You](terminology.md#user) can have multiple  [Organization](terminology.md#organization) [Accounts](terminology.md#account).  [You](terminology.md#user) alone are responsible for [Your](terminology.md#user) [Account](terminology.md#account) and anything that happens while [You](terminology.md#user) are signed in to or using [Your](terminology.md#user) [User](terminology.md#user) [Account](terminology.md#account). [You](terminology.md#user) are responsible for keeping [Your](terminology.md#user) [User](terminology.md#user) [Account](terminology.md#account) secure.*
 
 ### 1. Required Information
@@ -130,6 +132,7 @@ If [You](terminology.md#user) are a government [User](terminology.md#user) or ot
 ## C. Acceptable use
 
 **Short version** 
+
 *While using the [Service](terminology.md#service), [You](terminology.md#user) must follow this Acceptable Use Policy, which includes some restrictions on [Content](terminology.md#content) [You](terminology.md#user) can post, conduct on the [Service](terminology.md#service), and other limitations. In short, use [Your](terminology.md#user) manners.*
 
 ### 1. Compliance with laws and regulations
@@ -190,6 +193,7 @@ If [We](terminology.md#era-of-health) determine [Your](terminology.md#user) [ban
 ## D. Your Content
 
 **Short version** 
+
 *[You](terminology.md#user) own [Content](terminology.md#content) [You](terminology.md#user) create, but [You](terminology.md#user) allow [Us](terminology.md#era-of-health) certain rights to it, so that [We](terminology.md#era-of-health) can display and share the [Content](terminology.md#content) [You](terminology.md#user) post. [You](terminology.md#user) still have control over [Your](terminology.md#user) [Content](terminology.md#content), and responsibility for it, and the rights [You](terminology.md#user) grant [Us](terminology.md#era-of-health) are limited to those [We](terminology.md#era-of-health) need to provide the service. [We](terminology.md#eraofhealth) have the right to remove [Content](terminology.md#content) or close [Accounts](terminology.md#account) if [We](terminology.md#era-of-health) need to.*
 
 ### 1. Responsibility for Your Content
@@ -216,6 +220,7 @@ To the extent this [Agreement](terminology.md#agreement) is not enforceable by a
 ## E. Organizations
 
 **Short version** 
+
 *[You](terminology.md#user) may create an [Organization](terminology.md#organization) [Account](terminology.md#account). [We](terminology.md#eraofhealth) treat the [Content](terminology.md#content) of an [Organization](terminology.md#organization) as confidential, and [We](terminology.md#era-of-health) only access it for support reasons, with [Your](terminology.md#user) consent, or if required to for security reasons.*
 
 ### 1. Control of Organizations
@@ -241,6 +246,7 @@ If [We](terminology.md#era-of-health) have reason to believe the [contents](term
 ## F. Intellectual Property Notice
 
 **Short version** 
+
 *[We](terminology.md#eraofhealth) own the [Service](terminology.md#service) and all of [Our](terminology.md#era-of-health) [Content](terminology.md#content). In order for [You](terminology.md#user) to use [Our](terminology.md#era-of-health) [Content](terminology.md#content), [We](terminology.md#era-of-health) give [You](terminology.md#user) certain rights to it, but [You](terminology.md#user) may only use [Our](terminology.md#era-of-health) [Content](terminology.md#content) in the way [We](terminology.md#era-of-health) have allowed.*
 
 ### 1. Our rights to Content
@@ -257,6 +263,7 @@ Note that CC0-1.0 does not grant any trademark permissions. For details on this 
 ## G. API terms
 
 **Short version** 
+
 *[You](terminology.md#user) agree to this User Agreement, plus this Section H, when using any of [Era of Health's](terminology.md#eraofhealth) APIs (Application Provider Interface), including the use of the API through a third-party product that accesses [Era of Health](terminology.md#eraofhealth).*
 
 ### 1. No abuse or overuse of the API**
@@ -273,6 +280,7 @@ Abuse or excessively frequent requests to [Era of Health](terminology.md#eraofhe
 ## H. Advertising on Era of Health
 
 **Short version** 
+
 *[We](terminology.md#eraofhealth) do not generally prohibit the use of [Era of Health](terminology.md#eraofhealth) for advertising. However, [We](terminology.md#era-of-health) expect [Our](terminology.md#era-of-health) [Users](terminology.md#user) to follow certain limitations, so [Era of Health](terminology.md#eraofhealth) messages do not become a spam haven or creepy marketing. No one wants that.*
 
 ### 2. Organizations
@@ -284,6 +292,7 @@ Advertising [Content](terminology.md#content), like all [Content](terminology.md
 ## I. Payment
 
 **Short version** 
+
 *[You](terminology.md#user) are responsible for any fees associated with [Your](terminology.md#user) use of [Era of Health](terminology.md#eraofhealth). [We](terminology.md#eraofhealth) are responsible for communicating those fees to [You](terminology.md#user) clearly and accurately, and letting [You](terminology.md#user) know well in advance if those prices change.*
 
 ### 1. Pricing
@@ -308,6 +317,7 @@ By agreeing to these Terms, [You](terminology.md#user) are giving [Us](terminolo
 
 ## J. Deactivation and termination
 **Short version** 
+
 *[You](terminology.md#user) may deactivate [Your](terminology.md#user) [Account](terminology.md#account) at any time. If [You](terminology.md#user) do, we'll treat [Your](terminology.md#user) [Information](terminology.md#information) responsibly.*
 
 ### 1. Account deactivate
@@ -335,7 +345,9 @@ Upon request, [We](terminology.md#era-of-health) will make a reasonable effort t
 All provisions of this [Agreement](terminology.md#agreement) which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 ## K. Communications with Us
+
 **Short version**
+
 *[We](terminology.md#eraofhealth) use email and other electronic means to stay in touch with [Our](terminology.md#era-of-health) [Users](terminology.md#user).*
 
 ### 1. Electronic communication required
@@ -352,6 +364,7 @@ Communications made through email or [Era of Health](terminology.md#eraofhealth)
 ## L. Disclaimer of warranties
 
 **Short version** 
+
 *[We](terminology.md#eraofhealth) provide [Our](terminology.md#era-of-health) [Service](terminology.md#service) as is, and [We](terminology.md#era-of-health) make no promises or guarantees about this service. Please read this section carefully; [You](terminology.md#user) should understand what to expect.*
 
 [Era of Health](terminology.md#eraofhealth) provides the [Website](terminology.md#website) and the [Service](terminology.md#service) “as is” and “as available,” without warranty of any kind. Without limiting this, [We](terminology.md#era-of-health) expressly disclaim all warranties, whether express, implied or statutory, regarding the [Website](terminology.md#website) and the [Service](terminology.md#service) including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy, and non-infringement.
@@ -361,6 +374,7 @@ Communications made through email or [Era of Health](terminology.md#eraofhealth)
 ## M. Limitation of Liability
 
 **Short version** 
+
 *[We](terminology.md#eraofhealth) will not be liable for damages or losses arising from [Your](terminology.md#user) use or inability to use the [Service](terminology.md#service), or otherwise arising under this [Agreement](terminology.md#agreement). Please read this section carefully; it limits [Our](terminology.md#era-of-health) obligations to [You](terminology.md#user). *
 
 [You](terminology.md#user) understand and agree that [We](terminology.md#era-of-health) will not be liable to [You](terminology.md#user) or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential, or exemplary damages, however arising, that result from
@@ -384,7 +398,9 @@ Communications made through email or [Era of Health](terminology.md#eraofhealth)
 [Our](terminology.md#eraofhealth)liability is limited whether or not [We](terminology.md#era-of-health) have been informed of the possibility of such damages, and even if a remedy set forth in this [Agreement](terminology.md#agreement) is found to have failed of its essential purpose. [We](terminology.md#eraofhealth) will have no liability for any failure or delay due to matters beyond [Our](terminology.md#era-of-health) reasonable control.
 
 ## N. Release and Indemnification
+
 **Short version** 
+
 *[You](terminology.md#user) are responsible for [Your](terminology.md#user) use of the service. If [You](terminology.md#user) harm someone else or get into a dispute with someone else, [We](terminology.md#era-of-health) will not be involved.*
 
 If [You](terminology.md#user) have a dispute with one or more [Users](terminology.md#user) or [Organizations](terminology.md#organization), [You](terminology.md#user) agree to release [Era of Health](terminology.md#eraofhealth) from any and all claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
@@ -394,6 +410,7 @@ If [You](terminology.md#user) have a dispute with one or more [Users](terminolog
 ## O. Changes to this User Agreement
 
 **Short version** 
+
 *We've opened this [Agreement](terminology.md#agreement) up for [You](terminology.md#user) to amend and contribute to. [We](terminology.md#eraofhealth) want [You](terminology.md#user) to see its historic revision and contribute to its future revision via a repository. [We](terminology.md#eraofhealth) take [Our](terminology.md#era-of-health) relationship with [You](terminology.md#user) very seriously and want to display nurture and trust through transparency. By seeing the past revisions [You](terminology.md#user) can see [Our](terminology.md#era-of-health) progression of thought over time. By allowing [You](terminology.md#user) to post suggestions, [We](terminology.md#era-of-health) are enlisting [Your](terminology.md#user) help to make improvements to this [Agreement](terminology.md#agreement) in conjunction with [Our](terminology.md#era-of-health) ever-changing world. [We](terminology.md#eraofhealth) will notify [Users](terminology.md#user) of any changes that affect [Your](terminology.md#user) rights and give [You](terminology.md#user) time to adjust to them. For non-material modifications, [Your](terminology.md#user) continued use of the [Website](terminology.md#website) constitutes an agreement to [Our](terminology.md#era-of-health) revisions of this User Agreement.*
 
 This [Agreement](terminology.md#agreement) is open to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means [We](terminology.md#era-of-health) give [You](terminology.md#user) permission to copy and re-use this [Agreement](terminology.md#agreement) with [Our](terminology.md#era-of-health) permission. No questions asked.  Note that CC0-1.0 does not grant any trademark permissions.
