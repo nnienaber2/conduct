@@ -28,7 +28,7 @@ Control what access they have.
 
 [We](terminology.md#era-of-health) have transparent Policies and Agreements. [We](terminology.md#era-of-health) show all past revisions, and allow [You](terminology.md#user) to amend them.
 
-[We](terminology.md#era-of-health) follow all HIPPA compliant practices. 
+[We](terminology.md#era-of-health) follow all [HIPAA](terminology.md#healthcare-insurance-portability-and-accountability-act-hipaa) compliant practices. 
 
 [Our](terminology.md#era-of-health) email, texts or voicemail content will not compromise [Your](terminology.md#user) privacy. 
 
