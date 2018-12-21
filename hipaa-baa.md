@@ -111,7 +111,7 @@ Its purpose is to define how [Era of Health Inc.](terminology.md#era-of-health) 
 ### 2. Follow HIPAA Rules
 [Your Organization](terminology.md#covered-entity) is responsible for using administrative, physical and technical safeguards at all times to maintain and ensure the confidentiality, privacy, and security of [Information](terminology.md#information) transmitted to [Era of Health](terminology.md#era-of-health), in accordance with the standards and requirements of [HIPAA Rules](terminology.md#HIPAA-rules).
 
-### 3. Disclose [Your Organization](terminology.md#covered-entity) changes affecting [Era of Healths](terminology.md#era-of-health) compliance with [HIPAA Rules](terminology.md#HIPAA-rules)
+### 3. Disclose Your Organization changes affecting Era of Healths compliance with HIPAA Rules
 In the event that [Your Organization](terminology.md#covered-entity) honors a request to restrict the use or disclosure of [Information](terminology.md#information) pursuant to [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.522(a) or makes revisions to its notice of privacy practices of [Your Organization](Terminology.md#covered-entity) in accordance with [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.520 that increase the limitations on uses or disclosures of [Information](terminology.md#information)  or agrees to a request by an Individual for confidential communications under [Code of Federal Regulations](terminology.md#code-of-federal-regulations) 45 CFR 164.522(b), not provide [Era of Health](terminology.md#era-of-health) any [Information](terminology.md#information) that is subject to any of those restrictions or limitations to the extent any may limit [Era of Health's](terminology.md#era-of-health) ability to use and/or disclose [Information](terminology.md#information) as permitted or required under this [Agreement](terminology.md#agreement) unless [Your Organization](terminology.md#covered-entity) notifies [Era of Health](terminology.md#era-of-health) of the restriction or limitation and [Era of Health](terminology.md#era-of-health) agrees in writing to honor the restriction or limitation. In addition, if those limitations or revisions materially increase [Era of Health's](terminology.md#era-of-health) cost of providing [Services](terminology.md#service) under the [Agreement](terminology.md#agreement) including this [Agreement](terminology.md#agreement), [Your Organization](terminology.md#covered-entity) shall reimburse [Era of Health](terminology.md#era-of-health) for such increase in cost.
 
 ### 4. Obtain Consent
@@ -125,7 +125,7 @@ In the event that [Your Organization](terminology.md#covered-entity) honors a re
 ### 1. Term
 The term of this [Agreement](terminology.md#agreement) shall commence when [Your Organization](terminology.md#covered-entity) creates an [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization) [account](terminology.md#account) (the [Effective Date](terminology.md#effective-date)). This [Agreement](terminology.md#agreement) will terminate without any further action upon the deactivation of [Your Organization](terminology.md#covered-entity) [Era of Health](terminology.md#era-of-health) [Organization](terminology.md#organization) [account](terminology.md#account) or in accordance with the below.
 
-### 2. Violation of this [Agreement](terminology.md#agreement). 
+### 2. Violation of this Agreement
 If either Party knows of a pattern or practice of the other Party that constitutes a violation of this [Agreement](terminology.md#agreement) then the non-violating Party shall provide written notice of the violation to the other Party that specifies the nature of the violation. The violating Party must correct the violation on or before thirty (30) days after receipt of the written notice. In the absence of a satisfactory correction to the non-violating Party within the specified timeframe or in the event the violation is reasonably incapable of correction, then the non-violating Party may terminate this [Agreement](terminology.md#agreement).
 
 
@@ -176,7 +176,7 @@ This [Agreement](terminology.md#agreement) may be executed in any number of coun
 ### 10. Interpretation
 Any ambiguity in this [Agreement](terminology.md#agreement) shall be resolved in favor of a meaning that permits [Your Organization](terminology.md#covered-entity) and the [Era of Health](terminology.md#era-of-health) to comply with the [HIPAA Rules](terminology.md#HIPAA-rules).
 
-### 11. How [Your Organization](terminology.md#covered-entity) agrees to this [Agreement](terminology.md#agreement)
+### 11. How Your Organization agrees to this Agreement
 By creating an [Organization](terminology.md#organization) account in [Era of Health](terminology.md#era-of-health), [You](terminology.md#user) and [Your Organization](terminology.md#covered-entity) agree [You](terminology.md#user) have read, understood, and agree to the terms above on the date the [account](terminology.md#account) is created on behalf or [Your Organization](terminology.md#covered-entity). 
 
 ### 12. Questions
